@@ -512,7 +512,7 @@ class Colors:
         return tuple(int(h[1 + i:1 + i + 2], 16) for i in (0, 2, 4))
 
 if __name__ == "__main__":
-    # load custom plugin and engine
+    # Load custom plugin and engine
     PLUGIN_LIBRARY = "build/libmyplugins.so"
     engine_file_path = "build/yolov5s-seg.engine"
 
@@ -523,39 +523,27 @@ if __name__ == "__main__":
 
     ctypes.CDLL(PLUGIN_LIBRARY)
 
-    # load coco labels
-
-    categories = ["person", "bicycle", "car", "motorcycle", "airplane", "bus", "train", "truck", "boat", "traffic light",
-            "fire hydrant", "stop sign", "parking meter", "bench", "bird", "cat", "dog", "horse", "sheep", "cow",
-            "elephant", "bear", "zebra", "giraffe", "backpack", "umbrella", "handbag", "tie", "suitcase", "frisbee",
-            "skis", "snowboard", "sports ball", "kite", "baseball bat", "baseball glove", "skateboard", "surfboard",
-            "tennis racket", "bottle", "wine glass", "cup", "fork", "knife", "spoon", "bowl", "banana", "apple",
-            "sandwich", "orange", "broccoli", "carrot", "hot dog", "pizza", "donut", "cake", "chair", "couch",
-            "potted plant", "bed", "dining table", "toilet", "tv", "laptop", "mouse", "remote", "keyboard", "cell phone",
-            "microwave", "oven", "toaster", "sink", "refrigerator", "book", "clock", "vase", "scissors", "teddy bear",
-            "hair drier", "toothbrush"]
-
-    if os.path.exists('output/'):
-        shutil.rmtree('output/')
-    os.makedirs('output/')
-    # a YoLov5TRT instance
+    # Load YOLOv5 model
     yolov5_wrapper = YoLov5TRT(engine_file_path)
+
+    # Open video stream
+    video_path = "path/to/your/video.mp4"
+    cap = cv2.VideoCapture(video_path)
+
     try:
-        print('batch size is', yolov5_wrapper.batch_size)
+        while cap.isOpened():
+            ret, frame = cap.read()
+            if not ret:
+                break
 
-        image_dir = "images/"
-        image_path_batches = get_img_path_batches(yolov5_wrapper.batch_size, image_dir)
+            frame_batch = [frame]  # Process single frames for simplicity
+            infer_frames(yolov5_wrapper, frame_batch)
 
-        for i in range(10):
-            # create a new thread to do warm_up
-            thread1 = warmUpThread(yolov5_wrapper)
-            thread1.start()
-            thread1.join()
-        for batch in image_path_batches:
-            # create a new thread to do inference
-            thread1 = inferThread(yolov5_wrapper, batch)
-            thread1.start()
-            thread1.join()
+        cap.release()
+        cv2.destroyAllWindows()
+    except KeyboardInterrupt:
+        cap.release()
+        cv2.destroyAllWindows()
     finally:
-        # destroy the instance
+        # Destroy the YOLOv5 instance
         yolov5_wrapper.destroy()
