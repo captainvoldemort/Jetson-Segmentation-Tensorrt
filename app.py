@@ -512,7 +512,6 @@ class Colors:
         return tuple(int(h[1 + i:1 + i + 2], 16) for i in (0, 2, 4))
 
 if __name__ == "__main__":
-    # Load custom plugin and engine
     PLUGIN_LIBRARY = "build/libmyplugins.so"
     engine_file_path = "build/yolov5s-seg.engine"
 
@@ -523,11 +522,13 @@ if __name__ == "__main__":
 
     ctypes.CDLL(PLUGIN_LIBRARY)
 
-    # Load YOLOv5 model
+    categories = ["Footpath","Road"]
+
+    # Create an instance of the YoLov5TRT class
     yolov5_wrapper = YoLov5TRT(engine_file_path)
 
-    # Open video stream
-    video_path = "path/to/your/video.mp4"
+    # Open a video capture object
+    video_path = "./output_video.mp4"  # Replace with your video file path
     cap = cv2.VideoCapture(video_path)
 
     try:
@@ -536,14 +537,19 @@ if __name__ == "__main__":
             if not ret:
                 break
 
-            frame_batch = [frame]  # Process single frames for simplicity
-            infer_frames(yolov5_wrapper, frame_batch)
+            # Resize the frame if needed
+            # frame = cv2.resize(frame, (width, height))
 
-        cap.release()
-        cv2.destroyAllWindows()
-    except KeyboardInterrupt:
-        cap.release()
-        cv2.destroyAllWindows()
+            # Perform inference on the current frame
+            result_image, use_time = yolov5_wrapper.infer([frame])
+
+            # Display or save the processed frame
+            cv2.imshow("Processed Frame", result_image[0])
+
+            if cv2.waitKey(1) & 0xFF == ord('q'):
+                break
+
     finally:
-        # Destroy the YOLOv5 instance
+        cap.release()
+        cv2.destroyAllWindows()
         yolov5_wrapper.destroy()
