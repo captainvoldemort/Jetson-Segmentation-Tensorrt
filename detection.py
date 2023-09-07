@@ -150,5 +150,4 @@ class YoloTRT():
         }
         print("Traffic Sign - Symbol Detected")
         print(my_dict)
-        out.write(img)
             
