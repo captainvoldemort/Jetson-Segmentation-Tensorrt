@@ -6,6 +6,8 @@ import random
 import ctypes
 import pycuda.driver as cuda
 import time
+import math
+
 
 
 EXPLICIT_BATCH = 1 << (int)(trt.NetworkDefinitionCreationFlag.EXPLICIT_BATCH)
