@@ -195,23 +195,23 @@ class YoloTRT():
         tl = (line_thickness or round(0.002 * (img.shape[0] + img.shape[1]) / 2) + 1)  # line/font thickness
         color = color or [random.randint(0, 255) for _ in range(3)]
         c1, c2 = (int(x[0]), int(x[1])), (int(x[2]), int(x[3]))
-        cv2.rectangle(img, c1, c2, color, thickness=tl, lineType=cv2.LINE_AA)
+        cv2.rectangle(img, (x - 100, y - 50), (x + w - 100, y + h - 50), (255, 0, 0), 2)
         if label:
             tf = max(tl - 1, 1)  # font thickness
             t_size = cv2.getTextSize(label, 0, fontScale=tl / 3, thickness=tf)[0]
             c2 = c1[0] + t_size[0], c1[1] - t_size[1] - 3
-            cv2.rectangle(img, c1, c2, color, -1, cv2.LINE_AA)  # filled
+            cv2.rectangle(img, (x - 100, y - 50), (x + w - 100, y + h - 50), (255, 0, 0), 2)  # filled
             cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA,)
 
     def area_dist(x, y, w, h, img):
-    img_h, img_w, _ = img.shape
-    x1 = int(x + (w // 2))
-    y1 = int(y + h)
-    x2 = int(img_w // 2)
-    y2 = int(img_h)
-    squared_diff_x = (x2 - x1) ** 2
-    squared_diff_y = (y2 - y1) ** 2
-    distance = math.sqrt(squared_diff_x + squared_diff_y)
-    area = w * h
-    # cv2.line(img, (x1,y1), (x2,y2), (0, 255, 0), 5)
-    return distance,area,img
+        img_h, img_w, _ = img.shape
+        x1 = int(x + (w // 2))
+        y1 = int(y + h)
+        x2 = int(img_w // 2)
+        y2 = int(img_h)
+        squared_diff_x = (x2 - x1) ** 2
+        squared_diff_y = (y2 - y1) ** 2
+        distance = math.sqrt(squared_diff_x + squared_diff_y)
+        area = w * h
+        # cv2.line(img, (x1,y1), (x2,y2), (0, 255, 0), 5)
+        return distance,area,img
