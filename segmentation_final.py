@@ -204,7 +204,7 @@ class YoLov5TRT(object):
             footpath_masks = np.array(footpath_masks)
             #for fp_instance in footpath_masks:
             	#cv2.imshow("Frame",fp_instance)
-            road_masks = [mask for mask,result_classid in zip(result_masks,result_classid) if result_classid==1]
+            road_masks = [mask for mask,result_classid in zip(result_masks,result_classid) if result_classid==0]
             road_masks = np.array(road_masks)
             for road_instance in road_masks:
             	cv2.imshow("Frame",road_instance)
@@ -219,13 +219,13 @@ class YoLov5TRT(object):
             	
             	total = cv2.countNonZero(white_image)
             	
-            	print(white_image.shape)
-            	print(road_instance.shape)
-            	print(white_image)
-            	print(road_instance)
+    
+            	road_instance = road_instance.astype(int)
             	intersection_mask = white_image & road_instance
             	intersection = cv2.countNonZero(intersection_mask)   
-            	print("Overlap percent = {int(intersection/total)}%")
+            	
+            	print(intersection,total) 
+            	print(f"Overlap percent = {int(intersection*100/total)}%")
     
             '''
             road_masks = [mask for mask,result_classid in zip(result_masks,result_classid) if result_classid==1]
