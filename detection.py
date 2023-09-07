@@ -6,7 +6,6 @@ import random
 import ctypes
 import pycuda.driver as cuda
 import time
-import math
 
 
 
@@ -81,7 +80,7 @@ class YoloTRT():
         image = np.ascontiguousarray(image)
         return image, image_raw, h, w
 
-    def Inference(self, img):
+    def Inference(self, img, out):
         input_image, image_raw, origin_h, origin_w = self.PreProcessImg(img)
         np.copyto(host_inputs[0], input_image.ravel())
         stream = cuda.Stream()
@@ -93,107 +92,63 @@ class YoloTRT():
         stream.synchronize()
         t2 = time.time()
         output = host_outputs[0]
-                
+
         for i in range(self.batch_size):
-            result_boxes, result_scores, result_classid = self.PostProcess(output[i * self.LEN_ALL_RESULT: (i + 1) * self.LEN_ALL_RESULT], origin_h, origin_w)
-            
+            result_boxes, result_scores, result_classid = self.PostProcess(output[i * self.LEN_ALL_RESULT: (i + 1) * self.LEN_ALL_RESULT], origin_h, origin_w, image_raw, out)
+
         det_res = []
         for j in range(len(result_boxes)):
             box = result_boxes[j]
             det = dict()
             det["class"] = self.categories[int(result_classid[j])]
             det["conf"] = result_scores[j]
-            det["box"] = box 
+            det["box"] = box
             det_res.append(det)
-            self.PlotBbox(box, img, label="{}:{:.2f}".format(self.categories[int(result_classid[j])], result_scores[j]),)
-        return det_res, t2-t1
+            self.PlotBbox(box, img, label="{}:{:.2f}".format(self.categories[int(result_classid[j])], result_scores[j]))
 
-    def PostProcess(self, output, origin_h, origin_w):
+        return det_res, t2 - t1
+
+    def PostProcess(self, output, origin_h, origin_w, image_raw, out):
         num = int(output[0])
-        if self.yolo_version == "v5":
-            pred = np.reshape(output[1:], (-1, self.LEN_ONE_RESULT))[:num, :]
-            pred = pred[:, :6]
-        elif self.yolo_version == "v7":
-            pred = np.reshape(output[1:], (-1, 6))[:num, :]
-        
+        pred = np.reshape(output[1:], (-1, self.LEN_ONE_RESULT))[:num, :]
+        pred = pred[:, :6]
+
         boxes = self.NonMaxSuppression(pred, origin_h, origin_w, conf_thres=self.CONF_THRESH, nms_thres=self.IOU_THRESHOLD)
         result_boxes = boxes[:, :4] if len(boxes) else np.array([])
         result_scores = boxes[:, 4] if len(boxes) else np.array([])
         result_classid = boxes[:, 5] if len(boxes) else np.array([])
+
+        # Process traffic signs (assuming there is only one class for traffic signs)
+        class_name = "Traffic Sign"
+        for i in range(len(result_boxes)):
+            x, y, w, h = result_boxes[i]
+            draw_bbox(image_raw, int(x), int(y), int(w), int(h))
+            self.process_signs(image_raw, x, y, w, h, out, class_name)
+
         return result_boxes, result_scores, result_classid
-    
-    def NonMaxSuppression(self, prediction, origin_h, origin_w, conf_thres=0.5, nms_thres=0.4):
-        boxes = prediction[prediction[:, 4] >= conf_thres]
-        boxes[:, :4] = self.xywh2xyxy(origin_h, origin_w, boxes[:, :4])
-        boxes[:, 0] = np.clip(boxes[:, 0], 0, origin_w -1)
-        boxes[:, 2] = np.clip(boxes[:, 2], 0, origin_w -1)
-        boxes[:, 1] = np.clip(boxes[:, 1], 0, origin_h -1)
-        boxes[:, 3] = np.clip(boxes[:, 3], 0, origin_h -1)
-        confs = boxes[:, 4]
-        boxes = boxes[np.argsort(-confs)]
-        keep_boxes = []
-        while boxes.shape[0]:
-            large_overlap = self.bbox_iou(np.expand_dims(boxes[0, :4], 0), boxes[:, :4]) > nms_thres
-            label_match = boxes[0, -1] == boxes[:, -1]
-            # Indices of boxes with lower confidence scores, large IOUs and matching labels
-            invalid = large_overlap & label_match
-            keep_boxes += [boxes[0]]
-            boxes = boxes[~invalid]
-        boxes = np.stack(keep_boxes, 0) if len(keep_boxes) else np.array([])
-        return boxes
-    
-    def xywh2xyxy(self, origin_h, origin_w, x):
-        y = np.zeros_like(x)
-        r_w = self.input_w / origin_w
-        r_h = self.input_h / origin_h
-        if r_h > r_w:
-            y[:, 0] = x[:, 0] - x[:, 2] / 2
-            y[:, 2] = x[:, 0] + x[:, 2] / 2
-            y[:, 1] = x[:, 1] - x[:, 3] / 2 - (self.input_h - r_w * origin_h) / 2
-            y[:, 3] = x[:, 1] + x[:, 3] / 2 - (self.input_h - r_w * origin_h) / 2
-            y /= r_w
-        else:
-            y[:, 0] = x[:, 0] - x[:, 2] / 2 - (self.input_w - r_h * origin_w) / 2
-            y[:, 2] = x[:, 0] + x[:, 2] / 2 - (self.input_w - r_h * origin_w) / 2
-            y[:, 1] = x[:, 1] - x[:, 3] / 2
-            y[:, 3] = x[:, 1] + x[:, 3] / 2
-            y /= r_h
-        return y
-    
-    def bbox_iou(self, box1, box2, x1y1x2y2=True):
-        if not x1y1x2y2:
-            # Transform from center and width to exact coordinates
-            b1_x1, b1_x2 = box1[:, 0] - box1[:, 2] / 2, box1[:, 0] + box1[:, 2] / 2
-            b1_y1, b1_y2 = box1[:, 1] - box1[:, 3] / 2, box1[:, 1] + box1[:, 3] / 2
-            b2_x1, b2_x2 = box2[:, 0] - box2[:, 2] / 2, box2[:, 0] + box2[:, 2] / 2
-            b2_y1, b2_y2 = box2[:, 1] - box2[:, 3] / 2, box2[:, 1] + box2[:, 3] / 2
-        else:
-            # Get the coordinates of bounding boxes
-            b1_x1, b1_y1, b1_x2, b1_y2 = box1[:, 0], box1[:, 1], box1[:, 2], box1[:, 3]
-            b2_x1, b2_y1, b2_x2, b2_y2 = box2[:, 0], box2[:, 1], box2[:, 2], box2[:, 3]
 
-        inter_rect_x1 = np.maximum(b1_x1, b2_x1)
-        inter_rect_y1 = np.maximum(b1_y1, b2_y1)
-        inter_rect_x2 = np.minimum(b1_x2, b2_x2)
-        inter_rect_y2 = np.minimum(b1_y2, b2_y2)
-        inter_area = np.clip(inter_rect_x2 - inter_rect_x1 + 1, 0, None) * \
-                     np.clip(inter_rect_y2 - inter_rect_y1 + 1, 0, None)
-        b1_area = (b1_x2 - b1_x1 + 1) * (b1_y2 - b1_y1 + 1)
-        b2_area = (b2_x2 - b2_x1 + 1) * (b2_y2 - b2_y1 + 1)
+    def process_signs(self, img, x, y, w, h, out, class_name):
+        dist_values = []
+        area_values = []
+        division_values = []
 
-        iou = inter_area / (b1_area + b2_area - inter_area + 1e-16)
+        distance, area, img = self.area_dist(x, y, w, h, img)
+        dist_values.append(round(distance, 2))
+        area_values.append(round(area, 2))
 
-        return iou
-    
-    def PlotBbox(self, x, img, color=None, label=None, line_thickness=None):
-        tl = (line_thickness or round(0.002 * (img.shape[0] + img.shape[1]) / 2) + 1)  # line/font thickness
-        color = color or [random.randint(0, 255) for _ in range(3)]
-        c1, c2 = (int(x[0]), int(x[1])), (int(x[2]), int(x[3]))
-        cv2.rectangle(img, c1, c2, color, thickness=tl, lineType=cv2.LINE_AA)
-        if label:
-            tf = max(tl - 1, 1)  # font thickness
-            t_size = cv2.getTextSize(label, 0, fontScale=tl / 3, thickness=tf)[0]
-            c2 = c1[0] + t_size[0], c1[1] - t_size[1] - 3
-            cv2.rectangle(img, c1, c2, color, -1, cv2.LINE_AA)  # filled
-            cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA,)
+        div = area_values[0] / dist_values[0]
+        division_values.append(round(div, 2))
+
+        cv2.putText(img, f"Class: {class_name}", (int(x), int(y) - 30), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 0, 0), 2)
+        cv2.putText(img, f"Division: {division_values[0]}", (int(x), int(y) - 60), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255, 0, 0), 2)
+
+        my_dict = {
+            "Class": class_name,
+            "distance": round(distance, 2),
+            "area": round(area, 2),
+            "division": round(div, 2)
+        }
+        print("Traffic Sign - Symbol Detected")
+        print(my_dict)
+        out.write(img)
             
