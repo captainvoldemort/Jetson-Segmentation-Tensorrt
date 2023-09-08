@@ -214,3 +214,17 @@ class YoloTRT():
             cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA)
 
         return distance
+
+# YOLOv8 Distance
+def area_dist(x, y, w, h, img):
+    img_h, img_w, _ = img.shape
+    x1 = int(x + (w // 2))
+    y1 = int(y + h)
+    x2 = int(img_w // 2)
+    y2 = int(img_h)
+    squared_diff_x = (x2 - x1) ** 2
+    squared_diff_y = (y2 - y1) ** 2
+    distance = math.sqrt(squared_diff_x + squared_diff_y)
+    area = w * h
+    # cv2.line(img, (x1,y1), (x2,y2), (0, 255, 0), 5)
+    return distance,area,img
