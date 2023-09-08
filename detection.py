@@ -24,7 +24,7 @@ class YoloTRT():
         self.LEN_ALL_RESULT = 38001
         self.LEN_ONE_RESULT = 38
         self.yolo_version = yolo_ver
-        self.categories = [“bus_stop”, “20_mph”, “do_not_enter”, “do_not_stop”, “do_not_turn_l”, “do_not_turn_r”, “do_not_u_turn”, “enter_left_lane”, “green_light”, “left_right_lane”, “no_parking”, “parking”, “ped_crossing”, “ped_zebra_cross”, “railway_crossing”, “red_light”, “stop”, “t_intersection_l”, “traffic_light”, “u_turn”, “warning”, “yellow_light”]
+        self.categories = ["bus_stop", "20_mph", "do_not_enter”, “do_not_stop”, “do_not_turn_l”, “do_not_turn_r”, “do_not_u_turn”, “enter_left_lane”, “green_light”, “left_right_lane”, “no_parking”, “parking”, “ped_crossing”, “ped_zebra_cross”, “railway_crossing”, “red_light”, “stop”, “t_intersection_l”, “traffic_light”, “u_turn”, “warning”, “yellow_light”]
         
         TRT_LOGGER = trt.Logger(trt.Logger.INFO)
 
@@ -187,11 +187,30 @@ class YoloTRT():
     def PlotBbox(self, x, img, color=None, label=None, line_thickness=None):
         tl = (line_thickness or round(0.002 * (img.shape[0] + img.shape[1]) / 2) + 1)  # line/font thickness
         color = color or [random.randint(0, 255) for _ in range(3)]
-        c1, c2 = (int(x[0]), int(x[1])), (int(x[2]), int(x[3]))
-        cv2.rectangle(img, (x - 100, y - 50), (x + w - 100, y + h - 50), (255, 0, 0), 2)
+
+        # Extract bounding box coordinates
+        x1, y1, x2, y2 = int(x[0]), int(x[1]), int(x[2]), int(x[3])
+        
+        # Calculate the lower center of the bounding box
+        bbox_center_x = (x1 + x2) // 2
+        bbox_bottom_y = y2
+
+        # Get the lower center of the frame
+        frame_center_x = img.shape[1] // 2
+        frame_bottom_y = img.shape[0]
+
+        # Calculate the distance between the two points
+        squared_diff_x = (frame_center_x - bbox_center_x) ** 2
+        squared_diff_y = (frame_bottom_y - bbox_bottom_y) ** 2
+        distance = math.sqrt(squared_diff_x + squared_diff_y)
+
+        # Draw the bounding box and text on the image
+        cv2.rectangle(img, (x1, y1), (x2, y2), color, 2)
         if label:
             tf = max(tl - 1, 1)  # font thickness
             t_size = cv2.getTextSize(label, 0, fontScale=tl / 3, thickness=tf)[0]
             c2 = c1[0] + t_size[0], c1[1] - t_size[1] - 3
-            cv2.rectangle(img, (x - 100, y - 50), (x + w - 100, y + h - 50), (255, 0, 0), 2)  # filled
-            cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA,)
+            cv2.rectangle(img, (x1, y1), (x2, y2), color, -1)  # filled
+            cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA)
+
+        return distance
