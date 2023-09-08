@@ -6,6 +6,7 @@ import random
 import ctypes
 import pycuda.driver as cuda
 import time
+import math
 
 
 EXPLICIT_BATCH = 1 << (int)(trt.NetworkDefinitionCreationFlag.EXPLICIT_BATCH)
@@ -23,15 +24,7 @@ class YoloTRT():
         self.LEN_ALL_RESULT = 38001
         self.LEN_ONE_RESULT = 38
         self.yolo_version = yolo_ver
-        self.categories = ["person", "bicycle", "car", "motorcycle", "airplane", "bus", "train", "truck", "boat", "traffic light",
-            "fire hydrant", "stop sign", "parking meter", "bench", "bird", "cat", "dog", "horse", "sheep", "cow",
-            "elephant", "bear", "zebra", "giraffe", "backpack", "umbrella", "handbag", "tie", "suitcase", "frisbee",
-            "skis", "snowboard", "sports ball", "kite", "baseball bat", "baseball glove", "skateboard", "surfboard",
-            "tennis racket", "bottle", "wine glass", "cup", "fork", "knife", "spoon", "bowl", "banana", "apple",
-            "sandwich", "orange", "broccoli", "carrot", "hot dog", "pizza", "donut", "cake", "chair", "couch",
-            "potted plant", "bed", "dining table", "toilet", "tv", "laptop", "mouse", "remote", "keyboard", "cell phone",
-            "microwave", "oven", "toaster", "sink", "refrigerator", "book", "clock", "vase", "scissors", "teddy bear",
-            "hair drier", "toothbrush"]
+        self.categories = [“bus_stop”, “20_mph”, “do_not_enter”, “do_not_stop”, “do_not_turn_l”, “do_not_turn_r”, “do_not_u_turn”, “enter_left_lane”, “green_light”, “left_right_lane”, “no_parking”, “parking”, “ped_crossing”, “ped_zebra_cross”, “railway_crossing”, “red_light”, “stop”, “t_intersection_l”, “traffic_light”, “u_turn”, “warning”, “yellow_light”]
         
         TRT_LOGGER = trt.Logger(trt.Logger.INFO)
 
@@ -202,16 +195,3 @@ class YoloTRT():
             c2 = c1[0] + t_size[0], c1[1] - t_size[1] - 3
             cv2.rectangle(img, (x - 100, y - 50), (x + w - 100, y + h - 50), (255, 0, 0), 2)  # filled
             cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA,)
-
-    def area_dist(x, y, w, h, img):
-        img_h, img_w, _ = img.shape
-        x1 = int(x + (w // 2))
-        y1 = int(y + h)
-        x2 = int(img_w // 2)
-        y2 = int(img_h)
-        squared_diff_x = (x2 - x1) ** 2
-        squared_diff_y = (y2 - y1) ** 2
-        distance = math.sqrt(squared_diff_x + squared_diff_y)
-        area = w * h
-        # cv2.line(img, (x1,y1), (x2,y2), (0, 255, 0), 5)
-        return distance,area,img
