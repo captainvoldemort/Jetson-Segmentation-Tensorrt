@@ -1,0 +1,2897 @@
+Postprocessing TIme: 0.03598642349243164
+Complete execution time for Engine and plugin library: 0.10942792892456055 ms
+Total preprocessing time: 0.02734994888305664
+Inference time: 0.049005746841430664 ms
+Overlap of road: 18.182508680555557
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04545140266418457
+Complete execution time for Engine and plugin library: 0.12210321426391602 ms
+Total preprocessing time: 0.03252696990966797
+Inference time: 0.048726797103881836 ms
+Overlap of road: 18.13650173611111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.035730838775634766
+Complete execution time for Engine and plugin library: 0.11746621131896973 ms
+Total preprocessing time: 0.024782657623291016
+Inference time: 0.05082845687866211 ms
+Overlap of road: 18.021484375
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03566718101501465
+Complete execution time for Engine and plugin library: 0.11513900756835938 ms
+Total preprocessing time: 0.019695758819580078
+Inference time: 0.051117897033691406 ms
+Overlap of road: 17.528428819444443
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03938555717468262
+Complete execution time for Engine and plugin library: 0.1105048656463623 ms
+Total preprocessing time: 0.03948545455932617
+Inference time: 0.04838895797729492 ms
+Overlap of road: 17.42339409722222
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03816556930541992
+Complete execution time for Engine and plugin library: 0.12655425071716309 ms
+Total preprocessing time: 0.024079084396362305
+Inference time: 0.047410011291503906 ms
+Overlap of road: 17.397352430555554
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.043349266052246094
+Complete execution time for Engine and plugin library: 0.11533808708190918 ms
+Total preprocessing time: 0.043764352798461914
+Inference time: 0.04850053787231445 ms
+Overlap of road: 17.446397569444443
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.040009498596191406
+Complete execution time for Engine and plugin library: 0.13263750076293945 ms
+Total preprocessing time: 0.0265045166015625
+Inference time: 0.047608375549316406 ms
+Overlap of road: 17.578776041666664
+Overlap of footpath: 29.12640481983548
+Postprocessing TIme: 0.062361717224121094
+Complete execution time for Engine and plugin library: 0.1370253562927246 ms
+Total preprocessing time: 0.03021860122680664
+Inference time: 0.04765129089355469 ms
+Overlap of road: 17.54275173611111
+Overlap of footpath: 28.873247595875334
+Postprocessing TIme: 0.060704946517944336
+Complete execution time for Engine and plugin library: 0.13892054557800293 ms
+Total preprocessing time: 0.027737140655517578
+Inference time: 0.04758858680725098 ms
+Overlap of road: 17.823567708333332
+Overlap of footpath: 28.319429961765728
+Postprocessing TIme: 0.057961225509643555
+Complete execution time for Engine and plugin library: 0.13360166549682617 ms
+Total preprocessing time: 0.029150962829589844
+Inference time: 0.047614097595214844 ms
+Overlap of road: 17.767144097222225
+Overlap of footpath: 26.19916579770594
+Postprocessing TIme: 0.055446624755859375
+Complete execution time for Engine and plugin library: 0.13247442245483398 ms
+Total preprocessing time: 0.03144407272338867
+Inference time: 0.049028635025024414 ms
+Overlap of road: 17.673828125
+Overlap of footpath: 25.888077858880777
+Postprocessing TIme: 0.06531381607055664
+Complete execution time for Engine and plugin library: 0.14606046676635742 ms
+Total preprocessing time: 0.025640010833740234
+Inference time: 0.04799461364746094 ms
+Overlap of road: 17.666015625
+Overlap of footpath: 25.84173328698876
+Postprocessing TIme: 0.059094905853271484
+Complete execution time for Engine and plugin library: 0.13299894332885742 ms
+Total preprocessing time: 0.026198148727416992
+Inference time: 0.047798871994018555 ms
+Overlap of road: 17.68988715277778
+Overlap of footpath: 26.16266944734098
+Postprocessing TIme: 0.07124924659729004
+Complete execution time for Engine and plugin library: 0.1455094814300537 ms
+Total preprocessing time: 0.025903940200805664
+Inference time: 0.048589229583740234 ms
+Overlap of road: 17.448350694444446
+Overlap of footpath: 25.137875101378746
+Postprocessing TIme: 0.05916023254394531
+Complete execution time for Engine and plugin library: 0.13393783569335938 ms
+Total preprocessing time: 0.029091835021972656
+Inference time: 0.047863006591796875 ms
+Overlap of road: 17.362630208333332
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03613877296447754
+Complete execution time for Engine and plugin library: 0.11362409591674805 ms
+Total preprocessing time: 0.024649620056152344
+Inference time: 0.047710418701171875 ms
+Overlap of road: 17.28884548611111
+Overlap of footpath: 25.84636774417796
+Postprocessing TIme: 0.07200908660888672
+Complete execution time for Engine and plugin library: 0.1446976661682129 ms
+Total preprocessing time: 0.023120403289794922
+Inference time: 0.04860544204711914 ms
+Overlap of road: 17.172743055555557
+Overlap of footpath: 26.306916927354884
+Postprocessing TIme: 0.06712460517883301
+Complete execution time for Engine and plugin library: 0.13913774490356445 ms
+Total preprocessing time: 0.023991823196411133
+Inference time: 0.05074739456176758 ms
+Overlap of road: 17.168619791666668
+Overlap of footpath: 26.243193141003363
+Postprocessing TIme: 0.061246395111083984
+Complete execution time for Engine and plugin library: 0.13625884056091309 ms
+Total preprocessing time: 0.031542301177978516
+Inference time: 0.04826784133911133 ms
+Overlap of road: 16.614366319444446
+Overlap of footpath: 25.82840922256981
+Postprocessing TIme: 0.06163811683654785
+Complete execution time for Engine and plugin library: 0.14194440841674805 ms
+Total preprocessing time: 0.02556777000427246
+Inference time: 0.047744035720825195 ms
+Overlap of road: 16.40625
+Overlap of footpath: 26.152241918665275
+Postprocessing TIme: 0.05606842041015625
+Complete execution time for Engine and plugin library: 0.13290071487426758 ms
+Total preprocessing time: 0.030039072036743164
+Inference time: 0.04783225059509277 ms
+Overlap of road: 16.350477430555554
+Overlap of footpath: 25.776850886339936
+Postprocessing TIme: 0.05553078651428223
+Complete execution time for Engine and plugin library: 0.13751745223999023 ms
+Total preprocessing time: 0.02485346794128418
+Inference time: 0.047865867614746094 ms
+Overlap of road: 16.071397569444446
+Overlap of footpath: 25.31919823890627
+Postprocessing TIme: 0.06035971641540527
+Complete execution time for Engine and plugin library: 0.13389062881469727 ms
+Total preprocessing time: 0.03230094909667969
+Inference time: 0.04875349998474121 ms
+Overlap of road: 16.192708333333332
+Overlap of footpath: 25.148302630054452
+Postprocessing TIme: 0.06751370429992676
+Complete execution time for Engine and plugin library: 0.14901065826416016 ms
+Total preprocessing time: 0.02308368682861328
+Inference time: 0.04796123504638672 ms
+Overlap of road: 16.19552951388889
+Overlap of footpath: 25.154095701540957
+Postprocessing TIme: 0.06386303901672363
+Complete execution time for Engine and plugin library: 0.13516998291015625 ms
+Total preprocessing time: 0.02302718162536621
+Inference time: 0.049817562103271484 ms
+Overlap of road: 15.855685763888888
+Overlap of footpath: 25.57756922720426
+Postprocessing TIme: 0.06827640533447266
+Complete execution time for Engine and plugin library: 0.14144396781921387 ms
+Total preprocessing time: 0.024813413619995117
+Inference time: 0.048845529556274414 ms
+Overlap of road: 15.494791666666666
+Overlap of footpath: 26.874058625883446
+Postprocessing TIme: 0.05693364143371582
+Complete execution time for Engine and plugin library: 0.13095760345458984 ms
+Total preprocessing time: 0.023146629333496094
+Inference time: 0.0485844612121582 ms
+Overlap of road: 15.279296875
+Overlap of footpath: 26.92156181207276
+Postprocessing TIme: 0.06544065475463867
+Complete execution time for Engine and plugin library: 0.13744664192199707 ms
+Total preprocessing time: 0.026798248291015625
+Inference time: 0.04868125915527344 ms
+Overlap of road: 15.270399305555554
+Overlap of footpath: 27.339821573398215
+Postprocessing TIme: 0.06963300704956055
+Complete execution time for Engine and plugin library: 0.145477294921875 ms
+Total preprocessing time: 0.020076751708984375
+Inference time: 0.050595760345458984 ms
+Overlap of road: 15.159722222222221
+Overlap of footpath: 28.393581276792958
+Postprocessing TIme: 0.05759096145629883
+Complete execution time for Engine and plugin library: 0.12853002548217773 ms
+Total preprocessing time: 0.022952795028686523
+Inference time: 0.050173282623291016 ms
+Overlap of road: 15.12109375
+Overlap of footpath: 28.217471903603293
+Postprocessing TIme: 0.06274032592773438
+Complete execution time for Engine and plugin library: 0.13617634773254395 ms
+Total preprocessing time: 0.025265216827392578
+Inference time: 0.0508575439453125 ms
+Overlap of road: 16.31076388888889
+Overlap of footpath: 28.554049356969063
+Postprocessing TIme: 0.08754467964172363
+Complete execution time for Engine and plugin library: 0.16846895217895508 ms
+Total preprocessing time: 0.03139352798461914
+Inference time: 0.04882502555847168 ms
+Overlap of road: 16.118272569444443
+Overlap of footpath: 28.23774765380605
+Postprocessing TIme: 0.0865936279296875
+Complete execution time for Engine and plugin library: 0.17060160636901855 ms
+Total preprocessing time: 0.03187417984008789
+Inference time: 0.04875588417053223 ms
+Overlap of road: 14.46072048611111
+Overlap of footpath: 27.91449426485923
+Postprocessing TIme: 0.06987786293029785
+Complete execution time for Engine and plugin library: 0.15078020095825195 ms
+Total preprocessing time: 0.025194168090820312
+Inference time: 0.04908132553100586 ms
+Overlap of road: 14.10959201388889
+Overlap of footpath: 28.27192677557641
+Postprocessing TIme: 0.0639963150024414
+Complete execution time for Engine and plugin library: 0.13881158828735352 ms
+Total preprocessing time: 0.024231433868408203
+Inference time: 0.04949641227722168 ms
+Overlap of road: 13.556206597222223
+Overlap of footpath: 28.836171938361723
+Postprocessing TIme: 0.07073354721069336
+Complete execution time for Engine and plugin library: 0.14471673965454102 ms
+Total preprocessing time: 0.021013975143432617
+Inference time: 0.05122566223144531 ms
+Overlap of road: 13.564453125
+Overlap of footpath: 28.821109952496816
+Postprocessing TIme: 0.06643843650817871
+Complete execution time for Engine and plugin library: 0.13897323608398438 ms
+Total preprocessing time: 0.03354001045227051
+Inference time: 0.04887986183166504 ms
+Overlap of road: 13.2265625
+Overlap of footpath: 17.37747653806048
+Postprocessing TIme: 0.06186485290527344
+Complete execution time for Engine and plugin library: 0.14456796646118164 ms
+Total preprocessing time: 0.026102304458618164
+Inference time: 0.048903465270996094 ms
+Overlap of road: 12.519314236111112
+Overlap of footpath: 30.08284092225698
+Postprocessing TIme: 0.05475878715515137
+Complete execution time for Engine and plugin library: 0.13006591796875 ms
+Total preprocessing time: 0.026281118392944336
+Inference time: 0.04768872261047363 ms
+Overlap of road: 11.987847222222223
+Overlap of footpath: 30.62217587765033
+Postprocessing TIme: 0.05518341064453125
+Complete execution time for Engine and plugin library: 0.12941646575927734 ms
+Total preprocessing time: 0.024060487747192383
+Inference time: 0.05008435249328613 ms
+Overlap of road: 11.512369791666668
+Overlap of footpath: 31.025373653110876
+Postprocessing TIme: 0.06988358497619629
+Complete execution time for Engine and plugin library: 0.14430546760559082 ms
+Total preprocessing time: 0.025664329528808594
+Inference time: 0.050282955169677734 ms
+Overlap of road: 11.397569444444445
+Overlap of footpath: 31.851465647086087
+Postprocessing TIme: 0.06762003898620605
+Complete execution time for Engine and plugin library: 0.1438288688659668 ms
+Total preprocessing time: 0.02672433853149414
+Inference time: 0.047797203063964844 ms
+Overlap of road: 11.399088541666668
+Overlap of footpath: 31.898968833275404
+Postprocessing TIme: 0.06908559799194336
+Complete execution time for Engine and plugin library: 0.14390158653259277 ms
+Total preprocessing time: 0.028422117233276367
+Inference time: 0.048636674880981445 ms
+Overlap of road: 11.536675347222221
+Overlap of footpath: 34.106129069632715
+Postprocessing TIme: 0.0698244571685791
+Complete execution time for Engine and plugin library: 0.14716243743896484 ms
+Total preprocessing time: 0.025980234146118164
+Inference time: 0.048898935317993164 ms
+Overlap of road: 11.157118055555555
+Overlap of footpath: 34.36218282933611
+Postprocessing TIme: 0.0690455436706543
+Complete execution time for Engine and plugin library: 0.14422345161437988 ms
+Total preprocessing time: 0.026070117950439453
+Inference time: 0.0475313663482666 ms
+Overlap of road: 10.913411458333332
+Overlap of footpath: 34.830842312594136
+Postprocessing TIme: 0.06951236724853516
+Complete execution time for Engine and plugin library: 0.1433854103088379 ms
+Total preprocessing time: 0.0266268253326416
+Inference time: 0.047757625579833984 ms
+Overlap of road: 10.528645833333334
+Overlap of footpath: 37.07334028501912
+Postprocessing TIme: 0.06921124458312988
+Complete execution time for Engine and plugin library: 0.14394855499267578 ms
+Total preprocessing time: 0.03399038314819336
+Inference time: 0.048844337463378906 ms
+Overlap of road: 10.027777777777777
+Overlap of footpath: 36.00220136716487
+Postprocessing TIme: 0.07009172439575195
+Complete execution time for Engine and plugin library: 0.15369701385498047 ms
+Total preprocessing time: 0.02585005760192871
+Inference time: 0.049315690994262695 ms
+Overlap of road: 10.03146701388889
+Overlap of footpath: 36.00683582435407
+Postprocessing TIme: 0.07184624671936035
+Complete execution time for Engine and plugin library: 0.14727330207824707 ms
+Total preprocessing time: 0.02682185173034668
+Inference time: 0.04866933822631836 ms
+Overlap of road: 9.565321180555555
+Overlap of footpath: 36.9001274475727
+Postprocessing TIme: 0.06394052505493164
+Complete execution time for Engine and plugin library: 0.13969945907592773 ms
+Total preprocessing time: 0.02327561378479004
+Inference time: 0.05041790008544922 ms
+Overlap of road: 8.9609375
+Overlap of footpath: 37.467848453249914
+Postprocessing TIme: 0.057215213775634766
+Complete execution time for Engine and plugin library: 0.13124322891235352 ms
+Total preprocessing time: 0.039298057556152344
+Inference time: 0.04902005195617676 ms
+Overlap of road: 8.2265625
+Overlap of footpath: 37.1677673502491
+Postprocessing TIme: 0.06856703758239746
+Complete execution time for Engine and plugin library: 0.1571800708770752 ms
+Total preprocessing time: 0.025618553161621094
+Inference time: 0.04824948310852051 ms
+Overlap of road: 8.326171875
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06606149673461914
+Complete execution time for Engine and plugin library: 0.14023327827453613 ms
+Total preprocessing time: 0.03216385841369629
+Inference time: 0.04873466491699219 ms
+Overlap of road: 6.106553819444445
+Overlap of footpath: 44.08759124087591
+Postprocessing TIme: 0.09687161445617676
+Complete execution time for Engine and plugin library: 0.18238401412963867 ms
+Total preprocessing time: 0.030646085739135742
+Inference time: 0.04779386520385742 ms
+Overlap of road: 6.223307291666667
+Overlap of footpath: 46.14297300428687
+Postprocessing TIme: 0.09125447273254395
+Complete execution time for Engine and plugin library: 0.17407941818237305 ms
+Total preprocessing time: 0.03534340858459473
+Inference time: 0.04776406288146973 ms
+Overlap of road: 6.211588541666667
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04733896255493164
+Complete execution time for Engine and plugin library: 0.13071155548095703 ms
+Total preprocessing time: 0.023462295532226562
+Inference time: 0.049736976623535156 ms
+Overlap of road: 5.567057291666667
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.037606000900268555
+Complete execution time for Engine and plugin library: 0.11121368408203125 ms
+Total preprocessing time: 0.026938915252685547
+Inference time: 0.04963970184326172 ms
+Overlap of road: 8.41579861111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03775739669799805
+Complete execution time for Engine and plugin library: 0.11460399627685547 ms
+Total preprocessing time: 0.027113914489746094
+Inference time: 0.0478365421295166 ms
+Overlap of road: 8.922960069444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.046224355697631836
+Complete execution time for Engine and plugin library: 0.12161612510681152 ms
+Total preprocessing time: 0.025364160537719727
+Inference time: 0.048783063888549805 ms
+Overlap of road: 10.925130208333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.037882328033447266
+Complete execution time for Engine and plugin library: 0.11250710487365723 ms
+Total preprocessing time: 0.030002593994140625
+Inference time: 0.04750370979309082 ms
+Overlap of road: 12.158203125
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0733494758605957
+Complete execution time for Engine and plugin library: 0.15123248100280762 ms
+Total preprocessing time: 0.025193452835083008
+Inference time: 0.04867219924926758 ms
+Overlap of road: 11.48046875
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.039136648178100586
+Complete execution time for Engine and plugin library: 0.11332583427429199 ms
+Total preprocessing time: 0.0310671329498291
+Inference time: 0.04756760597229004 ms
+Overlap of road: 12.317057291666666
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.040250539779663086
+Complete execution time for Engine and plugin library: 0.11915755271911621 ms
+Total preprocessing time: 0.02608633041381836
+Inference time: 0.04897189140319824 ms
+Overlap of road: 12.248697916666666
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03900647163391113
+Complete execution time for Engine and plugin library: 0.11455011367797852 ms
+Total preprocessing time: 0.03473949432373047
+Inference time: 0.04891562461853027 ms
+Overlap of road: 11.973741319444445
+Overlap of footpath: 60.56308654848801
+Postprocessing TIme: 0.07494497299194336
+Complete execution time for Engine and plugin library: 0.15904974937438965 ms
+Total preprocessing time: 0.028049707412719727
+Inference time: 0.04885220527648926 ms
+Overlap of road: 12.051649305555557
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03859686851501465
+Complete execution time for Engine and plugin library: 0.11578559875488281 ms
+Total preprocessing time: 0.024096250534057617
+Inference time: 0.05146455764770508 ms
+Overlap of road: 12.347005208333334
+Overlap of footpath: 61.21654501216545
+Postprocessing TIme: 0.06773614883422852
+Complete execution time for Engine and plugin library: 0.1435694694519043 ms
+Total preprocessing time: 0.02527165412902832
+Inference time: 0.049627065658569336 ms
+Overlap of road: 12.761067708333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03543210029602051
+Complete execution time for Engine and plugin library: 0.11067819595336914 ms
+Total preprocessing time: 0.021826744079589844
+Inference time: 0.0505523681640625 ms
+Overlap of road: 12.769097222222223
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04165053367614746
+Complete execution time for Engine and plugin library: 0.11450934410095215 ms
+Total preprocessing time: 0.02282238006591797
+Inference time: 0.048697710037231445 ms
+Overlap of road: 12.644965277777779
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04216885566711426
+Complete execution time for Engine and plugin library: 0.11435961723327637 ms
+Total preprocessing time: 0.03206920623779297
+Inference time: 0.048696041107177734 ms
+Overlap of road: 13.059678819444445
+Overlap of footpath: 57.979376665508056
+Postprocessing TIme: 0.06253838539123535
+Complete execution time for Engine and plugin library: 0.14358234405517578 ms
+Total preprocessing time: 0.022630929946899414
+Inference time: 0.04889941215515137 ms
+Overlap of road: 12.828993055555554
+Overlap of footpath: 58.93697138222686
+Postprocessing TIme: 0.06916594505310059
+Complete execution time for Engine and plugin library: 0.14100432395935059 ms
+Total preprocessing time: 0.026916027069091797
+Inference time: 0.048212528228759766 ms
+Overlap of road: 13.360677083333334
+Overlap of footpath: 58.022824701656816
+Postprocessing TIme: 0.07053232192993164
+Complete execution time for Engine and plugin library: 0.14593267440795898 ms
+Total preprocessing time: 0.026865720748901367
+Inference time: 0.04899168014526367 ms
+Overlap of road: 13.591145833333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04056406021118164
+Complete execution time for Engine and plugin library: 0.11668062210083008 ms
+Total preprocessing time: 0.02275371551513672
+Inference time: 0.04833865165710449 ms
+Overlap of road: 13.607421875
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04281902313232422
+Complete execution time for Engine and plugin library: 0.11432075500488281 ms
+Total preprocessing time: 0.033659934997558594
+Inference time: 0.04875016212463379 ms
+Overlap of road: 13.497178819444445
+Overlap of footpath: 56.718804310045186
+Postprocessing TIme: 0.06007027626037598
+Complete execution time for Engine and plugin library: 0.14297723770141602 ms
+Total preprocessing time: 0.01992011070251465
+Inference time: 0.05039548873901367 ms
+Overlap of road: 13.83810763888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03930044174194336
+Complete execution time for Engine and plugin library: 0.1099095344543457 ms
+Total preprocessing time: 0.019422054290771484
+Inference time: 0.04985690116882324 ms
+Overlap of road: 13.764973958333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.046838998794555664
+Complete execution time for Engine and plugin library: 0.1163794994354248 ms
+Total preprocessing time: 0.031235218048095703
+Inference time: 0.04877495765686035 ms
+Overlap of road: 13.787760416666666
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03768348693847656
+Complete execution time for Engine and plugin library: 0.1179649829864502 ms
+Total preprocessing time: 0.033792972564697266
+Inference time: 0.04772639274597168 ms
+Overlap of road: 14.153645833333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03629136085510254
+Complete execution time for Engine and plugin library: 0.11806750297546387 ms
+Total preprocessing time: 0.03866887092590332
+Inference time: 0.04871344566345215 ms
+Overlap of road: 13.804470486111112
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04020833969116211
+Complete execution time for Engine and plugin library: 0.1278982162475586 ms
+Total preprocessing time: 0.022032737731933594
+Inference time: 0.047620534896850586 ms
+Overlap of road: 14.173394097222221
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.036168575286865234
+Complete execution time for Engine and plugin library: 0.10630440711975098 ms
+Total preprocessing time: 0.023802995681762695
+Inference time: 0.047684431076049805 ms
+Overlap of road: 13.652777777777777
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05048990249633789
+Complete execution time for Engine and plugin library: 0.1222829818725586 ms
+Total preprocessing time: 0.029328346252441406
+Inference time: 0.048696041107177734 ms
+Overlap of road: 14.225260416666666
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04151272773742676
+Complete execution time for Engine and plugin library: 0.12062788009643555 ms
+Total preprocessing time: 0.024556636810302734
+Inference time: 0.04794502258300781 ms
+Overlap of road: 13.935112847222223
+Overlap of footpath: 3.1682307959680225
+Postprocessing TIme: 0.07355642318725586
+Complete execution time for Engine and plugin library: 0.1463327407836914 ms
+Total preprocessing time: 0.028277158737182617
+Inference time: 0.04880857467651367 ms
+Overlap of road: 14.003472222222221
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03481769561767578
+Complete execution time for Engine and plugin library: 0.11215639114379883 ms
+Total preprocessing time: 0.01968979835510254
+Inference time: 0.049784183502197266 ms
+Overlap of road: 14.00217013888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03867793083190918
+Complete execution time for Engine and plugin library: 0.1084589958190918 ms
+Total preprocessing time: 0.020109891891479492
+Inference time: 0.05149197578430176 ms
+Overlap of road: 14.244140625000002
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04209637641906738
+Complete execution time for Engine and plugin library: 0.11414766311645508 ms
+Total preprocessing time: 0.02094554901123047
+Inference time: 0.04881429672241211 ms
+Overlap of road: 13.424262152777777
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.039252281188964844
+Complete execution time for Engine and plugin library: 0.1093289852142334 ms
+Total preprocessing time: 0.026239395141601562
+Inference time: 0.04754042625427246 ms
+Overlap of road: 13.266059027777777
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04522061347961426
+Complete execution time for Engine and plugin library: 0.11943244934082031 ms
+Total preprocessing time: 0.02152705192565918
+Inference time: 0.04903388023376465 ms
+Overlap of road: 13.11306423611111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04139995574951172
+Complete execution time for Engine and plugin library: 0.11223554611206055 ms
+Total preprocessing time: 0.029124975204467773
+Inference time: 0.047620296478271484 ms
+Overlap of road: 12.98415798611111
+Overlap of footpath: 2.510717182250029
+Postprocessing TIme: 0.058841705322265625
+Complete execution time for Engine and plugin library: 0.13634705543518066 ms
+Total preprocessing time: 0.02454996109008789
+Inference time: 0.04906105995178223 ms
+Overlap of road: 12.998914930555555
+Overlap of footpath: 2.526358475263585
+Postprocessing TIme: 0.05696272850036621
+Complete execution time for Engine and plugin library: 0.1309490203857422 ms
+Total preprocessing time: 0.023016691207885742
+Inference time: 0.049187421798706055 ms
+Overlap of road: 12.90646701388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.043312788009643555
+Complete execution time for Engine and plugin library: 0.11605024337768555 ms
+Total preprocessing time: 0.02815985679626465
+Inference time: 0.049399614334106445 ms
+Overlap of road: 12.675130208333332
+Overlap of footpath: 2.08145058510022
+Postprocessing TIme: 0.07533931732177734
+Complete execution time for Engine and plugin library: 0.15363717079162598 ms
+Total preprocessing time: 0.02641129493713379
+Inference time: 0.04899406433105469 ms
+Overlap of road: 12.397569444444445
+Overlap of footpath: 1.9499478623566213
+Postprocessing TIme: 0.05653238296508789
+Complete execution time for Engine and plugin library: 0.13225197792053223 ms
+Total preprocessing time: 0.021729707717895508
+Inference time: 0.050319671630859375 ms
+Overlap of road: 12.375
+Overlap of footpath: 2.10867802108678
+Postprocessing TIme: 0.06402230262756348
+Complete execution time for Engine and plugin library: 0.13634681701660156 ms
+Total preprocessing time: 0.027621984481811523
+Inference time: 0.048023223876953125 ms
+Overlap of road: 12.163628472222223
+Overlap of footpath: 1.7367628316533428
+Postprocessing TIme: 0.06005358695983887
+Complete execution time for Engine and plugin library: 0.1359548568725586 ms
+Total preprocessing time: 0.02021312713623047
+Inference time: 0.050736188888549805 ms
+Overlap of road: 12.15451388888889
+Overlap of footpath: 1.737921445950643
+Postprocessing TIme: 0.05581855773925781
+Complete execution time for Engine and plugin library: 0.12711381912231445 ms
+Total preprocessing time: 0.02258157730102539
+Inference time: 0.04893302917480469 ms
+Overlap of road: 11.90060763888889
+Overlap of footpath: 2.2668288726682886
+Postprocessing TIme: 0.08196377754211426
+Complete execution time for Engine and plugin library: 0.15796422958374023 ms
+Total preprocessing time: 0.030715227127075195
+Inference time: 0.04999351501464844 ms
+Overlap of road: 11.746527777777779
+Overlap of footpath: 1.397288842544317
+Postprocessing TIme: 0.06222796440124512
+Complete execution time for Engine and plugin library: 0.14322781562805176 ms
+Total preprocessing time: 0.019986391067504883
+Inference time: 0.047611236572265625 ms
+Overlap of road: 11.721788194444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03898191452026367
+Complete execution time for Engine and plugin library: 0.10702133178710938 ms
+Total preprocessing time: 0.025992393493652344
+Inference time: 0.049085378646850586 ms
+Overlap of road: 11.574652777777777
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.041960716247558594
+Complete execution time for Engine and plugin library: 0.11733388900756836 ms
+Total preprocessing time: 0.03258061408996582
+Inference time: 0.04871988296508789 ms
+Overlap of road: 11.50021701388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04084181785583496
+Complete execution time for Engine and plugin library: 0.12273097038269043 ms
+Total preprocessing time: 0.02588486671447754
+Inference time: 0.047589778900146484 ms
+Overlap of road: 11.501302083333332
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03827071189880371
+Complete execution time for Engine and plugin library: 0.11228299140930176 ms
+Total preprocessing time: 0.025791406631469727
+Inference time: 0.04960060119628906 ms
+Overlap of road: 11.361328125
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03576302528381348
+Complete execution time for Engine and plugin library: 0.11162304878234863 ms
+Total preprocessing time: 0.0334467887878418
+Inference time: 0.04892730712890625 ms
+Overlap of road: 11.00412326388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03617238998413086
+Complete execution time for Engine and plugin library: 0.11904001235961914 ms
+Total preprocessing time: 0.022656679153442383
+Inference time: 0.049875736236572266 ms
+Overlap of road: 10.241102430555555
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04376935958862305
+Complete execution time for Engine and plugin library: 0.11680030822753906 ms
+Total preprocessing time: 0.025882482528686523
+Inference time: 0.04778313636779785 ms
+Overlap of road: 10.817708333333332
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.048501014709472656
+Complete execution time for Engine and plugin library: 0.12269115447998047 ms
+Total preprocessing time: 0.028189659118652344
+Inference time: 0.04876971244812012 ms
+Overlap of road: 14.857855902777779
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05566596984863281
+Complete execution time for Engine and plugin library: 0.13317251205444336 ms
+Total preprocessing time: 0.019327640533447266
+Inference time: 0.05207037925720215 ms
+Overlap of road: 14.84201388888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05482745170593262
+Complete execution time for Engine and plugin library: 0.1264936923980713 ms
+Total preprocessing time: 0.04037308692932129
+Inference time: 0.04784584045410156 ms
+Overlap of road: 14.665147569444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0576167106628418
+Complete execution time for Engine and plugin library: 0.14610838890075684 ms
+Total preprocessing time: 0.02051568031311035
+Inference time: 0.05147051811218262 ms
+Overlap of road: 14.47439236111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.09398174285888672
+Complete execution time for Engine and plugin library: 0.17077851295471191 ms
+Total preprocessing time: 0.028157711029052734
+Inference time: 0.04898238182067871 ms
+Overlap of road: 13.731770833333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.08543086051940918
+Complete execution time for Engine and plugin library: 0.16637325286865234 ms
+Total preprocessing time: 0.032662153244018555
+Inference time: 0.048928260803222656 ms
+Overlap of road: 8.928602430555555
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04029655456542969
+Complete execution time for Engine and plugin library: 0.12214231491088867 ms
+Total preprocessing time: 0.021162986755371094
+Inference time: 0.05078697204589844 ms
+Overlap of road: 13.711805555555557
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06303763389587402
+Complete execution time for Engine and plugin library: 0.13526678085327148 ms
+Total preprocessing time: 0.02492666244506836
+Inference time: 0.04782462120056152 ms
+Overlap of road: 13.70920138888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06284904479980469
+Complete execution time for Engine and plugin library: 0.1361098289489746 ms
+Total preprocessing time: 0.027593135833740234
+Inference time: 0.04790043830871582 ms
+Overlap of road: 13.581597222222221
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05886268615722656
+Complete execution time for Engine and plugin library: 0.13462114334106445 ms
+Total preprocessing time: 0.020730018615722656
+Inference time: 0.0492558479309082 ms
+Overlap of road: 13.25802951388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05772757530212402
+Complete execution time for Engine and plugin library: 0.12799978256225586 ms
+Total preprocessing time: 0.022125959396362305
+Inference time: 0.04867911338806152 ms
+Overlap of road: 12.53732638888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05929112434387207
+Complete execution time for Engine and plugin library: 0.13035249710083008 ms
+Total preprocessing time: 0.023642301559448242
+Inference time: 0.0485837459564209 ms
+Overlap of road: 12.05881076388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0618748664855957
+Complete execution time for Engine and plugin library: 0.13439679145812988 ms
+Total preprocessing time: 0.019495487213134766
+Inference time: 0.05135083198547363 ms
+Overlap of road: 12.120659722222223
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05710005760192871
+Complete execution time for Engine and plugin library: 0.12821388244628906 ms
+Total preprocessing time: 0.023372650146484375
+Inference time: 0.04864811897277832 ms
+Overlap of road: 12.05881076388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05394339561462402
+Complete execution time for Engine and plugin library: 0.1262345314025879 ms
+Total preprocessing time: 0.022631168365478516
+Inference time: 0.04929161071777344 ms
+Overlap of road: 11.108940972222223
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.10781383514404297
+Complete execution time for Engine and plugin library: 0.1843116283416748 ms
+Total preprocessing time: 0.031035184860229492
+Inference time: 0.0487523078918457 ms
+Overlap of road: 6.031032986111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06280303001403809
+Complete execution time for Engine and plugin library: 0.14287018775939941 ms
+Total preprocessing time: 0.02051830291748047
+Inference time: 0.05001378059387207 ms
+Overlap of road: 6.323567708333333
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.058039188385009766
+Complete execution time for Engine and plugin library: 0.12884974479675293 ms
+Total preprocessing time: 0.023824214935302734
+Inference time: 0.04988503456115723 ms
+Overlap of road: 6.042317708333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06224513053894043
+Complete execution time for Engine and plugin library: 0.13625645637512207 ms
+Total preprocessing time: 0.03477287292480469
+Inference time: 0.0490725040435791 ms
+Overlap of road: 6.418619791666667
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05492210388183594
+Complete execution time for Engine and plugin library: 0.13906478881835938 ms
+Total preprocessing time: 0.02046942710876465
+Inference time: 0.04908251762390137 ms
+Overlap of road: 6.361545138888888
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06067395210266113
+Complete execution time for Engine and plugin library: 0.13049650192260742 ms
+Total preprocessing time: 0.032427072525024414
+Inference time: 0.04798412322998047 ms
+Overlap of road: 7.169270833333333
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05469560623168945
+Complete execution time for Engine and plugin library: 0.13540196418762207 ms
+Total preprocessing time: 0.019867658615112305
+Inference time: 0.049921512603759766 ms
+Overlap of road: 7.883246527777778
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0577237606048584
+Complete execution time for Engine and plugin library: 0.12780499458312988 ms
+Total preprocessing time: 0.02400827407836914
+Inference time: 0.048872947692871094 ms
+Overlap of road: 8.538194444444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03703784942626953
+Complete execution time for Engine and plugin library: 0.11018705368041992 ms
+Total preprocessing time: 0.02644824981689453
+Inference time: 0.05016040802001953 ms
+Overlap of road: 12.828993055555554
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0955195426940918
+Complete execution time for Engine and plugin library: 0.17670583724975586 ms
+Total preprocessing time: 0.028794050216674805
+Inference time: 0.048921823501586914 ms
+Overlap of road: 13.79709201388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06340146064758301
+Complete execution time for Engine and plugin library: 0.14145517349243164 ms
+Total preprocessing time: 0.022365570068359375
+Inference time: 0.04883885383605957 ms
+Overlap of road: 13.829644097222221
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06480860710144043
+Complete execution time for Engine and plugin library: 0.1362767219543457 ms
+Total preprocessing time: 0.0239408016204834
+Inference time: 0.05063605308532715 ms
+Overlap of road: 14.520833333333332
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06297016143798828
+Complete execution time for Engine and plugin library: 0.1378157138824463 ms
+Total preprocessing time: 0.026314973831176758
+Inference time: 0.04768681526184082 ms
+Overlap of road: 14.581597222222223
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.054854393005371094
+Complete execution time for Engine and plugin library: 0.12938475608825684 ms
+Total preprocessing time: 0.026263952255249023
+Inference time: 0.04885458946228027 ms
+Overlap of road: 13.840277777777779
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05805635452270508
+Complete execution time for Engine and plugin library: 0.13367247581481934 ms
+Total preprocessing time: 0.023775100708007812
+Inference time: 0.04913592338562012 ms
+Overlap of road: 14.197265625
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05533480644226074
+Complete execution time for Engine and plugin library: 0.1286916732788086 ms
+Total preprocessing time: 0.022379398345947266
+Inference time: 0.04928731918334961 ms
+Overlap of road: 14.26736111111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.059737443923950195
+Complete execution time for Engine and plugin library: 0.13218021392822266 ms
+Total preprocessing time: 0.0273892879486084
+Inference time: 0.04771566390991211 ms
+Overlap of road: 14.2734375
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05985856056213379
+Complete execution time for Engine and plugin library: 0.13550019264221191 ms
+Total preprocessing time: 0.019942045211791992
+Inference time: 0.04772615432739258 ms
+Overlap of road: 14.412543402777779
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0552821159362793
+Complete execution time for Engine and plugin library: 0.1234750747680664 ms
+Total preprocessing time: 0.019633769989013672
+Inference time: 0.04750180244445801 ms
+Overlap of road: 14.260850694444443
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0718686580657959
+Complete execution time for Engine and plugin library: 0.1394662857055664 ms
+Total preprocessing time: 0.027393817901611328
+Inference time: 0.048270225524902344 ms
+Overlap of road: 14.161458333333332
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05435514450073242
+Complete execution time for Engine and plugin library: 0.13028192520141602 ms
+Total preprocessing time: 0.023870229721069336
+Inference time: 0.048989057540893555 ms
+Overlap of road: 8.489149305555555
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.033892154693603516
+Complete execution time for Engine and plugin library: 0.1070244312286377 ms
+Total preprocessing time: 0.02124500274658203
+Inference time: 0.0494074821472168 ms
+Overlap of road: 7.927951388888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04374074935913086
+Complete execution time for Engine and plugin library: 0.11487603187561035 ms
+Total preprocessing time: 0.03594183921813965
+Inference time: 0.04859423637390137 ms
+Overlap of road: 7.925130208333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04030346870422363
+Complete execution time for Engine and plugin library: 0.12517428398132324 ms
+Total preprocessing time: 0.02678084373474121
+Inference time: 0.04900622367858887 ms
+Overlap of road: 7.477430555555556
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03600716590881348
+Complete execution time for Engine and plugin library: 0.11206984519958496 ms
+Total preprocessing time: 0.022299528121948242
+Inference time: 0.0509493350982666 ms
+Overlap of road: 6.325954861111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04549813270568848
+Complete execution time for Engine and plugin library: 0.1191861629486084 ms
+Total preprocessing time: 0.029282808303833008
+Inference time: 0.049755096435546875 ms
+Overlap of road: 6.812500000000001
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04430794715881348
+Complete execution time for Engine and plugin library: 0.12408447265625 ms
+Total preprocessing time: 0.02524733543395996
+Inference time: 0.048703670501708984 ms
+Complete execution time for Engine and plugin library: 0.07511281967163086 ms
+Total preprocessing time: 0.020803213119506836
+Inference time: 0.05129647254943848 ms
+Overlap of road: 8.044487847222221
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03513669967651367
+Complete execution time for Engine and plugin library: 0.10750794410705566 ms
+Total preprocessing time: 0.025358200073242188
+Inference time: 0.0492095947265625 ms
+Overlap of road: 8.057725694444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04122805595397949
+Complete execution time for Engine and plugin library: 0.11612057685852051 ms
+Total preprocessing time: 0.026691913604736328
+Inference time: 0.0477910041809082 ms
+Overlap of road: 8.422309027777777
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04109907150268555
+Complete execution time for Engine and plugin library: 0.11584997177124023 ms
+Total preprocessing time: 0.022827625274658203
+Inference time: 0.049814462661743164 ms
+Overlap of road: 8.834635416666666
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.037535905838012695
+Complete execution time for Engine and plugin library: 0.11048460006713867 ms
+Total preprocessing time: 0.028382301330566406
+Inference time: 0.04784846305847168 ms
+Complete execution time for Engine and plugin library: 0.07744622230529785 ms
+Total preprocessing time: 0.02256488800048828
+Inference time: 0.049085378646850586 ms
+Overlap of road: 9.139973958333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03279900550842285
+Complete execution time for Engine and plugin library: 0.10472393035888672 ms
+Total preprocessing time: 0.023037195205688477
+Inference time: 0.050450801849365234 ms
+Overlap of road: 9.42556423611111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03814506530761719
+Complete execution time for Engine and plugin library: 0.11209607124328613 ms
+Total preprocessing time: 0.025536775588989258
+Inference time: 0.047609806060791016 ms
+Overlap of road: 9.44162326388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04313492774963379
+Complete execution time for Engine and plugin library: 0.11661553382873535 ms
+Total preprocessing time: 0.025072813034057617
+Inference time: 0.04854297637939453 ms
+Overlap of road: 10.276258680555555
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04112553596496582
+Complete execution time for Engine and plugin library: 0.11512327194213867 ms
+Total preprocessing time: 0.025693416595458984
+Inference time: 0.04771089553833008 ms
+Overlap of road: 10.89474826388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04195570945739746
+Complete execution time for Engine and plugin library: 0.11564254760742188 ms
+Total preprocessing time: 0.02454543113708496
+Inference time: 0.048729896545410156 ms
+Overlap of road: 11.269097222222223
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03838539123535156
+Complete execution time for Engine and plugin library: 0.11194634437561035 ms
+Total preprocessing time: 0.024634361267089844
+Inference time: 0.04757094383239746 ms
+Overlap of road: 11.920572916666666
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.042130231857299805
+Complete execution time for Engine and plugin library: 0.11459636688232422 ms
+Total preprocessing time: 0.02330470085144043
+Inference time: 0.048735618591308594 ms
+Overlap of road: 12.605902777777779
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0428166389465332
+Complete execution time for Engine and plugin library: 0.11512041091918945 ms
+Total preprocessing time: 0.036760568618774414
+Inference time: 0.048548221588134766 ms
+Overlap of road: 12.618272569444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03650331497192383
+Complete execution time for Engine and plugin library: 0.12209177017211914 ms
+Total preprocessing time: 0.022208452224731445
+Inference time: 0.049677133560180664 ms
+Overlap of road: 13.445529513888888
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04114580154418945
+Complete execution time for Engine and plugin library: 0.11329126358032227 ms
+Total preprocessing time: 0.021309614181518555
+Inference time: 0.04968738555908203 ms
+Overlap of road: 13.842230902777777
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04804039001464844
+Complete execution time for Engine and plugin library: 0.11947846412658691 ms
+Total preprocessing time: 0.019242048263549805
+Inference time: 0.049285173416137695 ms
+Overlap of road: 14.770182291666668
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03496670722961426
+Complete execution time for Engine and plugin library: 0.10405755043029785 ms
+Total preprocessing time: 0.03336167335510254
+Inference time: 0.04925727844238281 ms
+Overlap of road: 15.117404513888888
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.044260501861572266
+Complete execution time for Engine and plugin library: 0.12714552879333496 ms
+Total preprocessing time: 0.025981426239013672
+Inference time: 0.04780459403991699 ms
+Overlap of road: 15.59743923611111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04072260856628418
+Complete execution time for Engine and plugin library: 0.11480116844177246 ms
+Total preprocessing time: 0.03400135040283203
+Inference time: 0.048722028732299805 ms
+Overlap of road: 15.549262152777779
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0360257625579834
+Complete execution time for Engine and plugin library: 0.12118911743164062 ms
+Total preprocessing time: 0.023275375366210938
+Inference time: 0.050742149353027344 ms
+Overlap of road: 16.395616319444446
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03956484794616699
+Complete execution time for Engine and plugin library: 0.11384296417236328 ms
+Total preprocessing time: 0.04563307762145996
+Inference time: 0.0487523078918457 ms
+Overlap of road: 17.29470486111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03439617156982422
+Complete execution time for Engine and plugin library: 0.12906813621520996 ms
+Total preprocessing time: 0.019159793853759766
+Inference time: 0.04892683029174805 ms
+Overlap of road: 17.69162326388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.039159536361694336
+Complete execution time for Engine and plugin library: 0.10766363143920898 ms
+Total preprocessing time: 0.02911376953125
+Inference time: 0.04782509803771973 ms
+Overlap of road: 18.407552083333336
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03927040100097656
+Complete execution time for Engine and plugin library: 0.11675477027893066 ms
+Total preprocessing time: 0.02961874008178711
+Inference time: 0.04894590377807617 ms
+Overlap of road: 18.53667534722222
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03365039825439453
+Complete execution time for Engine and plugin library: 0.11248660087585449 ms
+Total preprocessing time: 0.025036334991455078
+Inference time: 0.04904603958129883 ms
+Overlap of road: 18.563368055555557
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.038381099700927734
+Complete execution time for Engine and plugin library: 0.11288571357727051 ms
+Total preprocessing time: 0.023900985717773438
+Inference time: 0.04770326614379883 ms
+Overlap of road: 18.939019097222225
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.039396047592163086
+Complete execution time for Engine and plugin library: 0.11128997802734375 ms
+Total preprocessing time: 0.0236968994140625
+Inference time: 0.048961639404296875 ms
+Overlap of road: 19.088541666666668
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04276752471923828
+Complete execution time for Engine and plugin library: 0.11571907997131348 ms
+Total preprocessing time: 0.02880859375
+Inference time: 0.048676252365112305 ms
+Overlap of road: 19.36176215277778
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03882169723510742
+Complete execution time for Engine and plugin library: 0.11680269241333008 ms
+Total preprocessing time: 0.02980637550354004
+Inference time: 0.048790693283081055 ms
+Overlap of road: 19.171875
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03564000129699707
+Complete execution time for Engine and plugin library: 0.11451077461242676 ms
+Total preprocessing time: 0.03716468811035156
+Inference time: 0.048958539962768555 ms
+Overlap of road: 18.977213541666664
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.09388136863708496
+Complete execution time for Engine and plugin library: 0.18558740615844727 ms
+Total preprocessing time: 0.030171871185302734
+Inference time: 0.047791481018066406 ms
+Overlap of road: 18.967447916666664
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.09243988990783691
+Complete execution time for Engine and plugin library: 0.1744680404663086 ms
+Total preprocessing time: 0.03191184997558594
+Inference time: 0.047724246978759766 ms
+Overlap of road: 18.46310763888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04434823989868164
+Complete execution time for Engine and plugin library: 0.12425088882446289 ms
+Total preprocessing time: 0.025469541549682617
+Inference time: 0.049043893814086914 ms
+Overlap of road: 18.260633680555554
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0688478946685791
+Complete execution time for Engine and plugin library: 0.14388370513916016 ms
+Total preprocessing time: 0.023035287857055664
+Inference time: 0.0488433837890625 ms
+Overlap of road: 17.884765625
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05743122100830078
+Complete execution time for Engine and plugin library: 0.12986207008361816 ms
+Total preprocessing time: 0.022785425186157227
+Inference time: 0.048744916915893555 ms
+Overlap of road: 18.09917534722222
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.041556596755981445
+Complete execution time for Engine and plugin library: 0.11334967613220215 ms
+Total preprocessing time: 0.01960277557373047
+Inference time: 0.05130767822265625 ms
+Overlap of road: 17.981119791666668
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04651188850402832
+Complete execution time for Engine and plugin library: 0.11771011352539062 ms
+Total preprocessing time: 0.030931472778320312
+Inference time: 0.048476457595825195 ms
+Overlap of road: 17.973524305555554
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03924989700317383
+Complete execution time for Engine and plugin library: 0.11946702003479004 ms
+Total preprocessing time: 0.03027796745300293
+Inference time: 0.04792022705078125 ms
+Overlap of road: 17.551649305555557
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.040563344955444336
+Complete execution time for Engine and plugin library: 0.11902070045471191 ms
+Total preprocessing time: 0.025217533111572266
+Inference time: 0.04783177375793457 ms
+Overlap of road: 17.52365451388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04654121398925781
+Complete execution time for Engine and plugin library: 0.12012362480163574 ms
+Total preprocessing time: 0.02799510955810547
+Inference time: 0.04899907112121582 ms
+Overlap of road: 17.107638888888886
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04274249076843262
+Complete execution time for Engine and plugin library: 0.12029385566711426 ms
+Total preprocessing time: 0.02752399444580078
+Inference time: 0.048805952072143555 ms
+Overlap of road: 17.23784722222222
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03471946716308594
+Complete execution time for Engine and plugin library: 0.11619782447814941 ms
+Total preprocessing time: 0.03533458709716797
+Inference time: 0.04917097091674805 ms
+Overlap of road: 16.18402777777778
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04175996780395508
+Complete execution time for Engine and plugin library: 0.12671256065368652 ms
+Total preprocessing time: 0.028733253479003906
+Inference time: 0.047765254974365234 ms
+Overlap of road: 16.06662326388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04098248481750488
+Complete execution time for Engine and plugin library: 0.1178441047668457 ms
+Total preprocessing time: 0.019778013229370117
+Inference time: 0.050145864486694336 ms
+Overlap of road: 14.64670138888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04584169387817383
+Complete execution time for Engine and plugin library: 0.11602425575256348 ms
+Total preprocessing time: 0.036221981048583984
+Inference time: 0.04849505424499512 ms
+Overlap of road: 14.112413194444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.043274879455566406
+Complete execution time for Engine and plugin library: 0.12830066680908203 ms
+Total preprocessing time: 0.02512836456298828
+Inference time: 0.05126500129699707 ms
+Overlap of road: 14.671440972222221
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03918814659118652
+Complete execution time for Engine and plugin library: 0.11583495140075684 ms
+Total preprocessing time: 0.028742551803588867
+Inference time: 0.04846382141113281 ms
+Overlap of road: 15.001519097222221
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04326200485229492
+Complete execution time for Engine and plugin library: 0.12100076675415039 ms
+Total preprocessing time: 0.028813600540161133
+Inference time: 0.04776263236999512 ms
+Overlap of road: 14.954427083333332
+Overlap of footpath: 31.29996524157108
+Postprocessing TIme: 0.0630195140838623
+Complete execution time for Engine and plugin library: 0.13988113403320312 ms
+Total preprocessing time: 0.025491714477539062
+Inference time: 0.049098968505859375 ms
+Overlap of road: 14.912109374999998
+Overlap of footpath: 31.37411655659831
+Postprocessing TIme: 0.06125497817993164
+Complete execution time for Engine and plugin library: 0.13611888885498047 ms
+Total preprocessing time: 0.02894139289855957
+Inference time: 0.047731876373291016 ms
+Overlap of road: 14.201171874999998
+Overlap of footpath: 32.819487892480595
+Postprocessing TIme: 0.055382490158081055
+Complete execution time for Engine and plugin library: 0.13234710693359375 ms
+Total preprocessing time: 0.01947474479675293
+Inference time: 0.05024266242980957 ms
+Overlap of road: 13.60720486111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04345846176147461
+Complete execution time for Engine and plugin library: 0.11342787742614746 ms
+Total preprocessing time: 0.025292634963989258
+Inference time: 0.04980731010437012 ms
+Overlap of road: 12.460286458333334
+Overlap of footpath: 32.60166840458811
+Postprocessing TIme: 0.061753273010253906
+Complete execution time for Engine and plugin library: 0.13712191581726074 ms
+Total preprocessing time: 0.021831750869750977
+Inference time: 0.04995846748352051 ms
+Overlap of road: 12.395182291666666
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03332924842834473
+Complete execution time for Engine and plugin library: 0.10542082786560059 ms
+Total preprocessing time: 0.019434452056884766
+Inference time: 0.050731658935546875 ms
+Overlap of road: 11.933159722222223
+Overlap of footpath: 29.571312709998843
+Postprocessing TIme: 0.07951998710632324
+Complete execution time for Engine and plugin library: 0.1501474380493164 ms
+Total preprocessing time: 0.02470684051513672
+Inference time: 0.048703908920288086 ms
+Overlap of road: 11.91818576388889
+Overlap of footpath: 29.603753910323256
+Postprocessing TIme: 0.061493635177612305
+Complete execution time for Engine and plugin library: 0.13520193099975586 ms
+Total preprocessing time: 0.022447824478149414
+Inference time: 0.0487370491027832 ms
+Overlap of road: 10.026692708333334
+Overlap of footpath: 30.984242845556714
+Postprocessing TIme: 0.07124519348144531
+Complete execution time for Engine and plugin library: 0.1427469253540039 ms
+Total preprocessing time: 0.029137134552001953
+Inference time: 0.04790186882019043 ms
+Overlap of road: 8.588975694444445
+Overlap of footpath: 31.550805236936625
+Postprocessing TIme: 0.054841041564941406
+Complete execution time for Engine and plugin library: 0.1321732997894287 ms
+Total preprocessing time: 0.021605253219604492
+Inference time: 0.04993939399719238 ms
+Overlap of road: 8.376302083333332
+Overlap of footpath: 31.88912061174835
+Postprocessing TIme: 0.07196640968322754
+Complete execution time for Engine and plugin library: 0.1437997817993164 ms
+Total preprocessing time: 0.027004241943359375
+Inference time: 0.049422264099121094 ms
+Overlap of road: 8.41037326388889
+Overlap of footpath: 42.72969528443981
+Postprocessing TIme: 0.09953832626342773
+Complete execution time for Engine and plugin library: 0.18073368072509766 ms
+Total preprocessing time: 0.029354095458984375
+Inference time: 0.049460411071777344 ms
+Overlap of road: 7.478515625
+Overlap of footpath: 44.30772795736299
+Postprocessing TIme: 0.09467673301696777
+Complete execution time for Engine and plugin library: 0.1775672435760498 ms
+Total preprocessing time: 0.028107166290283203
+Inference time: 0.049054622650146484 ms
+Overlap of road: 7.437065972222221
+Overlap of footpath: 44.308886571660295
+Postprocessing TIme: 0.21031951904296875
+Complete execution time for Engine and plugin library: 0.29294729232788086 ms
+Total preprocessing time: 0.030879497528076172
+Inference time: 0.047753334045410156 ms
+Overlap of road: 6.772135416666666
+Overlap of footpath: 46.85667941142393
+Postprocessing TIme: 0.21507906913757324
+Complete execution time for Engine and plugin library: 0.29894256591796875 ms
+Total preprocessing time: 0.0305788516998291
+Inference time: 0.047837257385253906 ms
+Overlap of road: 5.478515625
+Overlap of footpath: 48.80025489514541
+Postprocessing TIme: 0.1499927043914795
+Complete execution time for Engine and plugin library: 0.23398518562316895 ms
+Total preprocessing time: 0.029148578643798828
+Inference time: 0.0482633113861084 ms
+Overlap of road: 4.092230902777778
+Overlap of footpath: 37.88610821457537
+Postprocessing TIme: 0.08587360382080078
+Complete execution time for Engine and plugin library: 0.16355252265930176 ms
+Total preprocessing time: 0.022053956985473633
+Inference time: 0.04788613319396973 ms
+Overlap of road: 2.7903645833333335
+Overlap of footpath: 46.02363573166493
+Postprocessing TIme: 0.0963127613067627
+Complete execution time for Engine and plugin library: 0.17562389373779297 ms
+Total preprocessing time: 0.030337810516357422
+Inference time: 0.048880815505981445 ms
+Overlap of road: 1.708550347222222
+Overlap of footpath: 46.029428803151426
+Postprocessing TIme: 0.09217381477355957
+Complete execution time for Engine and plugin library: 0.17659425735473633 ms
+Total preprocessing time: 0.031418561935424805
+Inference time: 0.048746347427368164 ms
+Overlap of road: 1.7059461805555554
+Overlap of footpath: 46.54037770826092
+Postprocessing TIme: 0.12743926048278809
+Complete execution time for Engine and plugin library: 0.21298980712890625 ms
+Total preprocessing time: 0.031045198440551758
+Inference time: 0.047699689865112305 ms
+Overlap of road: 0.0
+Overlap of footpath: 47.64279921214228
+Postprocessing TIme: 0.06298112869262695
+Complete execution time for Engine and plugin library: 0.14199352264404297 ms
+Total preprocessing time: 0.02723217010498047
+Inference time: 0.04861760139465332 ms
+Overlap of road: 10.712022569444445
+Overlap of footpath: 47.917390800602476
+Postprocessing TIme: 0.09793329238891602
+Complete execution time for Engine and plugin library: 0.18129920959472656 ms
+Total preprocessing time: 0.0285189151763916
+Inference time: 0.047835350036621094 ms
+Overlap of road: 0.0
+Overlap of footpath: 49.439809987255245
+Postprocessing TIme: 0.0627295970916748
+Complete execution time for Engine and plugin library: 0.1393442153930664 ms
+Total preprocessing time: 0.02184128761291504
+Inference time: 0.04993176460266113 ms
+Overlap of road: 10.164713541666668
+Overlap of footpath: 52.0258370988298
+Postprocessing TIme: 0.08972907066345215
+Complete execution time for Engine and plugin library: 0.16884684562683105 ms
+Total preprocessing time: 0.03198409080505371
+Inference time: 0.04895424842834473 ms
+Overlap of road: 5.445529513888888
+Overlap of footpath: 37.15212605723555
+Postprocessing TIme: 0.06916928291320801
+Complete execution time for Engine and plugin library: 0.1503739356994629 ms
+Total preprocessing time: 0.025042057037353516
+Inference time: 0.04888486862182617 ms
+Overlap of road: 5.442708333333333
+Overlap of footpath: 37.19441547908701
+Postprocessing TIme: 0.06498980522155762
+Complete execution time for Engine and plugin library: 0.13943719863891602 ms
+Total preprocessing time: 0.022723674774169922
+Inference time: 0.05017876625061035 ms
+Overlap of road: 6.560112847222223
+Overlap of footpath: 37.13648476422199
+Postprocessing TIme: 0.0568845272064209
+Complete execution time for Engine and plugin library: 0.130051851272583 ms
+Total preprocessing time: 0.02431178092956543
+Inference time: 0.04879641532897949 ms
+Overlap of road: 8.20138888888889
+Overlap of footpath: 36.881589618815894
+Postprocessing TIme: 0.07259416580200195
+Complete execution time for Engine and plugin library: 0.1459977626800537 ms
+Total preprocessing time: 0.0232698917388916
+Inference time: 0.04875612258911133 ms
+Overlap of road: 12.05685763888889
+Overlap of footpath: 38.36229869076585
+Postprocessing TIme: 0.056821346282958984
+Complete execution time for Engine and plugin library: 0.12911438941955566 ms
+Total preprocessing time: 0.021709203720092773
+Inference time: 0.04908108711242676 ms
+Overlap of road: 13.773003472222223
+Overlap of footpath: 39.154790870119335
+Postprocessing TIme: 0.05591392517089844
+Complete execution time for Engine and plugin library: 0.12700462341308594 ms
+Total preprocessing time: 0.02043318748474121
+Inference time: 0.048273324966430664 ms
+Overlap of road: 13.329210069444445
+Overlap of footpath: 38.3721469122929
+Postprocessing TIme: 0.07012104988098145
+Complete execution time for Engine and plugin library: 0.13911724090576172 ms
+Total preprocessing time: 0.02806687355041504
+Inference time: 0.04887127876281738 ms
+Overlap of road: 13.38454861111111
+Overlap of footpath: 38.407484648360565
+Postprocessing TIme: 0.060402631759643555
+Complete execution time for Engine and plugin library: 0.13790178298950195 ms
+Total preprocessing time: 0.02071547508239746
+Inference time: 0.04890108108520508 ms
+Overlap of road: 13.307291666666668
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03972911834716797
+Complete execution time for Engine and plugin library: 0.10962581634521484 ms
+Total preprocessing time: 0.02318882942199707
+Inference time: 0.048998117446899414 ms
+Overlap of road: 13.444878472222221
+Overlap of footpath: 37.25755995828989
+Postprocessing TIme: 0.0725564956665039
+Complete execution time for Engine and plugin library: 0.14507555961608887 ms
+Total preprocessing time: 0.027744531631469727
+Inference time: 0.048743247985839844 ms
+Overlap of road: 13.458767361111112
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03410816192626953
+Complete execution time for Engine and plugin library: 0.11091136932373047 ms
+Total preprocessing time: 0.02138829231262207
+Inference time: 0.04798626899719238 ms
+Overlap of road: 13.020616319444445
+Overlap of footpath: 38.226161510833045
+Postprocessing TIme: 0.07684874534606934
+Complete execution time for Engine and plugin library: 0.14670538902282715 ms
+Total preprocessing time: 0.030572175979614258
+Inference time: 0.047739505767822266 ms
+Overlap of road: 13.214192708333334
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.037049293518066406
+Complete execution time for Engine and plugin library: 0.1156313419342041 ms
+Total preprocessing time: 0.02243518829345703
+Inference time: 0.05249142646789551 ms
+Overlap of road: 13.176866319444445
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.036345720291137695
+Complete execution time for Engine and plugin library: 0.11176156997680664 ms
+Total preprocessing time: 0.042366981506347656
+Inference time: 0.04866456985473633 ms
+Overlap of road: 11.510199652777779
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04148721694946289
+Complete execution time for Engine and plugin library: 0.1328291893005371 ms
+Total preprocessing time: 0.03684830665588379
+Inference time: 0.04872727394104004 ms
+Overlap of road: 11.668619791666666
+Overlap of footpath: 40.407832232649746
+Postprocessing TIme: 0.05768752098083496
+Complete execution time for Engine and plugin library: 0.14353156089782715 ms
+Total preprocessing time: 0.027697324752807617
+Inference time: 0.048665523529052734 ms
+Overlap of road: 11.540147569444445
+Overlap of footpath: 39.791449426485926
+Postprocessing TIme: 0.05874180793762207
+Complete execution time for Engine and plugin library: 0.13538908958435059 ms
+Total preprocessing time: 0.026555776596069336
+Inference time: 0.04880952835083008 ms
+Overlap of road: 11.16818576388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.033768415451049805
+Complete execution time for Engine and plugin library: 0.10968875885009766 ms
+Total preprocessing time: 0.02391195297241211
+Inference time: 0.05029296875 ms
+Overlap of road: 10.89084201388889
+Overlap of footpath: 34.24052832811957
+Postprocessing TIme: 0.07458782196044922
+Complete execution time for Engine and plugin library: 0.14924311637878418 ms
+Total preprocessing time: 0.018920421600341797
+Inference time: 0.04918360710144043 ms
+Overlap of road: 10.882378472222221
+Overlap of footpath: 34.25501100683582
+Postprocessing TIme: 0.07423734664916992
+Complete execution time for Engine and plugin library: 0.1426069736480713 ms
+Total preprocessing time: 0.01932549476623535
+Inference time: 0.050075531005859375 ms
+Overlap of road: 10.923611111111112
+Overlap of footpath: 37.625419997682776
+Postprocessing TIme: 0.09199213981628418
+Complete execution time for Engine and plugin library: 0.17017745971679688 ms
+Total preprocessing time: 0.03000783920288086
+Inference time: 0.04885578155517578 ms
+Overlap of road: 10.818359375
+Overlap of footpath: 36.512570965125704
+Postprocessing TIme: 0.07924032211303711
+Complete execution time for Engine and plugin library: 0.15837740898132324 ms
+Total preprocessing time: 0.02086353302001953
+Inference time: 0.050185441970825195 ms
+Overlap of road: 0.0
+Overlap of footpath: 37.05422314911366
+Postprocessing TIme: 0.040705204010009766
+Complete execution time for Engine and plugin library: 0.11205124855041504 ms
+Total preprocessing time: 0.023708820343017578
+Inference time: 0.050362586975097656 ms
+Overlap of road: 0.0
+Overlap of footpath: 36.77267987486966
+Postprocessing TIme: 0.03524041175842285
+Complete execution time for Engine and plugin library: 0.10959577560424805 ms
+Total preprocessing time: 0.019198179244995117
+Inference time: 0.04735541343688965 ms
+Overlap of road: 0.0
+Overlap of footpath: 36.210751940678946
+Postprocessing TIme: 0.04582524299621582
+Complete execution time for Engine and plugin library: 0.11288809776306152 ms
+Total preprocessing time: 0.023676395416259766
+Inference time: 0.04886031150817871 ms
+Overlap of road: 0.0
+Overlap of footpath: 36.22349669794925
+Postprocessing TIme: 0.036478281021118164
+Complete execution time for Engine and plugin library: 0.10977315902709961 ms
+Total preprocessing time: 0.025331497192382812
+Inference time: 0.04894518852233887 ms
+Overlap of road: 0.0
+Overlap of footpath: 37.30448383733055
+Postprocessing TIme: 0.04345059394836426
+Complete execution time for Engine and plugin library: 0.11831116676330566 ms
+Total preprocessing time: 0.02777695655822754
+Inference time: 0.04772758483886719 ms
+Overlap of road: 3.264322916666667
+Overlap of footpath: 38.715096744293824
+Postprocessing TIme: 0.07513093948364258
+Complete execution time for Engine and plugin library: 0.15097475051879883 ms
+Total preprocessing time: 0.0284726619720459
+Inference time: 0.05042147636413574 ms
+Overlap of road: 2.718967013888889
+Overlap of footpath: 38.81531688101031
+Postprocessing TIme: 0.06308698654174805
+Complete execution time for Engine and plugin library: 0.1422872543334961 ms
+Total preprocessing time: 0.02282261848449707
+Inference time: 0.0492396354675293 ms
+Overlap of road: 3.0553385416666665
+Overlap of footpath: 40.96860155254316
+Postprocessing TIme: 0.05923628807067871
+Complete execution time for Engine and plugin library: 0.13158226013183594 ms
+Total preprocessing time: 0.021717309951782227
+Inference time: 0.050698280334472656 ms
+Overlap of road: 3.095703125
+Overlap of footpath: 43.64615919360445
+Postprocessing TIme: 0.0571446418762207
+Complete execution time for Engine and plugin library: 0.12989306449890137 ms
+Total preprocessing time: 0.022930622100830078
+Inference time: 0.048961639404296875 ms
+Overlap of road: 3.108723958333333
+Overlap of footpath: 43.55115282122581
+Postprocessing TIme: 0.05503416061401367
+Complete execution time for Engine and plugin library: 0.12722444534301758 ms
+Total preprocessing time: 0.02356410026550293
+Inference time: 0.049025535583496094 ms
+Overlap of road: 0.0
+Overlap of footpath: 40.61348627042058
+Postprocessing TIme: 0.0333251953125
+Complete execution time for Engine and plugin library: 0.1062309741973877 ms
+Total preprocessing time: 0.02270197868347168
+Inference time: 0.04916238784790039 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.09894566098946
+Postprocessing TIme: 0.04048609733581543
+Complete execution time for Engine and plugin library: 0.11263680458068848 ms
+Total preprocessing time: 0.02203059196472168
+Inference time: 0.05014967918395996 ms
+Overlap of road: 0.0
+Overlap of footpath: 40.69169273548835
+Postprocessing TIme: 0.04057192802429199
+Complete execution time for Engine and plugin library: 0.11309123039245605 ms
+Total preprocessing time: 0.024637222290039062
+Inference time: 0.0489652156829834 ms
+Overlap of road: 0.0
+Overlap of footpath: 39.639091646390916
+Postprocessing TIme: 0.0415654182434082
+Complete execution time for Engine and plugin library: 0.1154317855834961 ms
+Total preprocessing time: 0.04020380973815918
+Inference time: 0.04844975471496582 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.53736531108794
+Postprocessing TIme: 0.042726993560791016
+Complete execution time for Engine and plugin library: 0.13164353370666504 ms
+Total preprocessing time: 0.033570289611816406
+Inference time: 0.047655344009399414 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.364152473641525
+Postprocessing TIme: 0.03765296936035156
+Complete execution time for Engine and plugin library: 0.11914443969726562 ms
+Total preprocessing time: 0.02008223533630371
+Inference time: 0.05023622512817383 ms
+Overlap of road: 0.0
+Overlap of footpath: 39.508747537944615
+Postprocessing TIme: 0.049894094467163086
+Complete execution time for Engine and plugin library: 0.12052774429321289 ms
+Total preprocessing time: 0.028245210647583008
+Inference time: 0.04916048049926758 ms
+Overlap of road: 1.965060763888889
+Overlap of footpath: 40.046344571892014
+Postprocessing TIme: 0.06029105186462402
+Complete execution time for Engine and plugin library: 0.1382582187652588 ms
+Total preprocessing time: 0.019947052001953125
+Inference time: 0.05025792121887207 ms
+Overlap of road: 2.030381944444444
+Overlap of footpath: 40.6795272853667
+Postprocessing TIme: 0.061432838439941406
+Complete execution time for Engine and plugin library: 0.13199424743652344 ms
+Total preprocessing time: 0.02533745765686035
+Inference time: 0.04774785041809082 ms
+Overlap of road: 2.0640190972222223
+Overlap of footpath: 41.59309465878809
+Postprocessing TIme: 0.05814385414123535
+Complete execution time for Engine and plugin library: 0.13154315948486328 ms
+Total preprocessing time: 0.022862911224365234
+Inference time: 0.05147242546081543 ms
+Overlap of road: 1.7899305555555558
+Overlap of footpath: 41.66087359518016
+Postprocessing TIme: 0.07013273239135742
+Complete execution time for Engine and plugin library: 0.14475727081298828 ms
+Total preprocessing time: 0.026972293853759766
+Inference time: 0.04914450645446777 ms
+Overlap of road: 1.8294270833333335
+Overlap of footpath: 41.699687174139726
+Postprocessing TIme: 0.06574153900146484
+Complete execution time for Engine and plugin library: 0.14214301109313965 ms
+Total preprocessing time: 0.02063298225402832
+Inference time: 0.05093097686767578 ms
+Overlap of road: 2.265190972222222
+Overlap of footpath: 41.386282006719966
+Postprocessing TIme: 0.07289600372314453
+Complete execution time for Engine and plugin library: 0.14475345611572266 ms
+Total preprocessing time: 0.02554488182067871
+Inference time: 0.04872608184814453 ms
+Overlap of road: 2.0850694444444446
+Overlap of footpath: 41.27042057698992
+Postprocessing TIme: 0.061094045639038086
+Complete execution time for Engine and plugin library: 0.13564276695251465 ms
+Total preprocessing time: 0.0222933292388916
+Inference time: 0.04977083206176758 ms
+Overlap of road: 1.5638020833333333
+Overlap of footpath: 40.43737689723091
+Postprocessing TIme: 0.07444882392883301
+Complete execution time for Engine and plugin library: 0.14679932594299316 ms
+Total preprocessing time: 0.02814173698425293
+Inference time: 0.04879140853881836 ms
+Overlap of road: 1.4225260416666667
+Overlap of footpath: 40.52021781948789
+Postprocessing TIme: 0.06123495101928711
+Complete execution time for Engine and plugin library: 0.13847804069519043 ms
+Total preprocessing time: 0.0336155891418457
+Inference time: 0.04862380027770996 ms
+Overlap of road: 1.8993055555555554
+Overlap of footpath: 40.186536901865374
+Postprocessing TIme: 0.06285595893859863
+Complete execution time for Engine and plugin library: 0.14544296264648438 ms
+Total preprocessing time: 0.019232511520385742
+Inference time: 0.05087399482727051 ms
+Overlap of road: 1.8843315972222223
+Overlap of footpath: 40.24504692387904
+Postprocessing TIme: 0.05676460266113281
+Complete execution time for Engine and plugin library: 0.127152681350708 ms
+Total preprocessing time: 0.0245821475982666
+Inference time: 0.04779219627380371 ms
+Overlap of road: 1.8289930555555556
+Overlap of footpath: 39.85691113428339
+Postprocessing TIme: 0.0568239688873291
+Complete execution time for Engine and plugin library: 0.12947678565979004 ms
+Total preprocessing time: 0.021616697311401367
+Inference time: 0.05134105682373047 ms
+Overlap of road: 1.410590277777778
+Overlap of footpath: 38.60850422894219
+Postprocessing TIme: 0.056381940841674805
+Complete execution time for Engine and plugin library: 0.12959933280944824 ms
+Total preprocessing time: 0.019848346710205078
+Inference time: 0.05022001266479492 ms
+Overlap of road: 2.118923611111111
+Overlap of footpath: 38.2499131039277
+Postprocessing TIme: 0.0675041675567627
+Complete execution time for Engine and plugin library: 0.13783884048461914 ms
+Total preprocessing time: 0.02909111976623535
+Inference time: 0.04788351058959961 ms
+Overlap of road: 2.400607638888889
+Overlap of footpath: 37.93766655080524
+Postprocessing TIme: 0.06720948219299316
+Complete execution time for Engine and plugin library: 0.1444566249847412 ms
+Total preprocessing time: 0.024440288543701172
+Inference time: 0.048006534576416016 ms
+Overlap of road: 2.395399305555556
+Overlap of footpath: 35.70327887846136
+Postprocessing TIme: 0.05602145195007324
+Complete execution time for Engine and plugin library: 0.12877511978149414 ms
+Total preprocessing time: 0.019841909408569336
+Inference time: 0.05131864547729492 ms
+Overlap of road: 2.3999565972222223
+Overlap of footpath: 35.65693430656934
+Postprocessing TIme: 0.06181216239929199
+Complete execution time for Engine and plugin library: 0.1332237720489502 ms
+Total preprocessing time: 0.027070283889770508
+Inference time: 0.04908251762390137 ms
+Overlap of road: 2.656467013888889
+Overlap of footpath: 36.20032441200324
+Postprocessing TIme: 0.06947135925292969
+Complete execution time for Engine and plugin library: 0.14596319198608398 ms
+Total preprocessing time: 0.025997400283813477
+Inference time: 0.049057722091674805 ms
+Overlap of road: 2.7942708333333335
+Overlap of footpath: 37.73375043448036
+Postprocessing TIme: 0.06088685989379883
+Complete execution time for Engine and plugin library: 0.13624000549316406 ms
+Total preprocessing time: 0.021078824996948242
+Inference time: 0.049154043197631836 ms
+Overlap of road: 2.668619791666667
+Overlap of footpath: 35.83825744409686
+Postprocessing TIme: 0.05899786949157715
+Complete execution time for Engine and plugin library: 0.1297013759613037 ms
+Total preprocessing time: 0.01952981948852539
+Inference time: 0.047324419021606445 ms
+Overlap of road: 5.498046875
+Overlap of footpath: 36.85957594716719
+Postprocessing TIme: 0.09303474426269531
+Complete execution time for Engine and plugin library: 0.1678619384765625 ms
+Total preprocessing time: 0.03306460380554199
+Inference time: 0.049093008041381836 ms
+Overlap of road: 5.551866319444445
+Overlap of footpath: 37.04379562043796
+Postprocessing TIme: 0.10278654098510742
+Complete execution time for Engine and plugin library: 0.19028043746948242 ms
+Total preprocessing time: 0.029961109161376953
+Inference time: 0.04972982406616211 ms
+Overlap of road: 5.547309027777778
+Overlap of footpath: 36.99687174139729
+Postprocessing TIme: 0.09017801284790039
+Complete execution time for Engine and plugin library: 0.17522168159484863 ms
+Total preprocessing time: 0.03287839889526367
+Inference time: 0.048918724060058594 ms
+Overlap of road: 2.7211371527777777
+Overlap of footpath: 36.31328930599004
+Postprocessing TIme: 0.06383466720581055
+Complete execution time for Engine and plugin library: 0.14591264724731445 ms
+Total preprocessing time: 0.03425908088684082
+Inference time: 0.04893183708190918 ms
+Overlap of road: 1.919921875
+Overlap of footpath: 37.021781948789254
+Postprocessing TIme: 0.09059429168701172
+Complete execution time for Engine and plugin library: 0.18095946311950684 ms
+Total preprocessing time: 0.029393672943115234
+Inference time: 0.04899287223815918 ms
+Overlap of road: 1.7955729166666667
+Overlap of footpath: 36.565287915652874
+Postprocessing TIme: 0.06557846069335938
+Complete execution time for Engine and plugin library: 0.14422321319580078 ms
+Total preprocessing time: 0.019683837890625
+Inference time: 0.047528743743896484 ms
+Overlap of road: 1.6963975694444446
+Overlap of footpath: 36.16151083304368
+Postprocessing TIme: 0.07132744789123535
+Complete execution time for Engine and plugin library: 0.139007568359375 ms
+Total preprocessing time: 0.02664780616760254
+Inference time: 0.04966139793395996 ms
+Overlap of road: 1.657769097222222
+Overlap of footpath: 33.14332058857607
+Postprocessing TIme: 0.05566763877868652
+Complete execution time for Engine and plugin library: 0.13223934173583984 ms
+Total preprocessing time: 0.03168463706970215
+Inference time: 0.04909014701843262 ms
+Overlap of road: 1.6610243055555558
+Overlap of footpath: 33.19951338199513
+Postprocessing TIme: 0.06182098388671875
+Complete execution time for Engine and plugin library: 0.14286088943481445 ms
+Total preprocessing time: 0.023053646087646484
+Inference time: 0.04899454116821289 ms
+Overlap of road: 1.7031250000000002
+Overlap of footpath: 33.43065693430657
+Postprocessing TIme: 0.055339813232421875
+Complete execution time for Engine and plugin library: 0.12764859199523926 ms
+Total preprocessing time: 0.019737720489501953
+Inference time: 0.049819231033325195 ms
+Overlap of road: 1.951171875
+Overlap of footpath: 32.496813810682426
+Postprocessing TIme: 0.07231330871582031
+Complete execution time for Engine and plugin library: 0.1421825885772705 ms
+Total preprocessing time: 0.026896953582763672
+Inference time: 0.04894757270812988 ms
+Overlap of road: 1.827907986111111
+Overlap of footpath: 32.577337504344804
+Postprocessing TIme: 0.057250022888183594
+Complete execution time for Engine and plugin library: 0.1333904266357422 ms
+Total preprocessing time: 0.025446414947509766
+Inference time: 0.048744916915893555 ms
+Overlap of road: 2.029296875
+Overlap of footpath: 32.25987718688448
+Postprocessing TIme: 0.05628347396850586
+Complete execution time for Engine and plugin library: 0.13074564933776855 ms
+Total preprocessing time: 0.02341485023498535
+Inference time: 0.0489499568939209 ms
+Overlap of road: 0.0
+Overlap of footpath: 31.606998030355694
+Postprocessing TIme: 0.03413057327270508
+Complete execution time for Engine and plugin library: 0.10676074028015137 ms
+Total preprocessing time: 0.01919269561767578
+Inference time: 0.047247886657714844 ms
+Overlap of road: 0.0
+Overlap of footpath: 31.4951917506662
+Postprocessing TIme: 0.0438840389251709
+Complete execution time for Engine and plugin library: 0.11059308052062988 ms
+Total preprocessing time: 0.023819684982299805
+Inference time: 0.05021190643310547 ms
+Overlap of road: 0.0
+Overlap of footpath: 32.2969528443981
+Postprocessing TIme: 0.04739689826965332
+Complete execution time for Engine and plugin library: 0.12174034118652344 ms
+Total preprocessing time: 0.042062997817993164
+Inference time: 0.04891061782836914 ms
+Overlap of road: 0.0
+Overlap of footpath: 31.51372957942301
+Postprocessing TIme: 0.03593587875366211
+Complete execution time for Engine and plugin library: 0.12717103958129883 ms
+Total preprocessing time: 0.021858930587768555
+Inference time: 0.051494598388671875 ms
+Overlap of road: 2.8133680555555554
+Overlap of footpath: 29.954234735256634
+Postprocessing TIme: 0.07516622543334961
+Complete execution time for Engine and plugin library: 0.14896845817565918 ms
+Total preprocessing time: 0.027672290802001953
+Inference time: 0.04917192459106445 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.697022361255936
+Postprocessing TIme: 0.03758549690246582
+Complete execution time for Engine and plugin library: 0.1148977279663086 ms
+Total preprocessing time: 0.03231358528137207
+Inference time: 0.048691749572753906 ms
+Overlap of road: 3.6072048611111107
+Overlap of footpath: 29.20634920634921
+Postprocessing TIme: 0.06233835220336914
+Complete execution time for Engine and plugin library: 0.14363718032836914 ms
+Total preprocessing time: 0.022834062576293945
+Inference time: 0.0489964485168457 ms
+Overlap of road: 3.507595486111111
+Overlap of footpath: 29.19070791333565
+Postprocessing TIme: 0.06129717826843262
+Complete execution time for Engine and plugin library: 0.13339900970458984 ms
+Total preprocessing time: 0.031158924102783203
+Inference time: 0.04867410659790039 ms
+Overlap of road: 3.592664930555556
+Overlap of footpath: 28.94102653226741
+Postprocessing TIme: 0.06553792953491211
+Complete execution time for Engine and plugin library: 0.14574170112609863 ms
+Total preprocessing time: 0.022916555404663086
+Inference time: 0.04906868934631348 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.528443980998727
+Postprocessing TIme: 0.040291547775268555
+Complete execution time for Engine and plugin library: 0.11260199546813965 ms
+Total preprocessing time: 0.028510570526123047
+Inference time: 0.047930002212524414 ms
+Overlap of road: 0.0
+Overlap of footpath: 28.239485575251997
+Postprocessing TIme: 0.04521775245666504
+Complete execution time for Engine and plugin library: 0.12221288681030273 ms
+Total preprocessing time: 0.02866387367248535
+Inference time: 0.04897427558898926 ms
+Overlap of road: 0.0
+Overlap of footpath: 27.86525315722396
+Postprocessing TIme: 0.033425331115722656
+Complete execution time for Engine and plugin library: 0.11159563064575195 ms
+Total preprocessing time: 0.023058652877807617
+Inference time: 0.04814910888671875 ms
+Overlap of road: 0.0
+Overlap of footpath: 27.568068589966398
+Postprocessing TIme: 0.04317951202392578
+Complete execution time for Engine and plugin library: 0.11468648910522461 ms
+Total preprocessing time: 0.03892350196838379
+Inference time: 0.0485532283782959 ms
+Overlap of road: 0.0
+Overlap of footpath: 27.568068589966398
+Postprocessing TIme: 0.042792558670043945
+Complete execution time for Engine and plugin library: 0.13082289695739746 ms
+Total preprocessing time: 0.033315420150756836
+Inference time: 0.048692941665649414 ms
+Overlap of road: 2.590060763888889
+Overlap of footpath: 26.975437376897233
+Postprocessing TIme: 0.06864118576049805
+Complete execution time for Engine and plugin library: 0.1509702205657959 ms
+Total preprocessing time: 0.028177499771118164
+Inference time: 0.04896283149719238 ms
+Overlap of road: 0.0
+Overlap of footpath: 26.006256517205422
+Postprocessing TIme: 0.039850473403930664
+Complete execution time for Engine and plugin library: 0.1172785758972168 ms
+Total preprocessing time: 0.025950908660888672
+Inference time: 0.04927992820739746 ms
+Overlap of road: 0.0
+Overlap of footpath: 23.763179237631793
+Postprocessing TIme: 0.04973578453063965
+Complete execution time for Engine and plugin library: 0.12523388862609863 ms
+Total preprocessing time: 0.02872753143310547
+Inference time: 0.04876899719238281 ms
+Overlap of road: 0.0
+Overlap of footpath: 23.379098598076702
+Postprocessing TIme: 0.04418587684631348
+Complete execution time for Engine and plugin library: 0.12195038795471191 ms
+Total preprocessing time: 0.035771846771240234
+Inference time: 0.04848647117614746 ms
+Overlap of road: 3.4609375
+Overlap of footpath: 23.400532962576758
+Postprocessing TIme: 0.06356167793273926
+Complete execution time for Engine and plugin library: 0.14823508262634277 ms
+Total preprocessing time: 0.024007797241210938
+Inference time: 0.0503695011138916 ms
+Overlap of road: 3.5464409722222223
+Overlap of footpath: 23.398795041130807
+Postprocessing TIme: 0.06594157218933105
+Complete execution time for Engine and plugin library: 0.1406247615814209 ms
+Total preprocessing time: 0.02560710906982422
+Inference time: 0.050012826919555664 ms
+Overlap of road: 0.0
+Overlap of footpath: 22.940563086548487
+Postprocessing TIme: 0.03969454765319824
+Complete execution time for Engine and plugin library: 0.1156013011932373 ms
+Total preprocessing time: 0.02529168128967285
+Inference time: 0.04782581329345703 ms
+Overlap of road: 0.0
+Overlap of footpath: 23.304947283049472
+Postprocessing TIme: 0.03941607475280762
+Complete execution time for Engine and plugin library: 0.11282873153686523 ms
+Total preprocessing time: 0.02480340003967285
+Inference time: 0.04917454719543457 ms
+Overlap of road: 0.0
+Overlap of footpath: 22.62599930483142
+Postprocessing TIme: 0.04953265190124512
+Complete execution time for Engine and plugin library: 0.12397360801696777 ms
+Total preprocessing time: 0.021230459213256836
+Inference time: 0.04858231544494629 ms
+Overlap of road: 0.0
+Overlap of footpath: 22.00150619858649
+Postprocessing TIme: 0.044887542724609375
+Complete execution time for Engine and plugin library: 0.11552596092224121 ms
+Total preprocessing time: 0.025615453720092773
+Inference time: 0.048821449279785156 ms
+Overlap of road: 0.0
+Overlap of footpath: 21.905920519059205
+Postprocessing TIme: 0.042391300201416016
+Complete execution time for Engine and plugin library: 0.11732745170593262 ms
+Total preprocessing time: 0.028628826141357422
+Inference time: 0.04961037635803223 ms
+Overlap of road: 0.0
+Overlap of footpath: 21.851465647086084
+Postprocessing TIme: 0.04925942420959473
+Complete execution time for Engine and plugin library: 0.1277613639831543 ms
+Total preprocessing time: 0.027357101440429688
+Inference time: 0.05036211013793945 ms
+Overlap of road: 0.0
+Overlap of footpath: 22.639323369250377
+Postprocessing TIme: 0.04343295097351074
+Complete execution time for Engine and plugin library: 0.12156915664672852 ms
+Total preprocessing time: 0.027022838592529297
+Inference time: 0.04846668243408203 ms
+Overlap of road: 0.0
+Overlap of footpath: 22.107519406789482
+Postprocessing TIme: 0.045751094818115234
+Complete execution time for Engine and plugin library: 0.12151336669921875 ms
+Total preprocessing time: 0.0298309326171875
+Inference time: 0.0478055477142334 ms
+Overlap of road: 4.469184027777778
+Overlap of footpath: 22.034526706059555
+Postprocessing TIme: 0.06799769401550293
+Complete execution time for Engine and plugin library: 0.14608407020568848 ms
+Total preprocessing time: 0.02376246452331543
+Inference time: 0.0486757755279541 ms
+Overlap of road: 4.52734375
+Overlap of footpath: 22.021202641640595
+Postprocessing TIme: 0.06472039222717285
+Complete execution time for Engine and plugin library: 0.13762211799621582 ms
+Total preprocessing time: 0.023082256317138672
+Inference time: 0.04915618896484375 ms
+Overlap of road: 4.559244791666667
+Overlap of footpath: 22.48638628200672
+Postprocessing TIme: 0.0564115047454834
+Complete execution time for Engine and plugin library: 0.12891578674316406 ms
+Total preprocessing time: 0.020342588424682617
+Inference time: 0.0519869327545166 ms
+Overlap of road: 4.5703125
+Overlap of footpath: 22.694357548372146
+Postprocessing TIme: 0.06607508659362793
+Complete execution time for Engine and plugin library: 0.13867688179016113 ms
+Total preprocessing time: 0.02427506446838379
+Inference time: 0.04920005798339844 ms
+Overlap of road: 4.665364583333333
+Overlap of footpath: 22.701888541304598
+Postprocessing TIme: 0.05592703819274902
+Complete execution time for Engine and plugin library: 0.12968730926513672 ms
+Total preprocessing time: 0.03224778175354004
+Inference time: 0.04911208152770996 ms
+Overlap of road: 4.576822916666667
+Overlap of footpath: 22.426138338547098
+Postprocessing TIme: 0.06100320816040039
+Complete execution time for Engine and plugin library: 0.14275336265563965 ms
+Total preprocessing time: 0.019971609115600586
+Inference time: 0.0501251220703125 ms
+Overlap of road: 4.769965277777778
+Overlap of footpath: 22.249449658208782
+Postprocessing TIme: 0.06567621231079102
+Complete execution time for Engine and plugin library: 0.13617563247680664 ms
+Total preprocessing time: 0.02467966079711914
+Inference time: 0.04867076873779297 ms
+Overlap of road: 4.837890625
+Overlap of footpath: 21.81033483953192
+Postprocessing TIme: 0.055460214614868164
+Complete execution time for Engine and plugin library: 0.12926101684570312 ms
+Total preprocessing time: 0.020442724227905273
+Inference time: 0.050571441650390625 ms
+Overlap of road: 4.979383680555555
+Overlap of footpath: 21.76109373189665
+Postprocessing TIme: 0.05663037300109863
+Complete execution time for Engine and plugin library: 0.12790966033935547 ms
+Total preprocessing time: 0.020335674285888672
+Inference time: 0.052681922912597656 ms
+Overlap of road: 5.005425347222222
+Overlap of footpath: 21.747190360329046
+Postprocessing TIme: 0.06777644157409668
+Complete execution time for Engine and plugin library: 0.14105796813964844 ms
+Total preprocessing time: 0.02852463722229004
+Inference time: 0.04891633987426758 ms
+Overlap of road: 5.057291666666667
+Overlap of footpath: 21.744293824585796
+Postprocessing TIme: 0.06500649452209473
+Complete execution time for Engine and plugin library: 0.14313220977783203 ms
+Total preprocessing time: 0.023448705673217773
+Inference time: 0.04991006851196289 ms
+Overlap of road: 5.201605902777778
+Overlap of footpath: 21.546170779747424
+Postprocessing TIme: 0.06470990180969238
+Complete execution time for Engine and plugin library: 0.13845038414001465 ms
+Total preprocessing time: 0.0238492488861084
+Inference time: 0.049364328384399414 ms
+Overlap of road: 5.279513888888889
+Overlap of footpath: 21.630749623450356
+Postprocessing TIme: 0.05972695350646973
+Complete execution time for Engine and plugin library: 0.13323593139648438 ms
+Total preprocessing time: 0.025433063507080078
+Inference time: 0.04947042465209961 ms
+Overlap of road: 5.333550347222222
+Overlap of footpath: 21.331247827598194
+Postprocessing TIme: 0.06214761734008789
+Complete execution time for Engine and plugin library: 0.1373271942138672 ms
+Total preprocessing time: 0.02485370635986328
+Inference time: 0.0495448112487793 ms
+Overlap of road: 5.490234375
+Overlap of footpath: 20.9448499594485
+Postprocessing TIme: 0.06913352012634277
+Complete execution time for Engine and plugin library: 0.14379525184631348 ms
+Total preprocessing time: 0.029584884643554688
+Inference time: 0.04787182807922363 ms
+Overlap of road: 5.509331597222222
+Overlap of footpath: 20.930946587880893
+Postprocessing TIme: 0.060213327407836914
+Complete execution time for Engine and plugin library: 0.1379556655883789 ms
+Total preprocessing time: 0.02155923843383789
+Inference time: 0.04783940315246582 ms
+Overlap of road: 5.296006944444445
+Overlap of footpath: 21.7500868960723
+Postprocessing TIme: 0.056174278259277344
+Complete execution time for Engine and plugin library: 0.1258397102355957 ms
+Total preprocessing time: 0.022674083709716797
+Inference time: 0.04763197898864746 ms
+Overlap of road: 5.400824652777778
+Overlap of footpath: 22.349090487776618
+Postprocessing TIme: 0.06157207489013672
+Complete execution time for Engine and plugin library: 0.13222718238830566 ms
+Total preprocessing time: 0.02445530891418457
+Inference time: 0.04899287223815918 ms
+Overlap of road: 5.355902777777778
+Overlap of footpath: 22.802687985169737
+Postprocessing TIme: 0.06576657295227051
+Complete execution time for Engine and plugin library: 0.13953137397766113 ms
+Total preprocessing time: 0.027153730392456055
+Inference time: 0.049263954162597656 ms
+Overlap of road: 6.131076388888889
+Overlap of footpath: 22.38384891669563
+Postprocessing TIme: 0.06434464454650879
+Complete execution time for Engine and plugin library: 0.14107203483581543 ms
+Total preprocessing time: 0.027782917022705078
+Inference time: 0.04875588417053223 ms
+Overlap of road: 6.256510416666666
+Overlap of footpath: 22.064650677789363
+Postprocessing TIme: 0.06455802917480469
+Complete execution time for Engine and plugin library: 0.14136314392089844 ms
+Total preprocessing time: 0.02682662010192871
+Inference time: 0.04941439628601074 ms
+Overlap of road: 6.274522569444445
+Overlap of footpath: 22.062912756343415
+Postprocessing TIme: 0.07198810577392578
+Complete execution time for Engine and plugin library: 0.14852595329284668 ms
+Total preprocessing time: 0.028711795806884766
+Inference time: 0.04875993728637695 ms
+Overlap of road: 6.407986111111111
+Overlap of footpath: 22.301587301587304
+Postprocessing TIme: 0.07178020477294922
+Complete execution time for Engine and plugin library: 0.1495194435119629 ms
+Total preprocessing time: 0.027045249938964844
+Inference time: 0.04999208450317383 ms
+Overlap of road: 6.652994791666666
+Overlap of footpath: 22.229753215154673
+Postprocessing TIme: 0.07132577896118164
+Complete execution time for Engine and plugin library: 0.14861416816711426 ms
+Total preprocessing time: 0.027556180953979492
+Inference time: 0.048659324645996094 ms
+Overlap of road: 7.082465277777778
+Overlap of footpath: 21.828293361140076
+Postprocessing TIme: 0.06072688102722168
+Complete execution time for Engine and plugin library: 0.137451171875 ms
+Total preprocessing time: 0.022680282592773438
+Inference time: 0.04974246025085449 ms
+Overlap of road: 7.402994791666667
+Overlap of footpath: 22.249449658208782
+Postprocessing TIme: 0.05890631675720215
+Complete execution time for Engine and plugin library: 0.13192415237426758 ms
+Total preprocessing time: 0.023468017578125
+Inference time: 0.049041748046875 ms
+Overlap of road: 7.890842013888889
+Overlap of footpath: 22.232070443749276
+Postprocessing TIme: 0.060411930084228516
+Complete execution time for Engine and plugin library: 0.13320565223693848 ms
+Total preprocessing time: 0.021756410598754883
+Inference time: 0.05025315284729004 ms
+Overlap of road: 7.854166666666666
+Overlap of footpath: 22.235546286641178
+Postprocessing TIme: 0.06342315673828125
+Complete execution time for Engine and plugin library: 0.13570761680603027 ms
+Total preprocessing time: 0.027742862701416016
+Inference time: 0.04869222640991211 ms
+Overlap of road: 8.349392361111112
+Overlap of footpath: 23.393001969644306
+Postprocessing TIme: 0.06641340255737305
+Complete execution time for Engine and plugin library: 0.14311790466308594 ms
+Total preprocessing time: 0.02673792839050293
+Inference time: 0.049134016036987305 ms
+Overlap of road: 8.49782986111111
+Overlap of footpath: 23.012976480129765
+Postprocessing TIme: 0.0709388256072998
+Complete execution time for Engine and plugin library: 0.14713716506958008 ms
+Total preprocessing time: 0.026570558547973633
+Inference time: 0.047692298889160156 ms
+Overlap of road: 10.72265625
+Overlap of footpath: 23.662959100915305
+Postprocessing TIme: 0.06090736389160156
+Complete execution time for Engine and plugin library: 0.13569402694702148 ms
+Total preprocessing time: 0.019392013549804688
+Inference time: 0.049759626388549805 ms
+Overlap of road: 10.263671875
+Overlap of footpath: 27.460317460317462
+Postprocessing TIme: 0.09972667694091797
+Complete execution time for Engine and plugin library: 0.17902517318725586 ms
+Total preprocessing time: 0.03173708915710449
+Inference time: 0.04771709442138672 ms
+Overlap of road: 11.004991319444445
+Overlap of footpath: 27.95330784381879
+Postprocessing TIme: 0.11574482917785645
+Complete execution time for Engine and plugin library: 0.20068764686584473 ms
+Total preprocessing time: 0.02949237823486328
+Inference time: 0.04909110069274902 ms
+Overlap of road: 11.030164930555555
+Overlap of footpath: 27.934190707913338
+Postprocessing TIme: 0.10898685455322266
+Complete execution time for Engine and plugin library: 0.192901611328125 ms
+Total preprocessing time: 0.030271291732788086
+Inference time: 0.047708988189697266 ms
+Overlap of road: 11.663194444444445
+Overlap of footpath: 28.563897578496118
+Postprocessing TIme: 0.11958980560302734
+Complete execution time for Engine and plugin library: 0.20171117782592773 ms
+Total preprocessing time: 0.031584978103637695
+Inference time: 0.04775261878967285 ms
+Overlap of road: 12.490234375
+Overlap of footpath: 28.96999188969992
+Postprocessing TIme: 0.09025096893310547
+Complete execution time for Engine and plugin library: 0.17423319816589355 ms
+Total preprocessing time: 0.028540849685668945
+Inference time: 0.04872632026672363 ms
+Overlap of road: 13.03537326388889
+Overlap of footpath: 29.32684509326845
+Postprocessing TIme: 0.09019017219543457
+Complete execution time for Engine and plugin library: 0.17220592498779297 ms
+Total preprocessing time: 0.032671213150024414
+Inference time: 0.04770660400390625 ms
+Overlap of road: 0.0
+Overlap of footpath: 27.37921445950643
+Postprocessing TIme: 0.03926444053649902
+Complete execution time for Engine and plugin library: 0.11989951133728027 ms
+Total preprocessing time: 0.02409982681274414
+Inference time: 0.049390554428100586 ms
+Overlap of road: 13.600043402777779
+Overlap of footpath: 27.59761325454756
+Postprocessing TIme: 0.061575889587402344
+Complete execution time for Engine and plugin library: 0.13533377647399902 ms
+Total preprocessing time: 0.02168560028076172
+Inference time: 0.049447059631347656 ms
+Overlap of road: 13.620008680555557
+Overlap of footpath: 27.640481983547676
+Postprocessing TIme: 0.06133246421813965
+Complete execution time for Engine and plugin library: 0.1327674388885498 ms
+Total preprocessing time: 0.028435230255126953
+Inference time: 0.04915022850036621 ms
+Overlap of road: 0.0
+Overlap of footpath: 28.673386629591008
+Postprocessing TIme: 0.04071617126464844
+Complete execution time for Engine and plugin library: 0.11861038208007812 ms
+Total preprocessing time: 0.028424501419067383
+Inference time: 0.04908561706542969 ms
+Overlap of road: 14.029296875
+Overlap of footpath: 29.098018769551615
+Postprocessing TIme: 0.07288169860839844
+Complete execution time for Engine and plugin library: 0.1506633758544922 ms
+Total preprocessing time: 0.02289295196533203
+Inference time: 0.04865670204162598 ms
+Overlap of road: 13.744791666666668
+Overlap of footpath: 28.92190939636195
+Postprocessing TIme: 0.05767679214477539
+Complete execution time for Engine and plugin library: 0.12950944900512695 ms
+Total preprocessing time: 0.024953126907348633
+Inference time: 0.048158884048461914 ms
+Overlap of road: 0.0
+Overlap of footpath: 28.59054570733403
+Postprocessing TIme: 0.0403139591217041
+Complete execution time for Engine and plugin library: 0.11372756958007812 ms
+Total preprocessing time: 0.03414297103881836
+Inference time: 0.048773765563964844 ms
+Overlap of road: 0.0
+Overlap of footpath: 28.015293708724364
+Postprocessing TIme: 0.034513235092163086
+Complete execution time for Engine and plugin library: 0.11774253845214844 ms
+Total preprocessing time: 0.021869421005249023
+Inference time: 0.04958224296569824 ms
+Overlap of road: 0.0
+Overlap of footpath: 27.912756343413275
+Postprocessing TIme: 0.04749941825866699
+Complete execution time for Engine and plugin library: 0.11932563781738281 ms
+Total preprocessing time: 0.02239394187927246
+Inference time: 0.04908275604248047 ms
+Overlap of road: 0.0
+Overlap of footpath: 28.389526126752408
+Postprocessing TIme: 0.049004316329956055
+Complete execution time for Engine and plugin library: 0.1208031177520752 ms
+Total preprocessing time: 0.030127286911010742
+Inference time: 0.04781222343444824 ms
+Overlap of road: 0.0
+Overlap of footpath: 27.583130575831305
+Postprocessing TIme: 0.03425335884094238
+Complete execution time for Engine and plugin library: 0.11262321472167969 ms
+Total preprocessing time: 0.02050948143005371
+Inference time: 0.049736976623535156 ms
+Overlap of road: 0.0
+Overlap of footpath: 30.194647201946474
+Postprocessing TIme: 0.06415128707885742
+Complete execution time for Engine and plugin library: 0.13524460792541504 ms
+Total preprocessing time: 0.03068375587463379
+Inference time: 0.04866218566894531 ms
+Overlap of road: 15.514105902777779
+Overlap of footpath: 28.64500057930715
+Postprocessing TIme: 0.05728626251220703
+Complete execution time for Engine and plugin library: 0.13695478439331055 ms
+Total preprocessing time: 0.022986412048339844
+Inference time: 0.04888010025024414 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.542347352566328
+Postprocessing TIme: 0.055550575256347656
+Complete execution time for Engine and plugin library: 0.12773680686950684 ms
+Total preprocessing time: 0.03880167007446289
+Inference time: 0.048784732818603516 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.590429845904296
+Postprocessing TIme: 0.03434872627258301
+Complete execution time for Engine and plugin library: 0.12220263481140137 ms
+Total preprocessing time: 0.020214080810546875
+Inference time: 0.049117088317871094 ms
+Overlap of road: 0.0
+Overlap of footpath: 28.823427181091414
+Postprocessing TIme: 0.0472564697265625
+Complete execution time for Engine and plugin library: 0.11686587333679199 ms
+Total preprocessing time: 0.030821561813354492
+Inference time: 0.04778480529785156 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.021550225929786
+Postprocessing TIme: 0.044189453125
+Complete execution time for Engine and plugin library: 0.12355685234069824 ms
+Total preprocessing time: 0.0285184383392334
+Inference time: 0.04997611045837402 ms
+Overlap of road: 0.0
+Overlap of footpath: 30.18479898041942
+Postprocessing TIme: 0.04654240608215332
+Complete execution time for Engine and plugin library: 0.12536311149597168 ms
+Total preprocessing time: 0.026708602905273438
+Inference time: 0.047789812088012695 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.07658440505156
+Postprocessing TIme: 0.04411673545837402
+Complete execution time for Engine and plugin library: 0.11914443969726562 ms
+Total preprocessing time: 0.023421525955200195
+Inference time: 0.04868364334106445 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.936276213648476
+Postprocessing TIme: 0.04273176193237305
+Complete execution time for Engine and plugin library: 0.11509585380554199 ms
+Total preprocessing time: 0.03166699409484863
+Inference time: 0.0478665828704834 ms
+Overlap of road: 0.0
+Overlap of footpath: 30.215502259297878
+Postprocessing TIme: 0.04351806640625
+Complete execution time for Engine and plugin library: 0.12331223487854004 ms
+Total preprocessing time: 0.027743816375732422
+Inference time: 0.04882669448852539 ms
+Overlap of road: 0.0
+Overlap of footpath: 30.350480824933378
+Postprocessing TIme: 0.03998732566833496
+Complete execution time for Engine and plugin library: 0.11687946319580078 ms
+Total preprocessing time: 0.019169092178344727
+Inference time: 0.048568010330200195 ms
+Overlap of road: 0.0
+Overlap of footpath: 30.02954466458116
+Postprocessing TIme: 0.03585529327392578
+Complete execution time for Engine and plugin library: 0.1042015552520752 ms
+Total preprocessing time: 0.020032882690429688
+Inference time: 0.04923295974731445 ms
+Overlap of road: 24.26996527777778
+Overlap of footpath: 29.54350596686363
+Postprocessing TIme: 0.13353466987609863
+Complete execution time for Engine and plugin library: 0.20801782608032227 ms
+Total preprocessing time: 0.029878616333007812
+Inference time: 0.04912519454956055 ms
+Overlap of road: 3.087890625
+Overlap of footpath: 29.739891090256055
+Postprocessing TIme: 0.07134294509887695
+Complete execution time for Engine and plugin library: 0.15060925483703613 ms
+Total preprocessing time: 0.02144145965576172
+Inference time: 0.04929804801940918 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.81346309813463
+Postprocessing TIme: 0.03633928298950195
+Complete execution time for Engine and plugin library: 0.10734724998474121 ms
+Total preprocessing time: 0.030390501022338867
+Inference time: 0.047768354415893555 ms
+Overlap of road: 0.0
+Overlap of footpath: 29.785077047850773
+Postprocessing TIme: 0.034689903259277344
+Complete execution time for Engine and plugin library: 0.1131594181060791 ms
+Total preprocessing time: 0.029101848602294922
+Inference time: 0.04767131805419922 ms
+Overlap of road: 22.421223958333332
+Overlap of footpath: 31.19453134051674
+Postprocessing TIme: 0.10357117652893066
+Complete execution time for Engine and plugin library: 0.18582606315612793 ms
+Total preprocessing time: 0.02906322479248047
+Inference time: 0.04806995391845703 ms
+Overlap of road: 22.793836805555557
+Overlap of footpath: 31.648128837909862
+Postprocessing TIme: 0.09116148948669434
+Complete execution time for Engine and plugin library: 0.17255830764770508 ms
+Total preprocessing time: 0.03186964988708496
+Inference time: 0.05011892318725586 ms
+Overlap of road: 25.840928819444443
+Overlap of footpath: 30.780326729231838
+Postprocessing TIme: 0.08674407005310059
+Complete execution time for Engine and plugin library: 0.17311573028564453 ms
+Total preprocessing time: 0.031625986099243164
+Inference time: 0.0484774112701416 ms
+Overlap of road: 26.104383680555554
+Overlap of footpath: 30.64129301355579
+Postprocessing TIme: 0.08953261375427246
+Complete execution time for Engine and plugin library: 0.17410492897033691 ms
+Total preprocessing time: 0.027804136276245117
+Inference time: 0.048449039459228516 ms
+Overlap of road: 25.76410590277778
+Overlap of footpath: 31.156876375854477
+Postprocessing TIme: 0.08946847915649414
+Complete execution time for Engine and plugin library: 0.1700131893157959 ms
+Total preprocessing time: 0.027491331100463867
+Inference time: 0.04872441291809082 ms
+Overlap of road: 25.838541666666664
+Overlap of footpath: 30.929208666434942
+Postprocessing TIme: 0.09893655776977539
+Complete execution time for Engine and plugin library: 0.17972159385681152 ms
+Total preprocessing time: 0.028940677642822266
+Inference time: 0.04978489875793457 ms
+Overlap of road: 26.539930555555557
+Overlap of footpath: 30.86085042289422
+Postprocessing TIme: 0.09632277488708496
+Complete execution time for Engine and plugin library: 0.1794283390045166 ms
+Total preprocessing time: 0.03554725646972656
+Inference time: 0.048707008361816406 ms
+Overlap of road: 24.77712673611111
+Overlap of footpath: 30.75367860039393
+Postprocessing TIme: 0.09833955764770508
+Complete execution time for Engine and plugin library: 0.1868746280670166 ms
+Total preprocessing time: 0.029386520385742188
+Inference time: 0.04902982711791992 ms
+Overlap of road: 24.39995659722222
+Overlap of footpath: 30.27285366701425
+Postprocessing TIme: 0.0885629653930664
+Complete execution time for Engine and plugin library: 0.17127680778503418 ms
+Total preprocessing time: 0.03361392021179199
+Inference time: 0.048522233963012695 ms
+Overlap of road: 23.752604166666664
+Overlap of footpath: 30.64824469933959
+Postprocessing TIme: 0.08703756332397461
+Complete execution time for Engine and plugin library: 0.17344284057617188 ms
+Total preprocessing time: 0.027695417404174805
+Inference time: 0.04878664016723633 ms
+Overlap of road: 24.903645833333332
+Overlap of footpath: 30.631444792028734
+Postprocessing TIme: 0.08945608139038086
+Complete execution time for Engine and plugin library: 0.17080092430114746 ms
+Total preprocessing time: 0.030261754989624023
+Inference time: 0.04872536659240723 ms
+Overlap of road: 24.979383680555557
+Overlap of footpath: 30.627389641988184
+Postprocessing TIme: 0.08833074569702148
+Complete execution time for Engine and plugin library: 0.17186307907104492 ms
+Total preprocessing time: 0.028095722198486328
+Inference time: 0.04866981506347656 ms
+Overlap of road: 26.615885416666668
+Overlap of footpath: 30.179585216081566
+Postprocessing TIme: 0.08830714225769043
+Complete execution time for Engine and plugin library: 0.1696021556854248 ms
+Total preprocessing time: 0.02902698516845703
+Inference time: 0.04919695854187012 ms
+Overlap of road: 24.897135416666664
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.08230090141296387
+Complete execution time for Engine and plugin library: 0.16080975532531738 ms
+Total preprocessing time: 0.024728775024414062
+Inference time: 0.0477449893951416 ms
+Overlap of road: 24.43967013888889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.056201934814453125
+Complete execution time for Engine and plugin library: 0.12892651557922363 ms
+Total preprocessing time: 0.02214789390563965
+Inference time: 0.05251669883728027 ms
+Overlap of road: 25.620442708333336
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.058802127838134766
+Complete execution time for Engine and plugin library: 0.13373541831970215 ms
+Total preprocessing time: 0.023597240447998047
+Inference time: 0.0478057861328125 ms
+Overlap of road: 24.82660590277778
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06982088088989258
+Complete execution time for Engine and plugin library: 0.1414961814880371 ms
+Total preprocessing time: 0.028000831604003906
+Inference time: 0.04773116111755371 ms
+Overlap of road: 24.75564236111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05593419075012207
+Complete execution time for Engine and plugin library: 0.1319408416748047 ms
+Total preprocessing time: 0.019550085067749023
+Inference time: 0.050504207611083984 ms
+Overlap of road: 25.752170138888893
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06245732307434082
+Complete execution time for Engine and plugin library: 0.1328115463256836 ms
+Total preprocessing time: 0.019755840301513672
+Inference time: 0.04725027084350586 ms
+Overlap of road: 26.61957465277778
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.060877323150634766
+Complete execution time for Engine and plugin library: 0.12817788124084473 ms
+Total preprocessing time: 0.021932125091552734
+Inference time: 0.05030703544616699 ms
+Overlap of road: 27.20486111111111
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.05748319625854492
+Complete execution time for Engine and plugin library: 0.13007307052612305 ms
+Total preprocessing time: 0.022362709045410156
+Inference time: 0.05089402198791504 ms
+Overlap of road: 27.553602430555557
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.10653185844421387
+Complete execution time for Engine and plugin library: 0.1854243278503418 ms
+Total preprocessing time: 0.03454446792602539
+Inference time: 0.04890084266662598 ms
+Overlap of road: 27.20073784722222
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.08756232261657715
+Complete execution time for Engine and plugin library: 0.17532038688659668 ms
+Total preprocessing time: 0.03096151351928711
+Inference time: 0.048844099044799805 ms
+Overlap of road: 27.195746527777775
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.08615827560424805
+Complete execution time for Engine and plugin library: 0.17033886909484863 ms
+Total preprocessing time: 0.02942061424255371
+Inference time: 0.05011868476867676 ms
+Overlap of road: 26.670572916666668
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.09844112396240234
+Complete execution time for Engine and plugin library: 0.1820240020751953 ms
+Total preprocessing time: 0.03260159492492676
+Inference time: 0.048781633377075195 ms
+Overlap of road: 27.826822916666664
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.08475399017333984
+Complete execution time for Engine and plugin library: 0.17031216621398926 ms
+Total preprocessing time: 0.029667139053344727
+Inference time: 0.04915666580200195 ms
+Overlap of road: 27.52105034722222
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.06356930732727051
+Complete execution time for Engine and plugin library: 0.1426703929901123 ms
+Total preprocessing time: 0.02079486846923828
+Inference time: 0.049405813217163086 ms
+Overlap of road: 26.745225694444446
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.0662384033203125
+Complete execution time for Engine and plugin library: 0.13672995567321777 ms
+Total preprocessing time: 0.028115272521972656
+Inference time: 0.048674821853637695 ms
+Overlap of road: 24.08203125
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.04218101501464844
+Complete execution time for Engine and plugin library: 0.11924529075622559 ms
+Total preprocessing time: 0.025976181030273438
+Inference time: 0.0489802360534668 ms
+Overlap of road: 24.122178819444446
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.039887428283691406
+Complete execution time for Engine and plugin library: 0.1151132583618164 ms
+Total preprocessing time: 0.023378372192382812
+Inference time: 0.048955678939819336 ms
+Overlap of road: 25.76584201388889
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03940534591674805
+Complete execution time for Engine and plugin library: 0.11198854446411133 ms
+Total preprocessing time: 0.025160551071166992
+Inference time: 0.04897332191467285 ms
+Overlap of road: 28.172526041666668
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.046975135803222656
+Complete execution time for Engine and plugin library: 0.1213843822479248 ms
+Total preprocessing time: 0.028946638107299805
+Inference time: 0.04898524284362793 ms
+Overlap of road: 27.978732638888886
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.037694692611694336
+Complete execution time for Engine and plugin library: 0.11983704566955566 ms
+Total preprocessing time: 0.04324150085449219
+Inference time: 0.04926323890686035 ms
+Overlap of road: 27.707465277777775
+Overlap of footpath: 28.394739891090254
+Postprocessing TIme: 0.06000328063964844
+Complete execution time for Engine and plugin library: 0.15286779403686523 ms
+Total preprocessing time: 0.024440526962280273
+Inference time: 0.04814434051513672 ms
+Overlap of road: 26.141276041666668
+Overlap of footpath: 30.720658092920868
+Postprocessing TIme: 0.05836939811706543
+Complete execution time for Engine and plugin library: 0.13124680519104004 ms
+Total preprocessing time: 0.020933151245117188
+Inference time: 0.05103278160095215 ms
+Overlap of road: 25.10004340277778
+Overlap of footpath: 0.0
+Postprocessing TIme: 0.03728890419006348
+Complete execution time for Engine and plugin library: 0.10952067375183105 ms
+Total preprocessing time: 0.02323150634765625
+Inference time: 0.049868106842041016 ms
+Overlap of road: 22.752821180555554
+Overlap of footpath: 33.22732012513035
+Postprocessing TIme: 0.07825994491577148
+Complete execution time for Engine and plugin library: 0.15163540840148926 ms
+Total preprocessing time: 0.024892807006835938
+Inference time: 0.0491483211517334 ms
+Overlap of road: 22.055989583333332
+Overlap of footpath: 33.81589618815896
+Postprocessing TIme: 0.060901641845703125
+Complete execution time for Engine and plugin library: 0.13521265983581543 ms
+Total preprocessing time: 0.020018339157104492
+Inference time: 0.04973578453063965 ms
+Overlap of road: 18.13454861111111
+Overlap of footpath: 34.8650214343645
+Postprocessing TIme: 0.05675959587097168
+Complete execution time for Engine and plugin library: 0.12678146362304688 ms
+Total preprocessing time: 0.023540019989013672
+Inference time: 0.04992556571960449 ms
+Overlap of road: 20.65842013888889
+Overlap of footpath: 36.20206233344919
+Postprocessing TIme: 0.06810307502746582
+Complete execution time for Engine and plugin library: 0.1418318748474121 ms
+Total preprocessing time: 0.028182268142700195
+Inference time: 0.048813581466674805 ms
+Overlap of road: 18.803819444444443
+Overlap of footpath: 36.19453134051675
+Postprocessing TIme: 0.09214091300964355
+Complete execution time for Engine and plugin library: 0.17450928688049316 ms
+Total preprocessing time: 0.03275895118713379
+Inference time: 0.048680782318115234 ms
+Overlap of road: 17.743489583333332
+Overlap of footpath: 38.81473757386166
+Postprocessing TIme: 0.09022808074951172
+Complete execution time for Engine and plugin library: 0.17575287818908691 ms
+Total preprocessing time: 0.029508113861083984
+Inference time: 0.04887890815734863 ms
+Overlap of road: 16.950086805555557
+Overlap of footpath: 39.96987602827019
+Postprocessing TIme: 0.09047460556030273
+Complete execution time for Engine and plugin library: 0.17297911643981934 ms
+Total preprocessing time: 0.03164196014404297
+Inference time: 0.04780316352844238 ms
+Overlap of road: 16.65407986111111
+Overlap of footpath: 40.20739195921678
+Postprocessing TIme: 0.07874679565429688
+Complete execution time for Engine and plugin library: 0.15846753120422363 ms
+Total preprocessing time: 0.023187875747680664
+Inference time: 0.047713518142700195 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.12964893986792
+Postprocessing TIme: 0.038857460021972656
+Complete execution time for Engine and plugin library: 0.1100313663482666 ms
+Total preprocessing time: 0.02507805824279785
+Inference time: 0.047779083251953125 ms
+Overlap of road: 0.0
+Overlap of footpath: 40.528328119569
+Postprocessing TIme: 0.04312586784362793
+Complete execution time for Engine and plugin library: 0.11629080772399902 ms
+Total preprocessing time: 0.022760868072509766
+Inference time: 0.048868656158447266 ms
+Overlap of road: 0.0
+Overlap of footpath: 40.86085042289422
+Postprocessing TIme: 0.043210506439208984
+Complete execution time for Engine and plugin library: 0.11511468887329102 ms
+Total preprocessing time: 0.025346040725708008
+Inference time: 0.048835039138793945 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.07924921793535
+Postprocessing TIme: 0.046677350997924805
+Complete execution time for Engine and plugin library: 0.12120604515075684 ms
+Total preprocessing time: 0.028326988220214844
+Inference time: 0.04910087585449219 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.46390916463909
+Postprocessing TIme: 0.03601646423339844
+Complete execution time for Engine and plugin library: 0.11416864395141602 ms
+Total preprocessing time: 0.019534587860107422
+Inference time: 0.05053210258483887 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.29475147723323
+Postprocessing TIme: 0.048128604888916016
+Complete execution time for Engine and plugin library: 0.1184697151184082 ms
+Total preprocessing time: 0.029073476791381836
+Inference time: 0.04921746253967285 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.75576410612907
+Postprocessing TIme: 0.03769063949584961
+Complete execution time for Engine and plugin library: 0.1207268238067627 ms
+Total preprocessing time: 0.03093862533569336
+Inference time: 0.04868030548095703 ms
+Overlap of road: 0.0
+Overlap of footpath: 40.90545707334029
+Postprocessing TIme: 0.03469204902648926
+Complete execution time for Engine and plugin library: 0.11460995674133301 ms
+Total preprocessing time: 0.022398948669433594
+Inference time: 0.04893755912780762 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.516510253736534
+Postprocessing TIme: 0.04599905014038086
+Complete execution time for Engine and plugin library: 0.11760187149047852 ms
+Total preprocessing time: 0.027887821197509766
+Inference time: 0.04755234718322754 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.934306569343065
+Postprocessing TIme: 0.04096722602844238
+Complete execution time for Engine and plugin library: 0.11680459976196289 ms
+Total preprocessing time: 0.038405656814575195
+Inference time: 0.04853034019470215 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.60815664465299
+Postprocessing TIme: 0.03623366355895996
+Complete execution time for Engine and plugin library: 0.12575483322143555 ms
+Total preprocessing time: 0.022603511810302734
+Inference time: 0.05012702941894531 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.83408643262658
+Postprocessing TIme: 0.039234161376953125
+Complete execution time for Engine and plugin library: 0.11224198341369629 ms
+Total preprocessing time: 0.02831864356994629
+Inference time: 0.04784417152404785 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.765033020507474
+Postprocessing TIme: 0.04288196563720703
+Complete execution time for Engine and plugin library: 0.11955451965332031 ms
+Total preprocessing time: 0.02329087257385254
+Inference time: 0.04854321479797363 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.70826091993975
+Postprocessing TIme: 0.03990674018859863
+Complete execution time for Engine and plugin library: 0.11203575134277344 ms
+Total preprocessing time: 0.025691747665405273
+Inference time: 0.04870462417602539 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.667130112385586
+Postprocessing TIme: 0.043013572692871094
+Complete execution time for Engine and plugin library: 0.11767053604125977 ms
+Total preprocessing time: 0.022592544555664062
+Inference time: 0.048696279525756836 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.365890395087476
+Postprocessing TIme: 0.03791332244873047
+Complete execution time for Engine and plugin library: 0.10947155952453613 ms
+Total preprocessing time: 0.04046487808227539
+Inference time: 0.04900169372558594 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.95689954814043
+Postprocessing TIme: 0.04436373710632324
+Complete execution time for Engine and plugin library: 0.13410615921020508 ms
+Total preprocessing time: 0.04104280471801758
+Inference time: 0.04871392250061035 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.971382226856676
+Postprocessing TIme: 0.039769649505615234
+Complete execution time for Engine and plugin library: 0.12981510162353516 ms
+Total preprocessing time: 0.023656368255615234
+Inference time: 0.04904937744140625 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.5553238326961
+Postprocessing TIme: 0.04252195358276367
+Complete execution time for Engine and plugin library: 0.11548852920532227 ms
+Total preprocessing time: 0.02606058120727539
+Inference time: 0.047773122787475586 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.1770362646275
+Postprocessing TIme: 0.04752635955810547
+Complete execution time for Engine and plugin library: 0.12181568145751953 ms
+Total preprocessing time: 0.024506807327270508
+Inference time: 0.04920649528503418 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.65044606650446
+Postprocessing TIme: 0.04613995552062988
+Complete execution time for Engine and plugin library: 0.12012767791748047 ms
+Total preprocessing time: 0.03750181198120117
+Inference time: 0.04858541488647461 ms
+Overlap of road: 0.0
+Overlap of footpath: 39.911366006256515
+Postprocessing TIme: 0.03654003143310547
+Complete execution time for Engine and plugin library: 0.12292766571044922 ms
+Total preprocessing time: 0.022716045379638672
+Inference time: 0.0496213436126709 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.23264975089793
+Postprocessing TIme: 0.03847932815551758
+Complete execution time for Engine and plugin library: 0.11107540130615234 ms
+Total preprocessing time: 0.02602386474609375
+Inference time: 0.04769015312194824 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.26161510833044
+Postprocessing TIme: 0.03986477851867676
+Complete execution time for Engine and plugin library: 0.11410903930664062 ms
+Total preprocessing time: 0.026839494705200195
+Inference time: 0.048735857009887695 ms
+Overlap of road: 0.0
+Overlap of footpath: 43.10972077395435
+Postprocessing TIme: 0.044875144958496094
+Complete execution time for Engine and plugin library: 0.12074017524719238 ms
+Total preprocessing time: 0.029338598251342773
+Inference time: 0.04776287078857422 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.438303788668755
+Postprocessing TIme: 0.03805398941040039
+Complete execution time for Engine and plugin library: 0.11568665504455566 ms
+Total preprocessing time: 0.02391195297241211
+Inference time: 0.04785275459289551 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.123740006951685
+Postprocessing TIme: 0.0409388542175293
+Complete execution time for Engine and plugin library: 0.11326980590820312 ms
+Total preprocessing time: 0.02673959732055664
+Inference time: 0.047837018966674805 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.67419765959912
+Postprocessing TIme: 0.04198932647705078
+Complete execution time for Engine and plugin library: 0.11684393882751465 ms
+Total preprocessing time: 0.04016518592834473
+Inference time: 0.04866838455200195 ms
+Complete execution time for Engine and plugin library: 0.09004950523376465 ms
+Total preprocessing time: 0.020564556121826172
+Inference time: 0.04745292663574219 ms
+Complete execution time for Engine and plugin library: 0.06935000419616699 ms
+Total preprocessing time: 0.021562576293945312
+Inference time: 0.049158573150634766 ms
+Complete execution time for Engine and plugin library: 0.07193779945373535 ms
+Total preprocessing time: 0.0222320556640625
+Inference time: 0.04905414581298828 ms
+Complete execution time for Engine and plugin library: 0.07261180877685547 ms
+Total preprocessing time: 0.020440340042114258
+Inference time: 0.0482025146484375 ms
+Overlap of road: 0.0
+Overlap of footpath: 42.00150619858649
+Postprocessing TIme: 0.044361114501953125
+Complete execution time for Engine and plugin library: 0.11327052116394043 ms
+Total preprocessing time: 0.025472640991210938
+Inference time: 0.0502629280090332 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.18062796894913
+Postprocessing TIme: 0.03974318504333496
+Complete execution time for Engine and plugin library: 0.1157996654510498 ms
+Total preprocessing time: 0.03558540344238281
+Inference time: 0.04775238037109375 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.04333217471904
+Postprocessing TIme: 0.04111146926879883
+Complete execution time for Engine and plugin library: 0.12471199035644531 ms
+Total preprocessing time: 0.0211489200592041
+Inference time: 0.04894757270812988 ms
+Overlap of road: 0.0
+Overlap of footpath: 41.03927702467848
+Postprocessing TIme: 0.048120737075805664
+Complete execution time for Engine and plugin library: 0.11862516403198242 ms
+Total preprocessing time: 0.019667387008666992
+Inference time: 0.048736572265625 ms
+Overlap of road: 0.0
+Overlap of footpath: 40.34468775344688
+Postprocessing TIme: 0.03754067420959473
+Complete execution time for Engine and plugin library: 0.10648059844970703 ms
+Total preprocessing time: 0.032948970794677734
+Inference time: 0.048470258712768555 ms
+Overlap of road: 0.0
+Overlap of footpath: 40.130344108446295
+Postprocessing TIme: 0.03546857833862305
+Complete execution time for Engine and plugin library: 0.11714434623718262 ms
+Total preprocessing time: 0.02028369903564453
+Inference time: 0.04997968673706055 ms
+Complete execution time for Engine and plugin library: 0.0719447135925293 ms
+Total preprocessing time: 0.020810365676879883
+Inference time: 0.05045008659362793 ms
+Complete execution time for Engine and plugin library: 0.07240843772888184 ms
+Total preprocessing time: 0.021797657012939453
+Inference time: 0.04919791221618652 ms
+Complete execution time for Engine and plugin library: 0.07225775718688965 ms
+Total preprocessing time: 0.021268606185913086
+Inference time: 0.04865288734436035 ms
+Complete execution time for Engine and plugin library: 0.07113218307495117 ms
+Total preprocessing time: 0.021142005920410156
+Inference time: 0.048192739486694336 ms
+Complete execution time for Engine and plugin library: 0.0707237720489502 ms
+Total preprocessing time: 0.02112865447998047
+Inference time: 0.0499415397644043 ms
+Complete execution time for Engine and plugin library: 0.07242012023925781 ms
+Total preprocessing time: 0.02146458625793457
+Inference time: 0.04822945594787598 ms
+Complete execution time for Engine and plugin library: 0.07089996337890625 ms
+Total preprocessing time: 0.021781206130981445
+Inference time: 0.049101829528808594 ms
+Complete execution time for Engine and plugin library: 0.07218527793884277 ms
+Total preprocessing time: 0.020730972290039062
+Inference time: 0.049436330795288086 ms
+Complete execution time for Engine and plugin library: 0.07140183448791504 ms
+Total preprocessing time: 0.021917104721069336
+Inference time: 0.0486903190612793 ms
+Complete execution time for Engine and plugin library: 0.07186341285705566 ms
+Total preprocessing time: 0.019848346710205078
+Inference time: 0.05031776428222656 ms
+Complete execution time for Engine and plugin library: 0.07132077217102051 ms
+Total preprocessing time: 0.021745920181274414
+Inference time: 0.04904055595397949 ms
+Complete execution time for Engine and plugin library: 0.07202935218811035 ms
+Total preprocessing time: 0.020743846893310547
+Inference time: 0.048436641693115234 ms
+Complete execution time for Engine and plugin library: 0.07042527198791504 ms
+Total preprocessing time: 0.02263188362121582
+Inference time: 0.049794912338256836 ms
+Complete execution time for Engine and plugin library: 0.07383036613464355 ms
+Total preprocessing time: 0.02083420753479004
+Inference time: 0.050073862075805664 ms
+Complete execution time for Engine and plugin library: 0.07208871841430664 ms
+Total preprocessing time: 0.021950483322143555
+Inference time: 0.048360586166381836 ms
+Complete execution time for Engine and plugin library: 0.07154154777526855 ms
+Total preprocessing time: 0.021419525146484375
+Inference time: 0.05040383338928223 ms
+Complete execution time for Engine and plugin library: 0.0730433464050293 ms
+Total preprocessing time: 0.020634889602661133
+Inference time: 0.04835152626037598 ms
+Complete execution time for Engine and plugin library: 0.07021307945251465 ms
+Total preprocessing time: 0.021745681762695312
+Inference time: 0.05021405220031738 ms
+Complete execution time for Engine and plugin library: 0.07315635681152344 ms
+Total preprocessing time: 0.020537614822387695
+Inference time: 0.0499730110168457 ms
+Complete execution time for Engine and plugin library: 0.0718221664428711 ms
+Total preprocessing time: 0.022899150848388672
+Inference time: 0.0496523380279541 ms
+Complete execution time for Engine and plugin library: 0.07376265525817871 ms
+Total preprocessing time: 0.0204007625579834
+Inference time: 0.0497736930847168 ms
+Complete execution time for Engine and plugin library: 0.0714423656463623 ms
+Total preprocessing time: 0.021101951599121094
+Inference time: 0.049381256103515625 ms
+Complete execution time for Engine and plugin library: 0.0717167854309082 ms
+Total preprocessing time: 0.02245330810546875
+Inference time: 0.04900646209716797 ms
+Complete execution time for Engine and plugin library: 0.07263898849487305 ms
+Total preprocessing time: 0.021960973739624023
+Inference time: 0.04914546012878418 ms
+Complete execution time for Engine and plugin library: 0.07230472564697266 ms
+Total preprocessing time: 0.020017385482788086
+Inference time: 0.047811031341552734 ms
+Complete execution time for Engine and plugin library: 0.06911015510559082 ms
+Total preprocessing time: 0.021467924118041992
+Inference time: 0.048963308334350586 ms
+Complete execution time for Engine and plugin library: 0.07166719436645508 ms
+Total preprocessing time: 0.021040916442871094
+Inference time: 0.04909467697143555 ms
+Complete execution time for Engine and plugin library: 0.07134604454040527 ms
+Total preprocessing time: 0.0215301513671875
+Inference time: 0.049027204513549805 ms
+Complete execution time for Engine and plugin library: 0.07185173034667969 ms
+Total preprocessing time: 0.020322561264038086
+Inference time: 0.048123836517333984 ms
+Complete execution time for Engine and plugin library: 0.0696723461151123 ms
+Total preprocessing time: 0.020864009857177734
+Inference time: 0.04896235466003418 ms
+Complete execution time for Engine and plugin library: 0.07111835479736328 ms
+Total preprocessing time: 0.02120661735534668
+Inference time: 0.048004865646362305 ms
+Complete execution time for Engine and plugin library: 0.0704336166381836 ms
+Total preprocessing time: 0.022435665130615234
+Inference time: 0.049723148345947266 ms
+Complete execution time for Engine and plugin library: 0.07333159446716309 ms
