@@ -570,7 +570,7 @@ def process_frame_batch(batch):
 
     # Display or save the processed frames (result_images)
     for i, result_image in enumerate(result_images):
-        cv2.imshow(f"Processed Frame {i}", result_image)
+        cv2.imshow(f"Processed Frame", result_image)
 
     # Clear the frame batch
     del batch[:]
