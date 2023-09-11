@@ -1,0 +1,850 @@
+Instance Creation time for Engine and plugin library: 4.731618165969849 ms
+Total preprocessing time: 0.1285076141357422
+Inference time: 0.12214875221252441 ms
+Postprocessing TIme: 0.6646273136138916
+Complete execution time for Engine and plugin library: 0.9194462299346924 ms
+Total preprocessing time: 0.028120040893554688
+Inference time: 0.06973958015441895 ms
+Postprocessing TIme: 0.16052722930908203
+Complete execution time for Engine and plugin library: 0.26135754585266113 ms
+Total preprocessing time: 0.028333425521850586
+Inference time: 0.05487775802612305 ms
+Postprocessing TIme: 0.16202449798583984
+Complete execution time for Engine and plugin library: 0.24816560745239258 ms
+Total preprocessing time: 0.02836894989013672
+Inference time: 0.048770904541015625 ms
+Postprocessing TIme: 0.1518878936767578
+Complete execution time for Engine and plugin library: 0.23194646835327148 ms
+Total preprocessing time: 0.029465198516845703
+Inference time: 0.051078081130981445 ms
+Postprocessing TIme: 0.13778901100158691
+Complete execution time for Engine and plugin library: 0.22136664390563965 ms
+Total preprocessing time: 0.027864933013916016
+Inference time: 0.04811978340148926 ms
+Postprocessing TIme: 0.13821864128112793
+Complete execution time for Engine and plugin library: 0.21731781959533691 ms
+Total preprocessing time: 0.0313262939453125
+Inference time: 0.04819989204406738 ms
+Postprocessing TIme: 0.1615750789642334
+Complete execution time for Engine and plugin library: 0.2442793846130371 ms
+Total preprocessing time: 0.0288236141204834
+Inference time: 0.04954934120178223 ms
+Postprocessing TIme: 0.14055871963500977
+Complete execution time for Engine and plugin library: 0.2221369743347168 ms
+Total preprocessing time: 0.02858448028564453
+Inference time: 0.05115056037902832 ms
+Postprocessing TIme: 0.14080238342285156
+Complete execution time for Engine and plugin library: 0.2235581874847412 ms
+Total preprocessing time: 0.029705047607421875
+Inference time: 0.04801344871520996 ms
+Postprocessing TIme: 0.1591339111328125
+Complete execution time for Engine and plugin library: 0.2399125099182129 ms
+Total preprocessing time: 0.0307619571685791
+Inference time: 0.04804587364196777 ms
+Postprocessing TIme: 0.3536689281463623
+Complete execution time for Engine and plugin library: 0.43563413619995117 ms
+Total preprocessing time: 0.02993941307067871
+Inference time: 0.04820561408996582 ms
+Postprocessing TIme: 0.2964510917663574
+Complete execution time for Engine and plugin library: 0.37811756134033203 ms
+Total preprocessing time: 0.0296175479888916
+Inference time: 0.048066139221191406 ms
+Postprocessing TIme: 0.24638843536376953
+Complete execution time for Engine and plugin library: 0.32761144638061523 ms
+Total preprocessing time: 0.030194759368896484
+Inference time: 0.04794931411743164 ms
+Postprocessing TIme: 0.2262728214263916
+Complete execution time for Engine and plugin library: 0.3078598976135254 ms
+Total preprocessing time: 0.029716968536376953
+Inference time: 0.0481259822845459 ms
+Postprocessing TIme: 0.23087525367736816
+Complete execution time for Engine and plugin library: 0.31226396560668945 ms
+Total preprocessing time: 0.029734373092651367
+Inference time: 0.048024654388427734 ms
+Postprocessing TIme: 0.2800281047821045
+Complete execution time for Engine and plugin library: 0.36131763458251953 ms
+Total preprocessing time: 0.02806377410888672
+Inference time: 0.049233436584472656 ms
+Postprocessing TIme: 0.21875452995300293
+Complete execution time for Engine and plugin library: 0.29959940910339355 ms
+Total preprocessing time: 0.03092336654663086
+Inference time: 0.04836750030517578 ms
+Postprocessing TIme: 0.23233819007873535
+Complete execution time for Engine and plugin library: 0.3150908946990967 ms
+Total preprocessing time: 0.029294490814208984
+Inference time: 0.049345970153808594 ms
+Postprocessing TIme: 0.14381980895996094
+Complete execution time for Engine and plugin library: 0.22594928741455078 ms
+Total preprocessing time: 0.02995157241821289
+Inference time: 0.04845547676086426 ms
+Postprocessing TIme: 0.14754343032836914
+Complete execution time for Engine and plugin library: 0.2292919158935547 ms
+Total preprocessing time: 0.029781103134155273
+Inference time: 0.04840588569641113 ms
+Postprocessing TIme: 0.2097465991973877
+Complete execution time for Engine and plugin library: 0.29134416580200195 ms
+Total preprocessing time: 0.029941082000732422
+Inference time: 0.04906320571899414 ms
+Postprocessing TIme: 0.1415107250213623
+Complete execution time for Engine and plugin library: 0.22370505332946777 ms
+Total preprocessing time: 0.029517173767089844
+Inference time: 0.04931783676147461 ms
+Postprocessing TIme: 0.1329183578491211
+Complete execution time for Engine and plugin library: 0.21491074562072754 ms
+Total preprocessing time: 0.029471158981323242
+Inference time: 0.049612998962402344 ms
+Postprocessing TIme: 0.14973187446594238
+Complete execution time for Engine and plugin library: 0.23211908340454102 ms
+Total preprocessing time: 0.03130841255187988
+Inference time: 0.04790544509887695 ms
+Postprocessing TIme: 0.14357757568359375
+Complete execution time for Engine and plugin library: 0.2260594367980957 ms
+Total preprocessing time: 0.030040740966796875
+Inference time: 0.04840207099914551 ms
+Postprocessing TIme: 0.14751482009887695
+Complete execution time for Engine and plugin library: 0.22915339469909668 ms
+Total preprocessing time: 0.02986621856689453
+Inference time: 0.04953455924987793 ms
+Postprocessing TIme: 0.28731751441955566
+Complete execution time for Engine and plugin library: 0.37077927589416504 ms
+Total preprocessing time: 0.029007673263549805
+Inference time: 0.0495753288269043 ms
+Postprocessing TIme: 0.24877619743347168
+Complete execution time for Engine and plugin library: 0.3329191207885742 ms
+Total preprocessing time: 0.030851125717163086
+Inference time: 0.04914498329162598 ms
+Postprocessing TIme: 0.2252340316772461
+Complete execution time for Engine and plugin library: 0.3097856044769287 ms
+Total preprocessing time: 0.03040003776550293
+Inference time: 0.04926872253417969 ms
+Postprocessing TIme: 0.21025753021240234
+Complete execution time for Engine and plugin library: 0.2945680618286133 ms
+Total preprocessing time: 0.030151844024658203
+Inference time: 0.04902815818786621 ms
+Postprocessing TIme: 0.21973299980163574
+Complete execution time for Engine and plugin library: 0.3035445213317871 ms
+Total preprocessing time: 0.030503034591674805
+Inference time: 0.049840450286865234 ms
+Postprocessing TIme: 0.21343445777893066
+Complete execution time for Engine and plugin library: 0.2983827590942383 ms
+Total preprocessing time: 0.02933335304260254
+Inference time: 0.04831838607788086 ms
+Postprocessing TIme: 0.2131519317626953
+Complete execution time for Engine and plugin library: 0.29543495178222656 ms
+Total preprocessing time: 0.029389142990112305
+Inference time: 0.049997568130493164 ms
+Postprocessing TIme: 0.23045015335083008
+Complete execution time for Engine and plugin library: 0.31467366218566895 ms
+Total preprocessing time: 0.02975177764892578
+Inference time: 0.05008983612060547 ms
+Postprocessing TIme: 0.2268378734588623
+Complete execution time for Engine and plugin library: 0.31133365631103516 ms
+Total preprocessing time: 0.029963970184326172
+Inference time: 0.050058841705322266 ms
+Postprocessing TIme: 0.2296433448791504
+Complete execution time for Engine and plugin library: 0.31428956985473633 ms
+Total preprocessing time: 0.030446767807006836
+Inference time: 0.049363136291503906 ms
+Postprocessing TIme: 0.21447372436523438
+Complete execution time for Engine and plugin library: 0.29899001121520996 ms
+Total preprocessing time: 0.029325008392333984
+Inference time: 0.04990267753601074 ms
+Postprocessing TIme: 0.22428011894226074
+Complete execution time for Engine and plugin library: 0.30814695358276367 ms
+Total preprocessing time: 0.0305633544921875
+Inference time: 0.0492701530456543 ms
+Postprocessing TIme: 0.22760844230651855
+Complete execution time for Engine and plugin library: 0.31228137016296387 ms
+Total preprocessing time: 0.030581951141357422
+Inference time: 0.04810142517089844 ms
+Postprocessing TIme: 0.22519659996032715
+Complete execution time for Engine and plugin library: 0.3085789680480957 ms
+Total preprocessing time: 0.029215574264526367
+Inference time: 0.049544572830200195 ms
+Postprocessing TIme: 0.2271101474761963
+Complete execution time for Engine and plugin library: 0.31050896644592285 ms
+Total preprocessing time: 0.029612064361572266
+Inference time: 0.04919934272766113 ms
+Postprocessing TIme: 0.22545123100280762
+Complete execution time for Engine and plugin library: 0.30893826484680176 ms
+Total preprocessing time: 0.029848098754882812
+Inference time: 0.049222469329833984 ms
+Postprocessing TIme: 0.21540617942810059
+Complete execution time for Engine and plugin library: 0.29914402961730957 ms
+Total preprocessing time: 0.029958486557006836
+Inference time: 0.0500798225402832 ms
+Postprocessing TIme: 0.21779847145080566
+Complete execution time for Engine and plugin library: 0.3026847839355469 ms
+Total preprocessing time: 0.029412031173706055
+Inference time: 0.0497431755065918 ms
+Postprocessing TIme: 0.20693135261535645
+Complete execution time for Engine and plugin library: 0.29085397720336914 ms
+Total preprocessing time: 0.029734134674072266
+Inference time: 0.04998612403869629 ms
+Postprocessing TIme: 0.23073458671569824
+Complete execution time for Engine and plugin library: 0.31504034996032715 ms
+Total preprocessing time: 0.029964685440063477
+Inference time: 0.05001568794250488 ms
+Postprocessing TIme: 0.21268272399902344
+Complete execution time for Engine and plugin library: 0.29727649688720703 ms
+Total preprocessing time: 0.0301513671875
+Inference time: 0.04937863349914551 ms
+Postprocessing TIme: 0.22676563262939453
+Complete execution time for Engine and plugin library: 0.31093358993530273 ms
+Total preprocessing time: 0.03047490119934082
+Inference time: 0.04786396026611328 ms
+Postprocessing TIme: 0.2136075496673584
+Complete execution time for Engine and plugin library: 0.2968790531158447 ms
+Total preprocessing time: 0.02916741371154785
+Inference time: 0.04948568344116211 ms
+Postprocessing TIme: 0.2100515365600586
+Complete execution time for Engine and plugin library: 0.29335808753967285 ms
+Total preprocessing time: 0.029461383819580078
+Inference time: 0.0485537052154541 ms
+Postprocessing TIme: 0.2370591163635254
+Complete execution time for Engine and plugin library: 0.3199160099029541 ms
+Total preprocessing time: 0.029806137084960938
+Inference time: 0.04919147491455078 ms
+Postprocessing TIme: 0.2265324592590332
+Complete execution time for Engine and plugin library: 0.31015729904174805 ms
+Total preprocessing time: 0.03047657012939453
+Inference time: 0.04779338836669922 ms
+Postprocessing TIme: 0.22304058074951172
+Complete execution time for Engine and plugin library: 0.3059661388397217 ms
+Total preprocessing time: 0.029528379440307617
+Inference time: 0.05046510696411133 ms
+Postprocessing TIme: 0.2281944751739502
+Complete execution time for Engine and plugin library: 0.3128488063812256 ms
+Total preprocessing time: 0.02913808822631836
+Inference time: 0.05130743980407715 ms
+Postprocessing TIme: 0.2322080135345459
+Complete execution time for Engine and plugin library: 0.3172900676727295 ms
+Total preprocessing time: 0.029071807861328125
+Inference time: 0.04794454574584961 ms
+Postprocessing TIme: 0.2295982837677002
+Complete execution time for Engine and plugin library: 0.31119489669799805 ms
+Total preprocessing time: 0.02841353416442871
+Inference time: 0.0496363639831543 ms
+Postprocessing TIme: 0.21644091606140137
+Complete execution time for Engine and plugin library: 0.2990288734436035 ms
+Total preprocessing time: 0.028504610061645508
+Inference time: 0.05098319053649902 ms
+Postprocessing TIme: 0.21621060371398926
+Complete execution time for Engine and plugin library: 0.30025362968444824 ms
+Total preprocessing time: 0.02904510498046875
+Inference time: 0.0492250919342041 ms
+Postprocessing TIme: 0.21324825286865234
+Complete execution time for Engine and plugin library: 0.29611778259277344 ms
+Total preprocessing time: 0.02832770347595215
+Inference time: 0.04966425895690918 ms
+Postprocessing TIme: 0.22077584266662598
+Complete execution time for Engine and plugin library: 0.3033437728881836 ms
+Total preprocessing time: 0.03053450584411621
+Inference time: 0.049304962158203125 ms
+Postprocessing TIme: 0.21341180801391602
+Complete execution time for Engine and plugin library: 0.29787755012512207 ms
+Total preprocessing time: 0.02895331382751465
+Inference time: 0.04901123046875 ms
+Postprocessing TIme: 0.21087026596069336
+Complete execution time for Engine and plugin library: 0.2934234142303467 ms
+Total preprocessing time: 0.029648542404174805
+Inference time: 0.04907941818237305 ms
+Postprocessing TIme: 0.21976876258850098
+Complete execution time for Engine and plugin library: 0.3030674457550049 ms
+Total preprocessing time: 0.028500795364379883
+Inference time: 0.05069112777709961 ms
+Postprocessing TIme: 0.21900105476379395
+Complete execution time for Engine and plugin library: 0.3028066158294678 ms
+Total preprocessing time: 0.029006481170654297
+Inference time: 0.04910421371459961 ms
+Postprocessing TIme: 0.20737290382385254
+Complete execution time for Engine and plugin library: 0.2900872230529785 ms
+Total preprocessing time: 0.028281688690185547
+Inference time: 0.048964738845825195 ms
+Postprocessing TIme: 0.2593107223510742
+Complete execution time for Engine and plugin library: 0.34105706214904785 ms
+Total preprocessing time: 0.028001785278320312
+Inference time: 0.0492250919342041 ms
+Postprocessing TIme: 0.2486577033996582
+Complete execution time for Engine and plugin library: 0.3303802013397217 ms
+Total preprocessing time: 0.029683828353881836
+Inference time: 0.0491185188293457 ms
+Postprocessing TIme: 0.2255415916442871
+Complete execution time for Engine and plugin library: 0.30887913703918457 ms
+Total preprocessing time: 0.029693603515625
+Inference time: 0.048441410064697266 ms
+Postprocessing TIme: 0.24748516082763672
+Complete execution time for Engine and plugin library: 0.3301527500152588 ms
+Total preprocessing time: 0.02852153778076172
+Inference time: 0.049446821212768555 ms
+Postprocessing TIme: 0.231825590133667
+Complete execution time for Engine and plugin library: 0.3142576217651367 ms
+Total preprocessing time: 0.029286623001098633
+Inference time: 0.04819369316101074 ms
+Postprocessing TIme: 0.2334423065185547
+Complete execution time for Engine and plugin library: 0.31557703018188477 ms
+Total preprocessing time: 0.029961347579956055
+Inference time: 0.049202680587768555 ms
+Postprocessing TIme: 0.23645687103271484
+Complete execution time for Engine and plugin library: 0.320084810256958 ms
+Total preprocessing time: 0.02909994125366211
+Inference time: 0.04918527603149414 ms
+Postprocessing TIme: 0.24522018432617188
+Complete execution time for Engine and plugin library: 0.3279690742492676 ms
+Total preprocessing time: 0.02878713607788086
+Inference time: 0.0490717887878418 ms
+Postprocessing TIme: 0.22710275650024414
+Complete execution time for Engine and plugin library: 0.3094449043273926 ms
+Total preprocessing time: 0.02807140350341797
+Inference time: 0.04928755760192871 ms
+Postprocessing TIme: 0.2312767505645752
+Complete execution time for Engine and plugin library: 0.31311488151550293 ms
+Total preprocessing time: 0.02656841278076172
+Inference time: 0.05254626274108887 ms
+Postprocessing TIme: 0.2566232681274414
+Complete execution time for Engine and plugin library: 0.34023141860961914 ms
+Total preprocessing time: 0.028957843780517578
+Inference time: 0.04850435256958008 ms
+Postprocessing TIme: 0.24780511856079102
+Complete execution time for Engine and plugin library: 0.3297569751739502 ms
+Total preprocessing time: 0.02887248992919922
+Inference time: 0.04965472221374512 ms
+Postprocessing TIme: 0.2460956573486328
+Complete execution time for Engine and plugin library: 0.32914090156555176 ms
+Total preprocessing time: 0.0297393798828125
+Inference time: 0.04906797409057617 ms
+Postprocessing TIme: 0.24350595474243164
+Complete execution time for Engine and plugin library: 0.3269798755645752 ms
+Total preprocessing time: 0.02852916717529297
+Inference time: 0.049021005630493164 ms
+Postprocessing TIme: 0.22517919540405273
+Complete execution time for Engine and plugin library: 0.30728864669799805 ms
+Total preprocessing time: 0.030144214630126953
+Inference time: 0.04851245880126953 ms
+Postprocessing TIme: 0.23408269882202148
+Complete execution time for Engine and plugin library: 0.31724095344543457 ms
+Total preprocessing time: 0.028689146041870117
+Inference time: 0.049062252044677734 ms
+Postprocessing TIme: 0.26256513595581055
+Complete execution time for Engine and plugin library: 0.34485578536987305 ms
+Total preprocessing time: 0.029294252395629883
+Inference time: 0.04926562309265137 ms
+Postprocessing TIme: 0.24678754806518555
+Complete execution time for Engine and plugin library: 0.32985711097717285 ms
+Total preprocessing time: 0.02900838851928711
+Inference time: 0.048047542572021484 ms
+Postprocessing TIme: 0.2428891658782959
+Complete execution time for Engine and plugin library: 0.3244640827178955 ms
+Total preprocessing time: 0.029768705368041992
+Inference time: 0.047963619232177734 ms
+Postprocessing TIme: 0.2567751407623291
+Complete execution time for Engine and plugin library: 0.33898448944091797 ms
+Total preprocessing time: 0.02834939956665039
+Inference time: 0.050034284591674805 ms
+Postprocessing TIme: 0.2233428955078125
+Complete execution time for Engine and plugin library: 0.30626559257507324 ms
+Total preprocessing time: 0.029776573181152344
+Inference time: 0.049302101135253906 ms
+Postprocessing TIme: 0.24843358993530273
+Complete execution time for Engine and plugin library: 0.33202266693115234 ms
+Total preprocessing time: 0.02917003631591797
+Inference time: 0.049294471740722656 ms
+Postprocessing TIme: 0.23860597610473633
+Complete execution time for Engine and plugin library: 0.32230257987976074 ms
+Total preprocessing time: 0.028435707092285156
+Inference time: 0.04830026626586914 ms
+Postprocessing TIme: 0.25432467460632324
+Complete execution time for Engine and plugin library: 0.3363370895385742 ms
+Total preprocessing time: 0.029031753540039062
+Inference time: 0.04809761047363281 ms
+Postprocessing TIme: 0.25004029273986816
+Complete execution time for Engine and plugin library: 0.3325350284576416 ms
+Total preprocessing time: 0.02783489227294922
+Inference time: 0.04965972900390625 ms
+Postprocessing TIme: 0.2527477741241455
+Complete execution time for Engine and plugin library: 0.335526704788208 ms
+Total preprocessing time: 0.029645442962646484
+Inference time: 0.04822397232055664 ms
+Postprocessing TIme: 0.23584961891174316
+Complete execution time for Engine and plugin library: 0.31825828552246094 ms
+Total preprocessing time: 0.029215335845947266
+Inference time: 0.049878597259521484 ms
+Postprocessing TIme: 0.23419904708862305
+Complete execution time for Engine and plugin library: 0.3178074359893799 ms
+Total preprocessing time: 0.029015064239501953
+Inference time: 0.049248456954956055 ms
+Postprocessing TIme: 0.25359416007995605
+Complete execution time for Engine and plugin library: 0.33649492263793945 ms
+Total preprocessing time: 0.028859853744506836
+Inference time: 0.04953145980834961 ms
+Postprocessing TIme: 0.2402362823486328
+Complete execution time for Engine and plugin library: 0.3233158588409424 ms
+Total preprocessing time: 0.02841806411743164
+Inference time: 0.0494382381439209 ms
+Postprocessing TIme: 0.248704195022583
+Complete execution time for Engine and plugin library: 0.33107662200927734 ms
+Total preprocessing time: 0.027850866317749023
+Inference time: 0.04934239387512207 ms
+Postprocessing TIme: 0.23988676071166992
+Complete execution time for Engine and plugin library: 0.3215458393096924 ms
+Total preprocessing time: 0.029093265533447266
+Inference time: 0.04926490783691406 ms
+Postprocessing TIme: 0.23634934425354004
+Complete execution time for Engine and plugin library: 0.3191659450531006 ms
+Total preprocessing time: 0.0299837589263916
+Inference time: 0.049276113510131836 ms
+Postprocessing TIme: 0.2297194004058838
+Complete execution time for Engine and plugin library: 0.31348490715026855 ms
+Total preprocessing time: 0.029195547103881836
+Inference time: 0.049744367599487305 ms
+Postprocessing TIme: 0.24405598640441895
+Complete execution time for Engine and plugin library: 0.32766008377075195 ms
+Total preprocessing time: 0.028138399124145508
+Inference time: 0.0491335391998291 ms
+Postprocessing TIme: 0.258927583694458
+Complete execution time for Engine and plugin library: 0.3407297134399414 ms
+Total preprocessing time: 0.028293609619140625
+Inference time: 0.049491167068481445 ms
+Postprocessing TIme: 0.24098992347717285
+Complete execution time for Engine and plugin library: 0.3232088088989258 ms
+Total preprocessing time: 0.028673410415649414
+Inference time: 0.04996323585510254 ms
+Postprocessing TIme: 0.2265479564666748
+Complete execution time for Engine and plugin library: 0.30969858169555664 ms
+Total preprocessing time: 0.028797149658203125
+Inference time: 0.05098223686218262 ms
+Postprocessing TIme: 0.23632431030273438
+Complete execution time for Engine and plugin library: 0.3206326961517334 ms
+Total preprocessing time: 0.029595375061035156
+Inference time: 0.04914093017578125 ms
+Postprocessing TIme: 0.24776935577392578
+Complete execution time for Engine and plugin library: 0.33102941513061523 ms
+Total preprocessing time: 0.028414249420166016
+Inference time: 0.05077052116394043 ms
+Postprocessing TIme: 0.2463979721069336
+Complete execution time for Engine and plugin library: 0.3300330638885498 ms
+Total preprocessing time: 0.028063535690307617
+Inference time: 0.04956245422363281 ms
+Postprocessing TIme: 0.24912619590759277
+Complete execution time for Engine and plugin library: 0.33126306533813477 ms
+Total preprocessing time: 0.028845787048339844
+Inference time: 0.04890751838684082 ms
+Postprocessing TIme: 0.24315738677978516
+Complete execution time for Engine and plugin library: 0.3256678581237793 ms
+Total preprocessing time: 0.02916717529296875
+Inference time: 0.04913663864135742 ms
+Postprocessing TIme: 0.24859404563903809
+Complete execution time for Engine and plugin library: 0.3313901424407959 ms
+Total preprocessing time: 0.029752016067504883
+Inference time: 0.04880404472351074 ms
+Postprocessing TIme: 0.25104594230651855
+Complete execution time for Engine and plugin library: 0.33414387702941895 ms
+Total preprocessing time: 0.02872633934020996
+Inference time: 0.04959750175476074 ms
+Postprocessing TIme: 0.23694133758544922
+Complete execution time for Engine and plugin library: 0.3197653293609619 ms
+Total preprocessing time: 0.029247283935546875
+Inference time: 0.0494990348815918 ms
+Postprocessing TIme: 0.225172758102417
+Complete execution time for Engine and plugin library: 0.308518648147583 ms
+Total preprocessing time: 0.028000831604003906
+Inference time: 0.04971170425415039 ms
+Postprocessing TIme: 0.23863601684570312
+Complete execution time for Engine and plugin library: 0.32087016105651855 ms
+Total preprocessing time: 0.02834630012512207
+Inference time: 0.04837656021118164 ms
+Postprocessing TIme: 0.24044466018676758
+Complete execution time for Engine and plugin library: 0.32164907455444336 ms
+Total preprocessing time: 0.028091907501220703
+Inference time: 0.04894375801086426 ms
+Postprocessing TIme: 0.2522246837615967
+Complete execution time for Engine and plugin library: 0.3337395191192627 ms
+Total preprocessing time: 0.028540849685668945
+Inference time: 0.049471378326416016 ms
+Postprocessing TIme: 0.2670907974243164
+Complete execution time for Engine and plugin library: 0.3495445251464844 ms
+Total preprocessing time: 0.0289461612701416
+Inference time: 0.04920840263366699 ms
+Postprocessing TIme: 0.2504556179046631
+Complete execution time for Engine and plugin library: 0.33312439918518066 ms
+Total preprocessing time: 0.030140161514282227
+Inference time: 0.049211978912353516 ms
+Postprocessing TIme: 0.2535688877105713
+Complete execution time for Engine and plugin library: 0.3381178379058838 ms
+Total preprocessing time: 0.029888153076171875
+Inference time: 0.04848766326904297 ms
+Postprocessing TIme: 0.2674226760864258
+Complete execution time for Engine and plugin library: 0.3510761260986328 ms
+Total preprocessing time: 0.028533935546875
+Inference time: 0.04929375648498535 ms
+Postprocessing TIme: 0.25629138946533203
+Complete execution time for Engine and plugin library: 0.3394455909729004 ms
+Total preprocessing time: 0.028604984283447266
+Inference time: 0.04922676086425781 ms
+Postprocessing TIme: 0.2513134479522705
+Complete execution time for Engine and plugin library: 0.33451342582702637 ms
+Total preprocessing time: 0.028372764587402344
+Inference time: 0.04907512664794922 ms
+Postprocessing TIme: 0.2740800380706787
+Complete execution time for Engine and plugin library: 0.35607171058654785 ms
+Total preprocessing time: 0.029642105102539062
+Inference time: 0.049172401428222656 ms
+Postprocessing TIme: 0.22984743118286133
+Complete execution time for Engine and plugin library: 0.3131520748138428 ms
+Total preprocessing time: 0.030234098434448242
+Inference time: 0.04937005043029785 ms
+Postprocessing TIme: 0.24808955192565918
+Complete execution time for Engine and plugin library: 0.3322598934173584 ms
+Total preprocessing time: 0.028652191162109375
+Inference time: 0.049407005310058594 ms
+Postprocessing TIme: 0.2650172710418701
+Complete execution time for Engine and plugin library: 0.3477287292480469 ms
+Total preprocessing time: 0.02857518196105957
+Inference time: 0.04884004592895508 ms
+Postprocessing TIme: 0.22600460052490234
+Complete execution time for Engine and plugin library: 0.30808258056640625 ms
+Total preprocessing time: 0.028067350387573242
+Inference time: 0.04906153678894043 ms
+Postprocessing TIme: 0.22907638549804688
+Complete execution time for Engine and plugin library: 0.3106682300567627 ms
+Total preprocessing time: 0.029908180236816406
+Inference time: 0.048429250717163086 ms
+Postprocessing TIme: 0.24310684204101562
+Complete execution time for Engine and plugin library: 0.32592320442199707 ms
+Total preprocessing time: 0.0280454158782959
+Inference time: 0.04873514175415039 ms
+Postprocessing TIme: 0.22373199462890625
+Complete execution time for Engine and plugin library: 0.3049650192260742 ms
+Total preprocessing time: 0.030183076858520508
+Inference time: 0.049985647201538086 ms
+Postprocessing TIme: 0.21156859397888184
+Complete execution time for Engine and plugin library: 0.29625654220581055 ms
+Total preprocessing time: 0.031191587448120117
+Inference time: 0.048528432846069336 ms
+Postprocessing TIme: 0.2593250274658203
+Complete execution time for Engine and plugin library: 0.3435490131378174 ms
+Total preprocessing time: 0.0292360782623291
+Inference time: 0.04985237121582031 ms
+Postprocessing TIme: 0.22375893592834473
+Complete execution time for Engine and plugin library: 0.3072855472564697 ms
+Total preprocessing time: 0.02909064292907715
+Inference time: 0.04870128631591797 ms
+Postprocessing TIme: 0.20758056640625
+Complete execution time for Engine and plugin library: 0.2898867130279541 ms
+Total preprocessing time: 0.02889728546142578
+Inference time: 0.049970388412475586 ms
+Postprocessing TIme: 0.2186439037322998
+Complete execution time for Engine and plugin library: 0.3020012378692627 ms
+Total preprocessing time: 0.027949094772338867
+Inference time: 0.05107545852661133 ms
+Postprocessing TIme: 0.2210862636566162
+Complete execution time for Engine and plugin library: 0.3049595355987549 ms
+Total preprocessing time: 0.02764606475830078
+Inference time: 0.0520169734954834 ms
+Postprocessing TIme: 0.20856571197509766
+Complete execution time for Engine and plugin library: 0.2928497791290283 ms
+Total preprocessing time: 0.02778768539428711
+Inference time: 0.04892683029174805 ms
+Postprocessing TIme: 0.20705914497375488
+Complete execution time for Engine and plugin library: 0.28827452659606934 ms
+Total preprocessing time: 0.031288862228393555
+Inference time: 0.04787564277648926 ms
+Postprocessing TIme: 0.21781396865844727
+Complete execution time for Engine and plugin library: 0.3017604351043701 ms
+Total preprocessing time: 0.02876114845275879
+Inference time: 0.04997563362121582 ms
+Postprocessing TIme: 0.21505284309387207
+Complete execution time for Engine and plugin library: 0.298367977142334 ms
+Total preprocessing time: 0.027541399002075195
+Inference time: 0.05112814903259277 ms
+Postprocessing TIme: 0.231123685836792
+Complete execution time for Engine and plugin library: 0.31436586380004883 ms
+Total preprocessing time: 0.02892136573791504
+Inference time: 0.05017971992492676 ms
+Postprocessing TIme: 0.2274181842803955
+Complete execution time for Engine and plugin library: 0.3110828399658203 ms
+Total preprocessing time: 0.03215336799621582
+Inference time: 0.04967045783996582 ms
+Postprocessing TIme: 0.22736525535583496
+Complete execution time for Engine and plugin library: 0.313723087310791 ms
+Total preprocessing time: 0.029755115509033203
+Inference time: 0.049831390380859375 ms
+Postprocessing TIme: 0.22409701347351074
+Complete execution time for Engine and plugin library: 0.3083915710449219 ms
+Total preprocessing time: 0.028464794158935547
+Inference time: 0.04900383949279785 ms
+Postprocessing TIme: 0.22364377975463867
+Complete execution time for Engine and plugin library: 0.3056626319885254 ms
+Total preprocessing time: 0.028927326202392578
+Inference time: 0.04815506935119629 ms
+Postprocessing TIme: 0.22885680198669434
+Complete execution time for Engine and plugin library: 0.3106544017791748 ms
+Total preprocessing time: 0.028911352157592773
+Inference time: 0.05042266845703125 ms
+Postprocessing TIme: 0.21848464012145996
+Complete execution time for Engine and plugin library: 0.3024733066558838 ms
+Total preprocessing time: 0.02909708023071289
+Inference time: 0.049189090728759766 ms
+Postprocessing TIme: 0.223158597946167
+Complete execution time for Engine and plugin library: 0.3059711456298828 ms
+Total preprocessing time: 0.029243946075439453
+Inference time: 0.04857206344604492 ms
+Postprocessing TIme: 0.217970609664917
+Complete execution time for Engine and plugin library: 0.30034732818603516 ms
+Total preprocessing time: 0.029765844345092773
+Inference time: 0.048403263092041016 ms
+Postprocessing TIme: 0.22252297401428223
+Complete execution time for Engine and plugin library: 0.30525779724121094 ms
+Total preprocessing time: 0.029188156127929688
+Inference time: 0.04965782165527344 ms
+Postprocessing TIme: 0.2075047492980957
+Complete execution time for Engine and plugin library: 0.2909739017486572 ms
+Total preprocessing time: 0.028487205505371094
+Inference time: 0.04926180839538574 ms
+Postprocessing TIme: 0.21204519271850586
+Complete execution time for Engine and plugin library: 0.29453206062316895 ms
+Total preprocessing time: 0.031914710998535156
+Inference time: 0.049109458923339844 ms
+Postprocessing TIme: 0.20244383811950684
+Complete execution time for Engine and plugin library: 0.28801655769348145 ms
+Total preprocessing time: 0.028593063354492188
+Inference time: 0.04943680763244629 ms
+Postprocessing TIme: 0.22011542320251465
+Complete execution time for Engine and plugin library: 0.3027181625366211 ms
+Total preprocessing time: 0.02853536605834961
+Inference time: 0.04900765419006348 ms
+Postprocessing TIme: 0.2150115966796875
+Complete execution time for Engine and plugin library: 0.2971196174621582 ms
+Total preprocessing time: 0.028067350387573242
+Inference time: 0.04918408393859863 ms
+Postprocessing TIme: 0.13645243644714355
+Complete execution time for Engine and plugin library: 0.21801972389221191 ms
+Total preprocessing time: 0.028515338897705078
+Inference time: 0.04787039756774902 ms
+Postprocessing TIme: 0.2154836654663086
+Complete execution time for Engine and plugin library: 0.2965054512023926 ms
+Total preprocessing time: 0.028717756271362305
+Inference time: 0.04957318305969238 ms
+Postprocessing TIme: 0.22316718101501465
+Complete execution time for Engine and plugin library: 0.3060636520385742 ms
+Total preprocessing time: 0.02859044075012207
+Inference time: 0.04996991157531738 ms
+Postprocessing TIme: 0.21518945693969727
+Complete execution time for Engine and plugin library: 0.29854393005371094 ms
+Total preprocessing time: 0.02769017219543457
+Inference time: 0.051703453063964844 ms
+Postprocessing TIme: 0.20555734634399414
+Complete execution time for Engine and plugin library: 0.2897305488586426 ms
+Total preprocessing time: 0.028697490692138672
+Inference time: 0.049089670181274414 ms
+Postprocessing TIme: 0.2207937240600586
+Complete execution time for Engine and plugin library: 0.30317115783691406 ms
+Total preprocessing time: 0.028959035873413086
+Inference time: 0.049124956130981445 ms
+Postprocessing TIme: 0.2084977626800537
+Complete execution time for Engine and plugin library: 0.29116129875183105 ms
+Total preprocessing time: 0.028870820999145508
+Inference time: 0.05013561248779297 ms
+Postprocessing TIme: 0.23134350776672363
+Complete execution time for Engine and plugin library: 0.31498169898986816 ms
+Total preprocessing time: 0.028179645538330078
+Inference time: 0.04899859428405762 ms
+Postprocessing TIme: 0.2144010066986084
+Complete execution time for Engine and plugin library: 0.29617857933044434 ms
+Total preprocessing time: 0.030129671096801758
+Inference time: 0.04903006553649902 ms
+Postprocessing TIme: 0.21761679649353027
+Complete execution time for Engine and plugin library: 0.30133748054504395 ms
+Total preprocessing time: 0.0298311710357666
+Inference time: 0.04902172088623047 ms
+Postprocessing TIme: 0.23667573928833008
+Complete execution time for Engine and plugin library: 0.3201408386230469 ms
+Total preprocessing time: 0.03174090385437012
+Inference time: 0.048132896423339844 ms
+Postprocessing TIme: 0.2162189483642578
+Complete execution time for Engine and plugin library: 0.30074000358581543 ms
+Total preprocessing time: 0.03195619583129883
+Inference time: 0.048047542572021484 ms
+Postprocessing TIme: 0.24483156204223633
+Complete execution time for Engine and plugin library: 0.32943105697631836 ms
+Total preprocessing time: 0.03424263000488281
+Inference time: 0.04822993278503418 ms
+Postprocessing TIme: 0.26290059089660645
+Complete execution time for Engine and plugin library: 0.3501577377319336 ms
+Total preprocessing time: 0.0289914608001709
+Inference time: 0.05064129829406738 ms
+Postprocessing TIme: 0.25994205474853516
+Complete execution time for Engine and plugin library: 0.34418344497680664 ms
+Total preprocessing time: 0.029863357543945312
+Inference time: 0.05062365531921387 ms
+Postprocessing TIme: 0.24348902702331543
+Complete execution time for Engine and plugin library: 0.32868218421936035 ms
+Total preprocessing time: 0.029844999313354492
+Inference time: 0.04910540580749512 ms
+Postprocessing TIme: 0.2320394515991211
+Complete execution time for Engine and plugin library: 0.3154571056365967 ms
+Total preprocessing time: 0.031339168548583984
+Inference time: 0.04829120635986328 ms
+Postprocessing TIme: 0.20978474617004395
+Complete execution time for Engine and plugin library: 0.2941770553588867 ms
+Total preprocessing time: 0.03339338302612305
+Inference time: 0.049005985260009766 ms
+Postprocessing TIme: 0.21723151206970215
+Complete execution time for Engine and plugin library: 0.30417394638061523 ms
+Total preprocessing time: 0.029043197631835938
+Inference time: 0.05152463912963867 ms
+Postprocessing TIme: 0.20813298225402832
+Complete execution time for Engine and plugin library: 0.2931523323059082 ms
+Total preprocessing time: 0.03008580207824707
+Inference time: 0.05178022384643555 ms
+Postprocessing TIme: 0.21947646141052246
+Complete execution time for Engine and plugin library: 0.3059225082397461 ms
+Total preprocessing time: 0.029851198196411133
+Inference time: 0.051216840744018555 ms
+Postprocessing TIme: 0.21348977088928223
+Complete execution time for Engine and plugin library: 0.29906225204467773 ms
+Total preprocessing time: 0.028603315353393555
+Inference time: 0.05132126808166504 ms
+Postprocessing TIme: 0.20964336395263672
+Complete execution time for Engine and plugin library: 0.2941110134124756 ms
+Total preprocessing time: 0.02963113784790039
+Inference time: 0.04878520965576172 ms
+Postprocessing TIme: 0.23325753211975098
+Complete execution time for Engine and plugin library: 0.316331148147583 ms
+Total preprocessing time: 0.029908180236816406
+Inference time: 0.049028873443603516 ms
+Postprocessing TIme: 0.21802997589111328
+Complete execution time for Engine and plugin library: 0.30148863792419434 ms
+Total preprocessing time: 0.029645919799804688
+Inference time: 0.04976224899291992 ms
+Postprocessing TIme: 0.2101426124572754
+Complete execution time for Engine and plugin library: 0.294048547744751 ms
+Total preprocessing time: 0.029355287551879883
+Inference time: 0.04849529266357422 ms
+Postprocessing TIme: 0.2086806297302246
+Complete execution time for Engine and plugin library: 0.29113197326660156 ms
+Total preprocessing time: 0.02804088592529297
+Inference time: 0.04926919937133789 ms
+Postprocessing TIme: 0.2051684856414795
+Complete execution time for Engine and plugin library: 0.28701186180114746 ms
+Total preprocessing time: 0.02844691276550293
+Inference time: 0.04898786544799805 ms
+Postprocessing TIme: 0.20534038543701172
+Complete execution time for Engine and plugin library: 0.287200927734375 ms
+Total preprocessing time: 0.028452396392822266
+Inference time: 0.05185580253601074 ms
+Postprocessing TIme: 0.1419973373413086
+Complete execution time for Engine and plugin library: 0.22644519805908203 ms
+Total preprocessing time: 0.03063035011291504
+Inference time: 0.04807901382446289 ms
+Postprocessing TIme: 0.14039206504821777
+Complete execution time for Engine and plugin library: 0.22340965270996094 ms
+Total preprocessing time: 0.031222820281982422
+Inference time: 0.047991275787353516 ms
+Postprocessing TIme: 0.2220606803894043
+Complete execution time for Engine and plugin library: 0.3058347702026367 ms
+Total preprocessing time: 0.028656482696533203
+Inference time: 0.04967951774597168 ms
+Postprocessing TIme: 0.22075629234313965
+Complete execution time for Engine and plugin library: 0.3036651611328125 ms
+Total preprocessing time: 0.02783679962158203
+Inference time: 0.05135965347290039 ms
+Postprocessing TIme: 0.21605801582336426
+Complete execution time for Engine and plugin library: 0.29982423782348633 ms
+Total preprocessing time: 0.02821660041809082
+Inference time: 0.04925060272216797 ms
+Postprocessing TIme: 0.21674489974975586
+Complete execution time for Engine and plugin library: 0.29870176315307617 ms
+Total preprocessing time: 0.02806687355041504
+Inference time: 0.050356149673461914 ms
+Postprocessing TIme: 0.21645092964172363
+Complete execution time for Engine and plugin library: 0.2994084358215332 ms
+Total preprocessing time: 0.02870798110961914
+Inference time: 0.048316001892089844 ms
+Postprocessing TIme: 0.22148561477661133
+Complete execution time for Engine and plugin library: 0.3030407428741455 ms
+Total preprocessing time: 0.030650854110717773
+Inference time: 0.049761056900024414 ms
+Postprocessing TIme: 0.22481369972229004
+Complete execution time for Engine and plugin library: 0.30966615676879883 ms
+Total preprocessing time: 0.0284883975982666
+Inference time: 0.04937481880187988 ms
+Postprocessing TIme: 0.21094608306884766
+Complete execution time for Engine and plugin library: 0.2933177947998047 ms
+Total preprocessing time: 0.029675006866455078
+Inference time: 0.04931068420410156 ms
+Postprocessing TIme: 0.21303987503051758
+Complete execution time for Engine and plugin library: 0.296522855758667 ms
+Total preprocessing time: 0.028235435485839844
+Inference time: 0.04966545104980469 ms
+Postprocessing TIme: 0.23210835456848145
+Complete execution time for Engine and plugin library: 0.31452035903930664 ms
+Total preprocessing time: 0.0292661190032959
+Inference time: 0.04924273490905762 ms
+Postprocessing TIme: 0.21296429634094238
+Complete execution time for Engine and plugin library: 0.2959895133972168 ms
+Total preprocessing time: 0.028675079345703125
+Inference time: 0.05001997947692871 ms
+Postprocessing TIme: 0.20842504501342773
+Complete execution time for Engine and plugin library: 0.29161548614501953 ms
+Total preprocessing time: 0.028149843215942383
+Inference time: 0.05069708824157715 ms
+Postprocessing TIme: 0.22551560401916504
+Complete execution time for Engine and plugin library: 0.30883002281188965 ms
+Total preprocessing time: 0.029319047927856445
+Inference time: 0.04956173896789551 ms
+Postprocessing TIme: 0.21904397010803223
+Complete execution time for Engine and plugin library: 0.302356481552124 ms
+Total preprocessing time: 0.02848672866821289
+Inference time: 0.04940986633300781 ms
+Postprocessing TIme: 0.2019498348236084
+Complete execution time for Engine and plugin library: 0.2843165397644043 ms
+Total preprocessing time: 0.02851271629333496
+Inference time: 0.049097537994384766 ms
+Postprocessing TIme: 0.22770357131958008
+Complete execution time for Engine and plugin library: 0.3096630573272705 ms
+Total preprocessing time: 0.028110265731811523
+Inference time: 0.04993176460266113 ms
+Postprocessing TIme: 0.22173428535461426
+Complete execution time for Engine and plugin library: 0.304119348526001 ms
+Total preprocessing time: 0.028110504150390625
+Inference time: 0.04951786994934082 ms
+Postprocessing TIme: 0.2111988067626953
+Complete execution time for Engine and plugin library: 0.29325127601623535 ms
+Total preprocessing time: 0.028451919555664062
+Inference time: 0.049346923828125 ms
+Postprocessing TIme: 0.21889233589172363
+Complete execution time for Engine and plugin library: 0.3011958599090576 ms
+Total preprocessing time: 0.029202699661254883
+Inference time: 0.0484774112701416 ms
+Postprocessing TIme: 0.22072362899780273
+Complete execution time for Engine and plugin library: 0.3030681610107422 ms
+Total preprocessing time: 0.0285489559173584
+Inference time: 0.04996895790100098 ms
+Postprocessing TIme: 0.20387864112854004
+Complete execution time for Engine and plugin library: 0.2868928909301758 ms
+Total preprocessing time: 0.028908491134643555
+Inference time: 0.04816937446594238 ms
+Postprocessing TIme: 0.21185708045959473
+Complete execution time for Engine and plugin library: 0.2933807373046875 ms
+Total preprocessing time: 0.028382062911987305
+Inference time: 0.049431562423706055 ms
+Postprocessing TIme: 0.21973228454589844
+Complete execution time for Engine and plugin library: 0.30223512649536133 ms
+Total preprocessing time: 0.028065204620361328
+Inference time: 0.051294565200805664 ms
+Postprocessing TIme: 0.2092278003692627
+Complete execution time for Engine and plugin library: 0.29302549362182617 ms
+Total preprocessing time: 0.028709888458251953
+Inference time: 0.049180030822753906 ms
+Postprocessing TIme: 0.2035832405090332
+Complete execution time for Engine and plugin library: 0.28609323501586914 ms
+Total preprocessing time: 0.02865290641784668
+Inference time: 0.04842495918273926 ms
+Postprocessing TIme: 0.2257237434387207
+Complete execution time for Engine and plugin library: 0.30732059478759766 ms
+Total preprocessing time: 0.028692245483398438
+Inference time: 0.05001091957092285 ms
+Postprocessing TIme: 0.2152564525604248
+Complete execution time for Engine and plugin library: 0.2984285354614258 ms
+ya
