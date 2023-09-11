@@ -1,0 +1,1731 @@
+Total preprocessing time: 0.04340767860412598
+Inference time: 0.04106259346008301
+Postprocessing TIme: 0.0009541511535644531
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04144167900085449
+Inference time: 0.04094529151916504
+Postprocessing TIme: 0.000988006591796875
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04322504997253418
+Inference time: 0.041528940200805664
+Postprocessing TIme: 0.0011560916900634766
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044400691986083984
+Inference time: 0.041031837463378906
+Postprocessing TIme: 0.0011248588562011719
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042375802993774414
+Inference time: 0.04073953628540039
+Postprocessing TIme: 0.0010304450988769531
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043108224868774414
+Inference time: 0.04116630554199219
+Postprocessing TIme: 0.0012142658233642578
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 696, GPU 3392 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04287886619567871
+Inference time: 0.041113853454589844
+Postprocessing TIme: 0.0009968280792236328
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.046942949295043945
+Inference time: 0.04251551628112793
+Postprocessing TIme: 0.0010783672332763672
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04048728942871094
+Inference time: 0.0410618782043457
+Postprocessing TIme: 0.0009274482727050781
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:51:59] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0420994758605957
+Inference time: 0.041495323181152344
+Postprocessing TIme: 0.0010225772857666016
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04183626174926758
+Inference time: 0.04149746894836426
+Postprocessing TIme: 0.0009465217590332031
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0423130989074707
+Inference time: 0.04116654396057129
+Postprocessing TIme: 0.0009560585021972656
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04276847839355469
+Inference time: 0.041234731674194336
+Postprocessing TIme: 0.0009729862213134766
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3393 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043025970458984375
+Inference time: 0.04198193550109863
+Postprocessing TIme: 0.0009429454803466797
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042345523834228516
+Inference time: 0.04108905792236328
+Postprocessing TIme: 0.0012199878692626953
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0422055721282959
+Inference time: 0.04117441177368164
+Postprocessing TIme: 0.0009598731994628906
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04243588447570801
+Inference time: 0.041321754455566406
+Postprocessing TIme: 0.0010035037994384766
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04566478729248047
+Inference time: 0.04152417182922363
+Postprocessing TIme: 0.0011475086212158203
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:00] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043328285217285156
+Inference time: 0.04168200492858887
+Postprocessing TIme: 0.0009818077087402344
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04315781593322754
+Inference time: 0.04086017608642578
+Postprocessing TIme: 0.0009527206420898438
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0420989990234375
+Inference time: 0.04109930992126465
+Postprocessing TIme: 0.0011017322540283203
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04369163513183594
+Inference time: 0.041175127029418945
+Postprocessing TIme: 0.0011644363403320312
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04424428939819336
+Inference time: 0.04076361656188965
+Postprocessing TIme: 0.0010807514190673828
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04141068458557129
+Inference time: 0.041046142578125
+Postprocessing TIme: 0.0009915828704833984
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04547452926635742
+Inference time: 0.04114794731140137
+Postprocessing TIme: 0.0008990764617919922
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042069435119628906
+Inference time: 0.04100847244262695
+Postprocessing TIme: 0.0009834766387939453
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04216337203979492
+Inference time: 0.04097390174865723
+Postprocessing TIme: 0.00095367431640625
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:01] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041765451431274414
+Inference time: 0.041005611419677734
+Postprocessing TIme: 0.0010762214660644531
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04374051094055176
+Inference time: 0.04094505310058594
+Postprocessing TIme: 0.0011124610900878906
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04155421257019043
+Inference time: 0.04092884063720703
+Postprocessing TIme: 0.0009770393371582031
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04355645179748535
+Inference time: 0.0414738655090332
+Postprocessing TIme: 0.0009591579437255859
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04250621795654297
+Inference time: 0.04069662094116211
+Postprocessing TIme: 0.0009264945983886719
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04521346092224121
+Inference time: 0.04106736183166504
+Postprocessing TIme: 0.0009543895721435547
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042792320251464844
+Inference time: 0.0411992073059082
+Postprocessing TIme: 0.0009481906890869141
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.045601844787597656
+Inference time: 0.04114723205566406
+Postprocessing TIme: 0.0011143684387207031
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04226279258728027
+Inference time: 0.0407862663269043
+Postprocessing TIme: 0.0010466575622558594
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:02] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043584585189819336
+Inference time: 0.04140639305114746
+Postprocessing TIme: 0.0010843276977539062
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04305458068847656
+Inference time: 0.04176044464111328
+Postprocessing TIme: 0.0009503364562988281
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044363975524902344
+Inference time: 0.04158210754394531
+Postprocessing TIme: 0.0010552406311035156
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041147470474243164
+Inference time: 0.041934967041015625
+Postprocessing TIme: 0.0010340213775634766
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.047043800354003906
+Inference time: 0.04196763038635254
+Postprocessing TIme: 0.001172780990600586
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04204392433166504
+Inference time: 0.041675567626953125
+Postprocessing TIme: 0.0010037422180175781
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04346346855163574
+Inference time: 0.041297197341918945
+Postprocessing TIme: 0.001003265380859375
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04229903221130371
+Inference time: 0.0413966178894043
+Postprocessing TIme: 0.0009675025939941406
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042998552322387695
+Inference time: 0.04109644889831543
+Postprocessing TIme: 0.0009419918060302734
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:03] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044333696365356445
+Inference time: 0.04158377647399902
+Postprocessing TIme: 0.001043081283569336
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043673038482666016
+Inference time: 0.041815996170043945
+Postprocessing TIme: 0.0009508132934570312
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04460787773132324
+Inference time: 0.041541099548339844
+Postprocessing TIme: 0.0010137557983398438
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3394 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04259157180786133
+Inference time: 0.041532278060913086
+Postprocessing TIme: 0.0010597705841064453
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04412961006164551
+Inference time: 0.04176473617553711
+Postprocessing TIme: 0.0010476112365722656
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.046343088150024414
+Inference time: 0.041803598403930664
+Postprocessing TIme: 0.0010929107666015625
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04457283020019531
+Inference time: 0.04244565963745117
+Postprocessing TIme: 0.0009944438934326172
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0436098575592041
+Inference time: 0.04203486442565918
+Postprocessing TIme: 0.0016374588012695312
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04522061347961426
+Inference time: 0.041857242584228516
+Postprocessing TIme: 0.0010235309600830078
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:04] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04398536682128906
+Inference time: 0.0416867733001709
+Postprocessing TIme: 0.0010175704956054688
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.045526742935180664
+Inference time: 0.041603803634643555
+Postprocessing TIme: 0.0009667873382568359
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04363131523132324
+Inference time: 0.04196476936340332
+Postprocessing TIme: 0.0010271072387695312
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043504953384399414
+Inference time: 0.042310476303100586
+Postprocessing TIme: 0.0009644031524658203
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3395 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042951107025146484
+Inference time: 0.04100751876831055
+Postprocessing TIme: 0.0009565353393554688
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04395413398742676
+Inference time: 0.04169297218322754
+Postprocessing TIme: 0.0010917186737060547
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042017459869384766
+Inference time: 0.04117083549499512
+Postprocessing TIme: 0.0010373592376708984
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04606914520263672
+Inference time: 0.04105734825134277
+Postprocessing TIme: 0.0010712146759033203
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04205799102783203
+Inference time: 0.041498661041259766
+Postprocessing TIme: 0.0009975433349609375
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:05] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04491996765136719
+Inference time: 0.04172325134277344
+Postprocessing TIme: 0.0009531974792480469
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04298090934753418
+Inference time: 0.04094958305358887
+Postprocessing TIme: 0.000942230224609375
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04175090789794922
+Inference time: 0.04100990295410156
+Postprocessing TIme: 0.0010528564453125
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04357314109802246
+Inference time: 0.04167485237121582
+Postprocessing TIme: 0.0012445449829101562
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04245734214782715
+Inference time: 0.04152417182922363
+Postprocessing TIme: 0.0009684562683105469
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04344582557678223
+Inference time: 0.04144883155822754
+Postprocessing TIme: 0.0011935234069824219
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +1, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042083024978637695
+Inference time: 0.041007280349731445
+Postprocessing TIme: 0.0010721683502197266
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04257369041442871
+Inference time: 0.041100263595581055
+Postprocessing TIme: 0.0010976791381835938
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04335594177246094
+Inference time: 0.04289436340332031
+Postprocessing TIme: 0.0009911060333251953
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:06] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04188871383666992
+Inference time: 0.04163861274719238
+Postprocessing TIme: 0.0009889602661132812
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041971683502197266
+Inference time: 0.04122328758239746
+Postprocessing TIme: 0.0009558200836181641
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043515682220458984
+Inference time: 0.04167485237121582
+Postprocessing TIme: 0.0009672641754150391
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041918277740478516
+Inference time: 0.04175138473510742
+Postprocessing TIme: 0.0009531974792480469
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04399514198303223
+Inference time: 0.04183244705200195
+Postprocessing TIme: 0.001104593276977539
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04404163360595703
+Inference time: 0.04117989540100098
+Postprocessing TIme: 0.001033782958984375
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042058706283569336
+Inference time: 0.04115033149719238
+Postprocessing TIme: 0.0011336803436279297
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041518211364746094
+Inference time: 0.04174637794494629
+Postprocessing TIme: 0.0010085105895996094
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044879913330078125
+Inference time: 0.04252004623413086
+Postprocessing TIme: 0.0010232925415039062
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:07] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04533672332763672
+Inference time: 0.04133725166320801
+Postprocessing TIme: 0.0011463165283203125
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04452967643737793
+Inference time: 0.042024850845336914
+Postprocessing TIme: 0.0011606216430664062
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04336118698120117
+Inference time: 0.04144883155822754
+Postprocessing TIme: 0.0010485649108886719
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04267525672912598
+Inference time: 0.04259371757507324
+Postprocessing TIme: 0.0010268688201904297
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04470396041870117
+Inference time: 0.04103207588195801
+Postprocessing TIme: 0.001013040542602539
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04380440711975098
+Inference time: 0.041655778884887695
+Postprocessing TIme: 0.0010182857513427734
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0417943000793457
+Inference time: 0.041497230529785156
+Postprocessing TIme: 0.0010104179382324219
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04275393486022949
+Inference time: 0.04153633117675781
+Postprocessing TIme: 0.000957489013671875
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04345107078552246
+Inference time: 0.04156064987182617
+Postprocessing TIme: 0.000926971435546875
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:08] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04758334159851074
+Inference time: 0.04172635078430176
+Postprocessing TIme: 0.0011534690856933594
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0423276424407959
+Inference time: 0.04179811477661133
+Postprocessing TIme: 0.0010402202606201172
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04449105262756348
+Inference time: 0.042078495025634766
+Postprocessing TIme: 0.0011205673217773438
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04160594940185547
+Inference time: 0.04107522964477539
+Postprocessing TIme: 0.0009746551513671875
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04235386848449707
+Inference time: 0.04172539710998535
+Postprocessing TIme: 0.0009541511535644531
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04249858856201172
+Inference time: 0.04145002365112305
+Postprocessing TIme: 0.0009455680847167969
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042522430419921875
+Inference time: 0.04183197021484375
+Postprocessing TIme: 0.0009701251983642578
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +1, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04536747932434082
+Inference time: 0.04200100898742676
+Postprocessing TIme: 0.0009751319885253906
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04427742958068848
+Inference time: 0.04212594032287598
+Postprocessing TIme: 0.0010752677917480469
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:09] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04349255561828613
+Inference time: 0.04272747039794922
+Postprocessing TIme: 0.0009539127349853516
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04257011413574219
+Inference time: 0.04152560234069824
+Postprocessing TIme: 0.0010263919830322266
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041785478591918945
+Inference time: 0.04105830192565918
+Postprocessing TIme: 0.0010898113250732422
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04491448402404785
+Inference time: 0.04268169403076172
+Postprocessing TIme: 0.0010256767272949219
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04439377784729004
+Inference time: 0.041686296463012695
+Postprocessing TIme: 0.0010502338409423828
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043207645416259766
+Inference time: 0.04235267639160156
+Postprocessing TIme: 0.00091552734375
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04264545440673828
+Inference time: 0.041567325592041016
+Postprocessing TIme: 0.00095367431640625
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04353642463684082
+Inference time: 0.04152989387512207
+Postprocessing TIme: 0.0010135173797607422
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04755902290344238
+Inference time: 0.04126596450805664
+Postprocessing TIme: 0.001165628433227539
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:10] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044171810150146484
+Inference time: 0.04171252250671387
+Postprocessing TIme: 0.0011401176452636719
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043784379959106445
+Inference time: 0.04177737236022949
+Postprocessing TIme: 0.0010111331939697266
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04595160484313965
+Inference time: 0.04210996627807617
+Postprocessing TIme: 0.001001596450805664
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04326200485229492
+Inference time: 0.042224884033203125
+Postprocessing TIme: 0.0009531974792480469
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3397 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04303789138793945
+Inference time: 0.0408320426940918
+Postprocessing TIme: 0.0010709762573242188
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3396 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04252147674560547
+Inference time: 0.04140424728393555
+Postprocessing TIme: 0.0011439323425292969
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04650473594665527
+Inference time: 0.04214000701904297
+Postprocessing TIme: 0.0010786056518554688
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04275679588317871
+Inference time: 0.042165279388427734
+Postprocessing TIme: 0.0009365081787109375
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0440983772277832
+Inference time: 0.04197192192077637
+Postprocessing TIme: 0.0009856224060058594
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:11] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.045899152755737305
+Inference time: 0.04139280319213867
+Postprocessing TIme: 0.0010023117065429688
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04297637939453125
+Inference time: 0.042574405670166016
+Postprocessing TIme: 0.0009834766387939453
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042403459548950195
+Inference time: 0.0412449836730957
+Postprocessing TIme: 0.0015723705291748047
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04419875144958496
+Inference time: 0.04113912582397461
+Postprocessing TIme: 0.0009438991546630859
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04299044609069824
+Inference time: 0.041471004486083984
+Postprocessing TIme: 0.0009720325469970703
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043776512145996094
+Inference time: 0.0424351692199707
+Postprocessing TIme: 0.0009219646453857422
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042903900146484375
+Inference time: 0.04142141342163086
+Postprocessing TIme: 0.001035451889038086
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04211163520812988
+Inference time: 0.041280269622802734
+Postprocessing TIme: 0.0009539127349853516
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043084144592285156
+Inference time: 0.041669607162475586
+Postprocessing TIme: 0.0009520053863525391
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:12] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04463338851928711
+Inference time: 0.0411376953125
+Postprocessing TIme: 0.0009670257568359375
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04397106170654297
+Inference time: 0.04155540466308594
+Postprocessing TIme: 0.0010900497436523438
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04085493087768555
+Inference time: 0.04228615760803223
+Postprocessing TIme: 0.001018524169921875
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04350090026855469
+Inference time: 0.0413212776184082
+Postprocessing TIme: 0.0010900497436523438
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3398 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04566240310668945
+Inference time: 0.04196572303771973
+Postprocessing TIme: 0.0009675025939941406
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04304313659667969
+Inference time: 0.04236292839050293
+Postprocessing TIme: 0.0009405612945556641
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042028188705444336
+Inference time: 0.041520118713378906
+Postprocessing TIme: 0.0009479522705078125
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04539752006530762
+Inference time: 0.04244494438171387
+Postprocessing TIme: 0.0010037422180175781
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04339861869812012
+Inference time: 0.041213035583496094
+Postprocessing TIme: 0.0010302066802978516
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:13] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04302573204040527
+Inference time: 0.04154038429260254
+Postprocessing TIme: 0.0010323524475097656
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04302263259887695
+Inference time: 0.041333913803100586
+Postprocessing TIme: 0.0011827945709228516
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04290890693664551
+Inference time: 0.041597604751586914
+Postprocessing TIme: 0.000978708267211914
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04207730293273926
+Inference time: 0.04114818572998047
+Postprocessing TIme: 0.0009808540344238281
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04490375518798828
+Inference time: 0.041541099548339844
+Postprocessing TIme: 0.0009298324584960938
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043822288513183594
+Inference time: 0.041756391525268555
+Postprocessing TIme: 0.001071929931640625
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0409393310546875
+Inference time: 0.04189944267272949
+Postprocessing TIme: 0.0009691715240478516
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04220986366271973
+Inference time: 0.04075813293457031
+Postprocessing TIme: 0.0009810924530029297
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043257713317871094
+Inference time: 0.04193735122680664
+Postprocessing TIme: 0.0009462833404541016
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:14] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04245138168334961
+Inference time: 0.04134106636047363
+Postprocessing TIme: 0.0009832382202148438
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042304039001464844
+Inference time: 0.041473388671875
+Postprocessing TIme: 0.001003265380859375
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04256606101989746
+Inference time: 0.0422673225402832
+Postprocessing TIme: 0.0009551048278808594
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04175114631652832
+Inference time: 0.04149913787841797
+Postprocessing TIme: 0.0009505748748779297
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04433274269104004
+Inference time: 0.0411686897277832
+Postprocessing TIme: 0.0009598731994628906
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04406142234802246
+Inference time: 0.04225516319274902
+Postprocessing TIme: 0.0009706020355224609
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04188418388366699
+Inference time: 0.04107379913330078
+Postprocessing TIme: 0.0009567737579345703
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04339265823364258
+Inference time: 0.04153871536254883
+Postprocessing TIme: 0.0013141632080078125
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04227042198181152
+Inference time: 0.041310787200927734
+Postprocessing TIme: 0.0009846687316894531
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:15] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04392743110656738
+Inference time: 0.04147982597351074
+Postprocessing TIme: 0.0009615421295166016
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04378509521484375
+Inference time: 0.042815446853637695
+Postprocessing TIme: 0.0010557174682617188
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04387378692626953
+Inference time: 0.04125857353210449
+Postprocessing TIme: 0.0010581016540527344
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04424786567687988
+Inference time: 0.04161262512207031
+Postprocessing TIme: 0.0011401176452636719
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04308605194091797
+Inference time: 0.04274487495422363
+Postprocessing TIme: 0.0009558200836181641
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04526019096374512
+Inference time: 0.04209423065185547
+Postprocessing TIme: 0.0010914802551269531
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04512357711791992
+Inference time: 0.04183840751647949
+Postprocessing TIme: 0.0010480880737304688
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04369091987609863
+Inference time: 0.04201555252075195
+Postprocessing TIme: 0.0009949207305908203
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04231739044189453
+Inference time: 0.041445255279541016
+Postprocessing TIme: 0.0011608600616455078
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:16] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04321169853210449
+Inference time: 0.041419267654418945
+Postprocessing TIme: 0.0009493827819824219
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04201054573059082
+Inference time: 0.04125499725341797
+Postprocessing TIme: 0.0009922981262207031
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3399 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042665719985961914
+Inference time: 0.04114031791687012
+Postprocessing TIme: 0.0009253025054931641
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04210042953491211
+Inference time: 0.04147529602050781
+Postprocessing TIme: 0.0009565353393554688
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04601550102233887
+Inference time: 0.041604042053222656
+Postprocessing TIme: 0.0010199546813964844
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0647420883178711
+Inference time: 0.04198122024536133
+Postprocessing TIme: 0.0010845661163330078
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0452122688293457
+Inference time: 0.04194355010986328
+Postprocessing TIme: 0.0010449886322021484
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042198896408081055
+Inference time: 0.04134798049926758
+Postprocessing TIme: 0.0009877681732177734
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0441126823425293
+Inference time: 0.041245460510253906
+Postprocessing TIme: 0.0009598731994628906
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:17] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042925357818603516
+Inference time: 0.04133915901184082
+Postprocessing TIme: 0.000934600830078125
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043723106384277344
+Inference time: 0.041938066482543945
+Postprocessing TIme: 0.001001596450805664
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04220843315124512
+Inference time: 0.04146146774291992
+Postprocessing TIme: 0.0009725093841552734
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04248952865600586
+Inference time: 0.04133319854736328
+Postprocessing TIme: 0.0009303092956542969
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04173612594604492
+Inference time: 0.04183626174926758
+Postprocessing TIme: 0.0010149478912353516
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044614553451538086
+Inference time: 0.042144775390625
+Postprocessing TIme: 0.0009708404541015625
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041820526123046875
+Inference time: 0.04157829284667969
+Postprocessing TIme: 0.0009813308715820312
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04452943801879883
+Inference time: 0.041007280349731445
+Postprocessing TIme: 0.0009779930114746094
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04107809066772461
+Inference time: 0.04133176803588867
+Postprocessing TIme: 0.0009577274322509766
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:18] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04403877258300781
+Inference time: 0.04164624214172363
+Postprocessing TIme: 0.0010209083557128906
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04480147361755371
+Inference time: 0.04169440269470215
+Postprocessing TIme: 0.0010247230529785156
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04279303550720215
+Inference time: 0.04117894172668457
+Postprocessing TIme: 0.0010673999786376953
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04222583770751953
+Inference time: 0.04117631912231445
+Postprocessing TIme: 0.0012128353118896484
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04559779167175293
+Inference time: 0.04082059860229492
+Postprocessing TIme: 0.0009992122650146484
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04240822792053223
+Inference time: 0.040782928466796875
+Postprocessing TIme: 0.001116037368774414
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04422497749328613
+Inference time: 0.04127621650695801
+Postprocessing TIme: 0.0009520053863525391
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044176340103149414
+Inference time: 0.04145097732543945
+Postprocessing TIme: 0.0010693073272705078
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04306221008300781
+Inference time: 0.041600704193115234
+Postprocessing TIme: 0.0010287761688232422
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:19] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04204988479614258
+Inference time: 0.04119157791137695
+Postprocessing TIme: 0.0010335445404052734
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043726205825805664
+Inference time: 0.04160165786743164
+Postprocessing TIme: 0.0010950565338134766
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04399275779724121
+Inference time: 0.0416865348815918
+Postprocessing TIme: 0.0009610652923583984
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04256272315979004
+Inference time: 0.04193258285522461
+Postprocessing TIme: 0.0009672641754150391
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0440363883972168
+Inference time: 0.04114723205566406
+Postprocessing TIme: 0.0009357929229736328
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04347109794616699
+Inference time: 0.04101443290710449
+Postprocessing TIme: 0.0009403228759765625
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04214739799499512
+Inference time: 0.04098629951477051
+Postprocessing TIme: 0.0010080337524414062
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04227876663208008
+Inference time: 0.041631221771240234
+Postprocessing TIme: 0.0009105205535888672
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041875362396240234
+Inference time: 0.04109072685241699
+Postprocessing TIme: 0.0011150836944580078
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:20] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04445910453796387
+Inference time: 0.04145359992980957
+Postprocessing TIme: 0.0010654926300048828
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04334855079650879
+Inference time: 0.04144644737243652
+Postprocessing TIme: 0.0010406970977783203
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04399561882019043
+Inference time: 0.042285919189453125
+Postprocessing TIme: 0.0012145042419433594
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04340004920959473
+Inference time: 0.04135894775390625
+Postprocessing TIme: 0.0009198188781738281
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04506492614746094
+Inference time: 0.04239320755004883
+Postprocessing TIme: 0.0010294914245605469
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04271960258483887
+Inference time: 0.04120278358459473
+Postprocessing TIme: 0.0009601116180419922
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04324150085449219
+Inference time: 0.04159879684448242
+Postprocessing TIme: 0.0010840892791748047
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04169726371765137
+Inference time: 0.04058408737182617
+Postprocessing TIme: 0.0009489059448242188
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04300284385681152
+Inference time: 0.041727304458618164
+Postprocessing TIme: 0.0009818077087402344
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:21] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04229569435119629
+Inference time: 0.04119396209716797
+Postprocessing TIme: 0.0009548664093017578
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04297637939453125
+Inference time: 0.04201531410217285
+Postprocessing TIme: 0.0009477138519287109
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04313325881958008
+Inference time: 0.04076957702636719
+Postprocessing TIme: 0.0009572505950927734
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04369378089904785
+Inference time: 0.04171037673950195
+Postprocessing TIme: 0.0010101795196533203
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04361248016357422
+Inference time: 0.04150795936584473
+Postprocessing TIme: 0.0009534358978271484
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04516911506652832
+Inference time: 0.041680335998535156
+Postprocessing TIme: 0.0009119510650634766
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04274415969848633
+Inference time: 0.04159855842590332
+Postprocessing TIme: 0.001068115234375
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042722225189208984
+Inference time: 0.041047096252441406
+Postprocessing TIme: 0.0010170936584472656
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042298316955566406
+Inference time: 0.04132485389709473
+Postprocessing TIme: 0.0010752677917480469
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:22] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043109893798828125
+Inference time: 0.04279971122741699
+Postprocessing TIme: 0.0009577274322509766
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04354405403137207
+Inference time: 0.04155898094177246
+Postprocessing TIme: 0.0011284351348876953
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04446697235107422
+Inference time: 0.04182910919189453
+Postprocessing TIme: 0.0009369850158691406
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3401 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04299283027648926
+Inference time: 0.04156780242919922
+Postprocessing TIme: 0.0010402202606201172
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04480767250061035
+Inference time: 0.04155707359313965
+Postprocessing TIme: 0.0009758472442626953
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043541908264160156
+Inference time: 0.041356563568115234
+Postprocessing TIme: 0.001073598861694336
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04317188262939453
+Inference time: 0.04133319854736328
+Postprocessing TIme: 0.0010533332824707031
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04379081726074219
+Inference time: 0.04091382026672363
+Postprocessing TIme: 0.0009808540344238281
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04303312301635742
+Inference time: 0.04192090034484863
+Postprocessing TIme: 0.0011835098266601562
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:23] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04159951210021973
+Inference time: 0.040574073791503906
+Postprocessing TIme: 0.0009589195251464844
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041751861572265625
+Inference time: 0.04129314422607422
+Postprocessing TIme: 0.0009751319885253906
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04269051551818848
+Inference time: 0.041178226470947266
+Postprocessing TIme: 0.001043081283569336
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042366743087768555
+Inference time: 0.041120052337646484
+Postprocessing TIme: 0.0011494159698486328
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04212045669555664
+Inference time: 0.040841102600097656
+Postprocessing TIme: 0.0011436939239501953
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042345523834228516
+Inference time: 0.041001319885253906
+Postprocessing TIme: 0.0010745525360107422
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04393291473388672
+Inference time: 0.04143810272216797
+Postprocessing TIme: 0.0012285709381103516
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04521059989929199
+Inference time: 0.041362762451171875
+Postprocessing TIme: 0.001066446304321289
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043360233306884766
+Inference time: 0.04094099998474121
+Postprocessing TIme: 0.0011649131774902344
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:24] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04511308670043945
+Inference time: 0.04146385192871094
+Postprocessing TIme: 0.0009717941284179688
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04311513900756836
+Inference time: 0.04068160057067871
+Postprocessing TIme: 0.0010843276977539062
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04330897331237793
+Inference time: 0.0418851375579834
+Postprocessing TIme: 0.0009806156158447266
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04432392120361328
+Inference time: 0.04157710075378418
+Postprocessing TIme: 0.0009248256683349609
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04424333572387695
+Inference time: 0.04163813591003418
+Postprocessing TIme: 0.0009210109710693359
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04432940483093262
+Inference time: 0.04165244102478027
+Postprocessing TIme: 0.0010688304901123047
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0417177677154541
+Inference time: 0.04094123840332031
+Postprocessing TIme: 0.0011510848999023438
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.045995235443115234
+Inference time: 0.04197955131530762
+Postprocessing TIme: 0.0009891986846923828
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04327893257141113
+Inference time: 0.04182577133178711
+Postprocessing TIme: 0.0009310245513916016
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:25] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04397225379943848
+Inference time: 0.04198336601257324
+Postprocessing TIme: 0.0011091232299804688
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04376411437988281
+Inference time: 0.04119300842285156
+Postprocessing TIme: 0.0010035037994384766
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04304790496826172
+Inference time: 0.04256153106689453
+Postprocessing TIme: 0.0009877681732177734
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041214942932128906
+Inference time: 0.04135322570800781
+Postprocessing TIme: 0.0010783672332763672
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04321908950805664
+Inference time: 0.04141688346862793
+Postprocessing TIme: 0.0010802745819091797
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04317212104797363
+Inference time: 0.04134559631347656
+Postprocessing TIme: 0.0009331703186035156
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042487144470214844
+Inference time: 0.041436195373535156
+Postprocessing TIme: 0.0010976791381835938
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04341602325439453
+Inference time: 0.0413210391998291
+Postprocessing TIme: 0.0011434555053710938
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04395174980163574
+Inference time: 0.04124593734741211
+Postprocessing TIme: 0.0010342597961425781
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:26] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04285287857055664
+Inference time: 0.040947675704956055
+Postprocessing TIme: 0.001031637191772461
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04331183433532715
+Inference time: 0.04164266586303711
+Postprocessing TIme: 0.00098419189453125
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04159140586853027
+Inference time: 0.04159069061279297
+Postprocessing TIme: 0.0009582042694091797
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04437088966369629
+Inference time: 0.04174351692199707
+Postprocessing TIme: 0.0011386871337890625
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04238104820251465
+Inference time: 0.04064583778381348
+Postprocessing TIme: 0.00093841552734375
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042533159255981445
+Inference time: 0.04100799560546875
+Postprocessing TIme: 0.0009479522705078125
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042118072509765625
+Inference time: 0.04108929634094238
+Postprocessing TIme: 0.0011334419250488281
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04369759559631348
+Inference time: 0.040854454040527344
+Postprocessing TIme: 0.000982046127319336
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.046280622482299805
+Inference time: 0.04127979278564453
+Postprocessing TIme: 0.0009450912475585938
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:27] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04119372367858887
+Inference time: 0.04178047180175781
+Postprocessing TIme: 0.0009546279907226562
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04259538650512695
+Inference time: 0.04084515571594238
+Postprocessing TIme: 0.0010094642639160156
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04471778869628906
+Inference time: 0.04238009452819824
+Postprocessing TIme: 0.0010230541229248047
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04440450668334961
+Inference time: 0.040636301040649414
+Postprocessing TIme: 0.0009696483612060547
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043199777603149414
+Inference time: 0.04073691368103027
+Postprocessing TIme: 0.0009393692016601562
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.041779279708862305
+Inference time: 0.040935516357421875
+Postprocessing TIme: 0.0009515285491943359
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.0422673225402832
+Inference time: 0.04098367691040039
+Postprocessing TIme: 0.0010178089141845703
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04563474655151367
+Inference time: 0.04104781150817871
+Postprocessing TIme: 0.0009763240814208984
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.047406673431396484
+Inference time: 0.04101228713989258
+Postprocessing TIme: 0.0009622573852539062
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:28] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044844627380371094
+Inference time: 0.04074382781982422
+Postprocessing TIme: 0.0009484291076660156
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.044185638427734375
+Inference time: 0.04140281677246094
+Postprocessing TIme: 0.0010373592376708984
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04177141189575195
+Inference time: 0.040984153747558594
+Postprocessing TIme: 0.0009672641754150391
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.045084238052368164
+Inference time: 0.0414888858795166
+Postprocessing TIme: 0.0009553432464599609
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04221916198730469
+Inference time: 0.04095005989074707
+Postprocessing TIme: 0.0010170936584472656
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043122053146362305
+Inference time: 0.04153752326965332
+Postprocessing TIme: 0.0009815692901611328
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04278564453125
+Inference time: 0.04085230827331543
+Postprocessing TIme: 0.0009541511535644531
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04297304153442383
+Inference time: 0.04104018211364746
+Postprocessing TIme: 0.0013053417205810547
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.042829275131225586
+Inference time: 0.041656494140625
+Postprocessing TIme: 0.0011501312255859375
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:29] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043599843978881836
+Inference time: 0.04133296012878418
+Postprocessing TIme: 0.0010776519775390625
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3403 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04340553283691406
+Inference time: 0.04087233543395996
+Postprocessing TIme: 0.0009942054748535156
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04567384719848633
+Inference time: 0.041374921798706055
+Postprocessing TIme: 0.0009663105010986328
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04148292541503906
+Inference time: 0.04120135307312012
+Postprocessing TIme: 0.000997781753540039
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04442930221557617
+Inference time: 0.0408167839050293
+Postprocessing TIme: 0.0010368824005126953
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04212617874145508
+Inference time: 0.04076957702636719
+Postprocessing TIme: 0.0011289119720458984
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04289603233337402
+Inference time: 0.04091024398803711
+Postprocessing TIme: 0.001024484634399414
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.043021202087402344
+Inference time: 0.04154825210571289
+Postprocessing TIme: 0.0009474754333496094
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04191255569458008
+Inference time: 0.04072976112365723
+Postprocessing TIme: 0.0010828971862792969
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuBLAS/cuBLASLt: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] Init cuDNN: CPU +0, GPU +0, now: CPU 697, GPU 3405 (MiB)
+[09/11/2023-11:52:30] [TRT] [I] [MemUsageChange] TensorRT-managed allocation in IExecutionContext creation: CPU +0, GPU +20, now: CPU 0, GPU 45 (MiB)
+Total preprocessing time: 0.04461956024169922
+Inference time: 0.042526960372924805
+Postprocessing TIme: 0.0009877681732177734
