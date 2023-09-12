@@ -1,4 +1,4 @@
-Instance Creation time for Engine and plugin library: 14.20060658454895 ms
+Instance Creation time for Engine and plugin library: 14.20060658454895 s
 Line 1: 0.0001533031463623047
 Line 2: 5.054473876953125e-05
 Line 3: 1.9073486328125e-06
