@@ -604,6 +604,7 @@ try:
 
         # If the batch size reaches 10 frames, process the batch
         if len(frame_batch) == 10:
+            process_frame_batch(frame_batch)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
