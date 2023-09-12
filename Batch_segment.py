@@ -564,6 +564,17 @@ class Colors:
 
 frame_batch = []
 
+PLUGIN_LIBRARY = "yolov5/build/libmyplugins.so"
+engine_file_path = "Seg/best_seg.engine"
+if len(sys.argv) > 1:
+    engine_file_path = sys.argv[1]
+if len(sys.argv) > 2:
+    PLUGIN_LIBRARY = sys.argv[2]
+ctypes.CDLL(PLUGIN_LIBRARY)
+
+categories = ["Footpath","Road"]
+yolov5_wrapper = YoLov5TRT(engine_file_path)
+
 def process_frame_batch(batch):
     # Perform inference on the batch
     result_images, use_time = yolov5_wrapper.infer(batch)
@@ -575,9 +586,12 @@ def process_frame_batch(batch):
     # Clear the frame batch
     del batch[:]
 
+
+
 # Open a video capture object
 video_path = "videos/Input_fp_1.mp4"  # Replace with your video file path
 cap = cv2.VideoCapture(video_path)
+ 
 
 try:
     while cap.isOpened():
@@ -590,7 +604,6 @@ try:
 
         # If the batch size reaches 10 frames, process the batch
         if len(frame_batch) == 10:
-            process_frame_batch(frame_batch)
 
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
