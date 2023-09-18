@@ -1,5 +1,5 @@
 """
-An example that uses TensorRT's Python api to make inferences.
+An example that uses TensorRT's Python API to make inferences.
 """
 import os
 import shutil
@@ -15,6 +15,12 @@ import tensorrt as trt
 
 
 def get_img_path_batches(batch_size, img_dir):
+    """
+    description: Get batches of image paths from a directory.
+    input: batch_size (int) - The batch size.
+           img_dir (str) - The directory containing the images.
+    output: List of lists, where each inner list contains image paths for a batch.
+    """
     ret = []
     batch = []
     for root, dirs, files in os.walk(img_dir):
@@ -27,16 +33,12 @@ def get_img_path_batches(batch_size, img_dir):
         ret.append(batch)
     return ret
 
-'''
-with open("imagenet_classes.txt") as f:
-    classes = [line.strip() for line in f.readlines()]
-    #print(classes)
-'''
-classes = ['Footpath','Road','Other']
+classes = ['Footpath', 'Road', 'Other']
 
-class YoLov5TRT(object):
+
+class CustomYoloClass(object):
     """
-    description: A YOLOv5 class that warps TensorRT ops, preprocess and postprocess ops.
+    description: A YOLOv5 class that wraps TensorRT ops, preprocess, and postprocess ops.
     """
 
     def __init__(self, engine_file_path):
@@ -91,6 +93,12 @@ class YoLov5TRT(object):
         self.batch_size = engine.max_batch_size
 
     def infer(self, raw_image_generator):
+        """
+        description: Perform inference on a batch of raw images.
+        input: raw_image_generator (generator) - A generator that yields raw images.
+        output: batch_image_raw (list) - A list of processed images.
+                time_taken (float) - Inference time in seconds.
+        """
         threading.Thread.__init__(self)
         # Make self the active context, pushing it on top of the context stack.
         self.ctx.push()
@@ -145,14 +153,17 @@ class YoLov5TRT(object):
 
     def get_raw_image(self, image_path_batch):
         """
-        description: Read an image from image path
+        description: Read an image from image path.
+        input: image_path_batch (list) - List of image paths.
+        output: Generator that yields raw images.
         """
         for img_path in image_path_batch:
             yield cv2.imread(img_path)
 
     def get_raw_image_zeros(self, image_path_batch=None):
         """
-        description: Ready data for warmup
+        description: Ready data for warmup.
+        output: Generator that yields zero images.
         """
         for _ in range(self.batch_size):
             yield np.zeros([self.input_h, self.input_w, 3], dtype=np.uint8)
@@ -216,45 +227,42 @@ class warmUpThread(threading.Thread):
             'warm_up->{}, time->{:.2f}ms'.format(batch_image_raw[0].shape, use_time * 1000))
 
 
-
-#engine_file_path = "Cls/yolov5n-cls.engine"
 engine_file_path = "Cls/best.engine"
 
-yolov5_wrapper = YoLov5TRT(engine_file_path)
+yolov5_wrapper = CustomYoloClass(engine_file_path)
 
 cap = cv2.VideoCapture('videos/Input_fp_1.mp4')
-#cap = cv2.VideoCapture(0,cv2.CAP_V4L2)
-cap.set(cv2.CAP_PROP_FRAME_WIDTH,640)
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT,640)
+cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 640)
 
 try:
-  while cap.isOpened():
-    tr = time.time()
+    while cap.isOpened():
+        tr = time.time()
 
-    ret, frame = cap.read()
-    
-    height = frame.shape[0]
-    cropped = frame[int(height/2):]
-    cropped = cv2.resize(cropped, (640,640))
-    
-    tr2 = time.time()
-    print(f'{tr2-tr} ?')
-    if not ret:
-      break
-    # Resize the frame if needed
-    #frame = cv2.resize(frame, (640,640))
-    # Perform inference on the current frame
-    t1 = time.time()
-    result_image, use_time = yolov5_wrapper.infer([cropped])
-    t2 = time.time()
-    print(use_time)
-    print(f'{t2-t1} sec')
-    # Display or save the processed frame
-    cv2.imshow("Result", result_image[0])
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-      break
+        ret, frame = cap.read()
+
+        height = frame.shape[0]
+        cropped = frame[int(height / 2):]
+        cropped = cv2.resize(cropped, (640, 640))
+
+        tr2 = time.time()
+        print(f'{tr2-tr} ?')
+        if not ret:
+            break
+        # Resize the frame if needed
+        # frame = cv2.resize(frame, (640,640))
+        # Perform inference on the current frame
+        t1 = time.time()
+        result_image, use_time = yolov5_wrapper.infer([cropped])
+        t2 = time.time()
+        print(use_time)
+        print(f'{t2-t1} sec')
+        # Display or save the processed frame
+        cv2.imshow("Result", result_image[0])
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
 
 finally:
-  cap.release()
-  cv2.destroyAllWindows()
-  yolov5_wrapper.destroy()
+    cap.release()
+    cv2.destroyAllWindows()
+    yolov5_wrapper.destroy()
